@@ -10,3 +10,5 @@
 目前，尚处于第二阶段，欢迎提交 [Pull Request](https://github.com/awxiaoxian2020/NETEMVocabulary/pulls).
 
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/LICENSE).
+
+[金山在线文档](https://kdocs.cn/l/cgu8LDwkW6sm)
