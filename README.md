@@ -7,6 +7,6 @@
 - 第三阶段：发布 beta 版本，人工校对符合考试要求的释义
 - 第四阶段：正式发布 PDF 版本
 
-目前，尚处于第一阶段，欢迎提交 Pull Request.
+目前，尚处于第二阶段，欢迎提交 Pull Request.
 
 本仓库基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享。
