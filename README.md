@@ -4,14 +4,16 @@
 
 排序使用了词形还原策略，所以与实际试卷呈现略有差异。
 
-单词释义来自百度翻译 API。
+单词释义未经人工校对，略有瑕疵。
 
-前 2444 个单词出现 40 次以上，即平均每做 5 套试卷就能遇到一次的这些单词的词义经过了人工的粗略校对。其余单词的词义校对工作尚未有计划进行。
+前 2444 个单词出现 40 次以上，即平均每做 5 套试卷就能遇到一次的这些单词即为真正的**高频词汇**。
 
 异形词（即对考纲当中有多种写法的单词）由于数量庞大，尚未有意愿更新。
 
-[vocabulary.json](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.json) 中的词义未经人工校对。
+[vocabulary.json](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.json) 中的词义来自百度翻译 API。
 
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/LICENSE).
 
 去 [Release 页面](https://github.com/awxiaoxian2020/NETEMVocabulary/releases)下载 PDF 版本。
+
+使用 generate_doc.py 生成文档初版。
