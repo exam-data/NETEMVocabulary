@@ -24,8 +24,13 @@ for table in doc.tables:
             word_found = False
             for entry in data["5530考研词汇词频排序表"]:
                 if entry["单词"] == word:
+                    definition = entry["释义"]
+                    if(len(definition)>6 and definition.rfind("、")!=-1):
+                        # 找到倒数第一个顿号，在后面添加换行符
+                        index = definition.rfind("、")
+                        definition = definition[:index + 1] + "\n" + definition[index + 1:]
                     # 将 JSON 数据中的释义写入单词所在行的第四列（假设释义列是第四列）
-                    row.cells[3].text = entry["释义"]
+                    row.cells[3].text = definition
                     word_found = True
                     break
             if not word_found:
