@@ -1,0 +1,14 @@
+{
+  "name": "word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-mdict": "^5.0.2",
+    "jsdom": "^22.1.0"
+  }
+}
