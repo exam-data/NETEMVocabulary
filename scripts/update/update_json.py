@@ -4,7 +4,7 @@ import json
 with open("vocabulary.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
-doc = docx.Document('5530_v4.0.docx')
+doc = docx.Document('5530_v4.1.docx')
 
 # 遍历文档中的所有表格
 for table in doc.tables:
