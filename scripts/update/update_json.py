@@ -8,7 +8,6 @@ doc = docx.Document('5530_v4.1.docx')
 
 # 遍历文档中的所有表格
 for table in doc.tables:
-    # 假设单词列是第三列（从0开始数）
     for row in table.rows:
         # 跳过表头行
         if row.cells[0].text == '序号':
