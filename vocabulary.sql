@@ -1,4 +1,4 @@
-create table if not exists vocabulary
+create table vocabulary
 (
     id        int unsigned auto_increment
         primary key,
@@ -5450,6 +5450,7 @@ INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5438, 
 INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5439, 0, 'northwest', '西北', null);
 INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5440, 0, 'November', '十一月', null);
 INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5441, 0, 'oar', '桨', null);
+INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5442, 0, 'o\'clock', '点钟', null);
 INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5443, 0, 'October', '十月', null);
 INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5444, 0, 'odds', '可能性', null);
 INSERT INTO word.vocabulary (id, frequency, word, meaning, other) VALUES (5445, 0, 'ought to', '应该', null);
