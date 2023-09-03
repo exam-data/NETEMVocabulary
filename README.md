@@ -10,9 +10,9 @@
 
 每个单词有异形词（即考纲当中有多种写法的单词）的，计划将其在后面列出，以保证原始数据的准确性。由于数量庞大，尚未有意愿更新。
 
+目前正在开发对应的跨端小程序，见 [develop 分支](https://github.com/awxiaoxian2020/NETEMVocabulary/tree/develop)。
 
-[vocabulary.json](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.json) 里面存储了所有的数据。
-
+[vocabulary.json](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.sql)。
 
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/LICENSE).
 
