@@ -6,22 +6,17 @@ Page({
   },
   onLoad: function () {
     // 首次加载第一页数据
-    this.queryDataFromCloud(this.data.currentPage)
+    // this.queryDataFromCloud(this.data.currentPage)
   },
   queryDataFromCloud: function (page) {
     wx.cloud.callFunction({
       name: 'getAllWords', // 替换为你的云函数名称
       data: {
-        orderBy: '序号', // 替换为你的排序字段
         page: page // 传递当前页面参数
       },
       success: res => {
         console.log('查询结果：', res.result)
-        // const wordData = res.result[0]; // 获取单个数据
-        // this.setData({
-        //   wordList: wordData, // 更新数据
-        //   currentPage: page
-        // })
+
       },
       fail: err => {
         console.error('查询失败：', err)
@@ -37,7 +32,7 @@ Page({
   },
   goNextPage: function () {
     // 点击向后按钮
-    const nextPage = this.data.currentPage + 1;
+    const nextPage =  1;
     this.queryDataFromCloud(nextPage); // 获取下一页数据
   }
 })
