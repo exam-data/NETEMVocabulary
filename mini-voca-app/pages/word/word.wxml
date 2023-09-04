@@ -1,0 +1,12 @@
+<!--pages/word/word.wxml-->
+<!-- pages/index/index.wxml -->
+<view class="container">
+  <view class="word-container">
+    <text>{{ wordList.word }}</text>
+    <text>{{ wordList.definition }}</text>
+  </view>
+  <view class="button-container">
+    <button bindtap="goPreviousPage" disabled="{{ currentPage <= 1 }}">向前</button>
+    <button bindtap="goNextPage">向后</button>
+  </view>
+</view>

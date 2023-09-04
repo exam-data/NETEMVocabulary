@@ -1,0 +1,21 @@
+/* pages/word/word.wxss */
+/* pages/index/index.wxss */
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.button {
+  padding: 10px;
+  background-color: #007ACC;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
