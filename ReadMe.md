@@ -22,10 +22,10 @@
 
 ### 图片
 
-- 图1: 将范围合并过的 单词量-频率 一览图 ![Image1](images\image1.jpg)
-- 图2: 0-439的频率分布图 ![Image2](images\image2.jpg)
-- 图3: 全局的频率分布图 ![Image3](images\image3.jpg)
-- 图4: 格式化的表格 ![Image4](images\image4.jpg)
+- 图1: 将范围合并过的 单词量-频率 一览图 ![Image1](images/image1.jpg)
+- 图2: 0-439的频率分布图 ![Image2](images/image2.jpg)
+- 图3: 全局的频率分布图 ![Image3](images/image3.jpg)
+- 图4: 格式化的表格 ![Image4](images/image4.jpg)
 
 ## **两个程序的使用**
 > 需要vscode和python编译器的环境 
