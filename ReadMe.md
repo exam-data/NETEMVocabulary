@@ -2,7 +2,7 @@
 
 ## **数据来源**
 
-以下内容转载自原作者仓库https://github.com/awxiaoxian2020/NETEMVocabulary：
+以下内容转载自原作者仓库https://github.com/awxiaoxian2020/NETEMVocabulary
 
 > 经统计，在《2023年全国硕士研究生招生考试英语（一）考试大纲词汇表》中要求掌握的词汇共5530个，根据六四级、考研英语、四专八约200套试卷文本，按照试卷文本中出现的词频对词汇表进行排序。  
 
