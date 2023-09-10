@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "简易单词demo",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
