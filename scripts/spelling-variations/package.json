@@ -11,5 +11,8 @@
   },
   "author": "",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.6.1"
+  }
 }

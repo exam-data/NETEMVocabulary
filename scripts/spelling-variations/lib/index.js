@@ -2,6 +2,7 @@ import bypattern from './bypattern.js';
 import fs from 'fs';
 
 import path from 'path';
+import { exit } from 'process';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -14,11 +15,11 @@ function readJsonFile(filePath) {
     return JSON.parse(data);
   } catch (error) {
     console.error(`Error reading JSON file: ${error}`);
-    return null;
+    exit(-1);
   }
 }
 
-const bydictionary = readJsonFile(__dirname+'\\bydictionary.json');
+const bydictionary = readJsonFile(path.join(__dirname,'bydictionary.json'));
 
 class SpellingVariations {
   constructor(word) {
