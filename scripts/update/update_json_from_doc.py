@@ -4,7 +4,7 @@ import json
 with open("vocabulary.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
-doc = docx.Document('5530_v4.1.docx')
+doc = docx.Document('5530_v5.0.docx')
 
 # 遍历文档中的所有表格
 for table in doc.tables:
@@ -18,7 +18,8 @@ for table in doc.tables:
         if word.strip() != "":
             for entry in data["5530考研词汇词频排序表"]:
                 if entry["单词"] == word:
-                   entry["释义"] = row.cells[3].text.replace("\n", "") 
+                   entry["释义"] = row.cells[3].text.replace("\n", "")
+                   entry["异形词"] = row.cells[4].text 
         else:
             continue
         

@@ -33,7 +33,7 @@ def format_word(word):
 with open("vocabulary.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
-doc = docx.Document('5530_v4.1.docx')
+doc = docx.Document('5530_v4.5.docx')
 
 # 创建一个列表，用于存储未找到的单词
 not_found_words = []
@@ -53,10 +53,12 @@ for table in doc.tables:
             for entry in data["5530考研词汇词频排序表"]:
                 if entry["单词"] == word:
                     definition = entry["释义"]
+                    variant = entry["异形词"]
                     # 格式化释义
                     definition = format_word(definition)
                     # 将 JSON 数据中的释义写入单词所在行的第四列
-                    row.cells[3].text = definition
+                    # row.cells[3].text = definition
+                    row.cells[4].text = variant
                     word_found = True
                     break
             if not word_found:
@@ -76,4 +78,4 @@ for table in doc.tables:
                 paragraph.alignment = docx.enum.text.WD_ALIGN_PARAGRAPH.CENTER
 
 # 保存更新后的 Word 文档
-doc.save("updated_5530_v4.1.docx")
+doc.save("updated_5530_v4.5.docx")
