@@ -51,7 +51,6 @@ app.get("/", (req, res) => {
       }
     }
     res.end();
-connection.commit();
     // 关闭数据库连接
     connection.end((err) => {
       if (err) {
