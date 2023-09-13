@@ -6,9 +6,9 @@
 
 前 **2444** 个单词出现 **40** 次以上，即平均每做 **5** 套试卷就能遇到一次的这些单词即为真正的**高频词汇**。
 
-高频词汇的释义经过了人工校对，能够保证一定准确性。所选取释义均是最常见的释义，减轻不必要的机械记忆负担。
+高频词汇的释义经过了人工初步校对，其他单词选取使用频率总和大于 50% 的释义（数据来自 [the little dict](http://louischeung.top:225/mdict%E8%AF%8D%E5%85%B8%E5%8C%85/The%20Little%20Dict/)），可以保证一定的准确性。减轻不必要的机械记忆负担。
 
-每个单词有异形词（即考纲当中有多种写法的单词）的，计划将其在后面列出，以保证原始数据的准确性。由于数量庞大，尚未有意愿更新。
+每个单词有异形词（即考纲当中有多种写法的单词）的，计划将其在后面列出，以保证原始数据的准确性。见[这个 PR](https://github.com/awxiaoxian2020/NETEMVocabulary/pull/14)。
 
 目前正在开发对应的跨端小程序，见 [develop 分支](https://github.com/awxiaoxian2020/NETEMVocabulary/tree/develop)。
 
@@ -18,4 +18,4 @@
 
 去 [Release 页面](https://github.com/awxiaoxian2020/NETEMVocabulary/releases)下载 PDF 版本。
 
-使用 generate_doc.py 生成文档初版。
+使用 [generate_doc.py](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/bk/generate_doc.py) 生成文档初版。
