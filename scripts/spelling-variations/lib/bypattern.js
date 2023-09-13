@@ -114,12 +114,12 @@ const patterns = [
 	},
 ];
 
-module.exports = function (word) {
-	var pattern = patterns.find(pattern=>pattern.regex.test(word));
-	if(!pattern) return null;
+export default function(word) {
+	var pattern = patterns.find(pattern => pattern.regex.test(word));
+	if (!pattern) return null;
 	var result = [];
-	var replacement = word.replace(pattern.regex,pattern.replacementString);
-	pattern.originalIndex.forEach(index=>result[index] = word);
-	pattern.replacementIndex.forEach(index=>result[index] = replacement);
+	var replacement = word.replace(pattern.regex, pattern.replacementString);
+	pattern.originalIndex.forEach(index => result[index] = word);
+	pattern.replacementIndex.forEach(index => result[index] = replacement);
 	return result;
-};
+  }
