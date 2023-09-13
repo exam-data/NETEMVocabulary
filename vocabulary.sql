@@ -138,7 +138,7 @@ INSERT INTO `vocabulary` VALUES (125, 1511, 'line', '排队、线', '', NULL);
 INSERT INTO `vocabulary` VALUES (126, 1504, 'these', '这些、这些人', '', NULL);
 INSERT INTO `vocabulary` VALUES (127, 1500, 'become', '成为、适宜', '', NULL);
 INSERT INTO `vocabulary` VALUES (128, 1492, 'author', '作者', '', NULL);
-INSERT INTO `vocabulary` VALUES (129, 1479, 'could', '能够', 'cold', NULL);
+INSERT INTO `vocabulary` VALUES (129, 1479, 'could', '能够', '', NULL);
 INSERT INTO `vocabulary` VALUES (130, 1465, 'even', '甚至', '', NULL);
 INSERT INTO `vocabulary` VALUES (131, 1446, 'also', '也', '', NULL);
 INSERT INTO `vocabulary` VALUES (132, 1430, 'come', '来', '', NULL);
