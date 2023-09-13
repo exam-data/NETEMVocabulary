@@ -3,6 +3,6 @@
 <view class="en">{{vocabularies[position].en}}</view>
 <view class="zh">{{vocabularies[position].zh}}</view>
 <view class="change">
-  <button class="pre" bind:tap="changePre">上一个</button>
-  <button class="nxt" bind:tap="changeNxt">下一个</button>
+  <button size="mini" class="pre" bind:tap="changePre"><text>上一个</text></button>
+  <button size="mini" class="nxt" bind:tap="changeNxt"><text>下一个</text></button>
 </view>

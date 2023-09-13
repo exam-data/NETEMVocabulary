@@ -21,17 +21,27 @@
   margin-top: 10px;
 }
 .change{
-  margin-top: 60%;
+  margin-top: 55%;
   display: flex;
-  justify-items: center;
+  /* justify-items: center; */
+  justify-content: space-between;
 }
-.pre{
-  width: 40%;
-  height: 100px;
-  background-color: red;
+/* .pre{
+    padding: 10px;
+  background-color: rgb(237, 243, 196);
 }
 .nxt{
-  width: 40%;
-  height: 100px;
-  background-color: green;
+    border: ;
+  padding: 5px 10px !important;
+  background-color: rgb(237, 243, 196);
+} */
+.change button{
+    font-size: smaller !important;
+    color:rgb(36, 30, 35) !important;
+    border-radius: 10px;
+    padding: 15px 30px !important;
+    background-color: rgb(237, 243, 196);
+}
+.change button text{
+    line-height: auto;
 }
