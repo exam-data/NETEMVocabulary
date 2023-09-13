@@ -1,4 +1,8 @@
 <!--index.wxml-->
-<view class="container">
-
+<input type="text" placeholder="搜索单词" class="searchBox" confirm-type="search" bindconfirm="searchHandler"/>
+<view class="en">{{vocabularies[position].en}}</view>
+<view class="zh">{{vocabularies[position].zh}}</view>
+<view class="change">
+  <button size="mini" class="pre" bind:tap="changePre"><text>上一个</text></button>
+  <button size="mini" class="nxt" bind:tap="changeNxt"><text>下一个</text></button>
 </view>
