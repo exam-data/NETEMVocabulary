@@ -1,40 +1,57 @@
-// index.js
-// 获取应用实例
-const app = getApp()
+const app = getApp();
 
 Page({
-  data:{
-    vocabularies: [
-      {
-        id: 0,
-        en: "adandon",
-        zh: "抛弃；放弃"
+  data: {
+    currentPage: 1,
+    vocabulary: {
+      _id: 1,
+      frequency: 86015,
+      word: "the",
+      definition: "这个、这些",
+      variant: "",
+    },
+  },
+  queryDataFromCloud: function (page) {
+    const that = this;
+    wx.cloud.callFunction({
+      name: "queryDataByPage",
+      data: {
+        page: page,
       },
-      {
-        id: 1,
-        en: "boost",
-        zh: "增强"
+      success: (res) => {
+        that.setData({
+          vocabulary: {
+            _id: res.result._id,
+            frequency: res.result.frequency,
+            word: res.result.word,
+            definition: res.result.definition,
+            variant: res.result.variant
+          },
+        });
       },
-    ],
-    position: 0,
-    vocabulary: {}
+      fail: (err) => {
+        console.error("查询失败：", err);
+      },
+    });
   },
   searchHandler(event) {
-    let value = event.detail.value
-    console.log("请求搜索:"+value);
+    let value = event.detail.value;
+    console.log("请求搜索:" + value);
   },
-  changePre(){
-    if(this.data.position > 0){
+  changePre() {
+    if (this.data.currentPage > 1) {
       this.setData({
-        position: this.data.position -1
-      })
+        currentPage: this.data.currentPage - 1,
+      });
+      this.queryDataFromCloud(this.data.currentPage)
     }
   },
-  changeNxt(){
-    if(this.data.position < this.data.vocabularies.length-1){
+  changeNext() {
+    if (this.data.currentPage < 5530) {
       this.setData({
-        position: this.data.position +1
-      })
+        currentPage: this.data.currentPage + 1,
+      });
+      this.queryDataFromCloud(this.data.currentPage)
     }
-  }
-})
+  },
+});

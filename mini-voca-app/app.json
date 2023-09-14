@@ -1,12 +1,11 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/word/word"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "简易单词demo",
+    "navigationBarTitleText": "研词",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",

@@ -7,7 +7,7 @@
   text-align: center;
   margin: 0 5px;
 }
-.en{
+.word{
   width: 100%;
   height: 30px;
   font-size: 30px;
@@ -15,7 +15,7 @@
   text-align: center;
   margin-top: calc(50% - 15px);
 }
-.zh{
+.definition{
   width: 100%;
   text-align: center;
   margin-top: 10px;
@@ -26,15 +26,7 @@
   /* justify-items: center; */
   justify-content: space-between;
 }
-/* .pre{
-    padding: 10px;
-  background-color: rgb(237, 243, 196);
-}
-.nxt{
-    border: ;
-  padding: 5px 10px !important;
-  background-color: rgb(237, 243, 196);
-} */
+
 .change button{
     font-size: smaller !important;
     color:rgb(36, 30, 35) !important;
