@@ -5,7 +5,7 @@ create table if not exists vocabulary
         primary key,
     frequency int      ,
     word      varchar(255) ,
-    meaning   varchar(255) ,
+    `definition`   varchar(255) ,
     variant   varchar(255) ,
     meta     json         
 )
