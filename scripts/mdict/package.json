@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "js-mdict": "^5.0.2",
-    "jsdom": "^22.1.0"
+    "jsdom": "^22.1.0",
+    "mysql2": "^3.6.1"
   }
 }

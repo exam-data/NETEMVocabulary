@@ -1,7 +1,23 @@
 const Mdict = require("js-mdict").default; // 引入 js-mdict, 用于读取 mdx 文件，获取单词释义
-const fs = require("fs"); // 引入 fs 模块，用于读取和写入文件
+const mysql = require("mysql2"); // 读写 sql 
 const jsdom = require("jsdom"); // 引入 jsdom 模块，用于解析 HTML 字符串
 const { JSDOM } = jsdom; // 引入 JSDOM 类，用于解析 HTML 字符串
+
+const connection = mysql.createConnection({
+  host: "127.0.0.1",
+  user: "root",
+  password: "root",
+  database: "netem",
+});
+
+// 连接到数据库
+connection.connect((err) => {
+  if (err) {
+    console.error("无法连接到数据库:", err);
+    return;
+  }
+  console.log("已成功连接到数据库");
+});
 
 // 从一个 DOM 元素开始，递归查找最内层的 .coca2 元素
 function findInnerDiv(element) {
@@ -23,40 +39,9 @@ function findInnerDiv(element) {
   return innermostCoca2;
 }
 
-function writeToFile(item, index, table) {
-  /**
-   * 每更新一次释义，就将 item 追加到 vocabulary1.json 文件中，且保证原有的json格式不变，所以第一次的时候，除了item这一项以外，还需要给文件开头加上一个{，结尾加上一个}，以及“5530考研词汇词频排序表": []”item应该放在中括号内，追加完成后在结尾加上一个,，下一次紧接着,后面一行进行追加，循环下去，最后一项不需要加逗号
-   *
-   *
-   * */
-  const updatedItemString = JSON.stringify(item, null, 2);
-
-  if (index === table.length - 1) {
-    fs.appendFileSync("vocabulary1.json", `${updatedItemString}\n`, "utf8");
-    fs.appendFileSync("vocabulary1.json", "]\n", "utf8");
-    fs.appendFileSync("vocabulary1.json", "}\n", "utf8");
-    return;
-  }
-
-  if (index === 0) {
-    fs.writeFileSync("vocabulary1.json", "{\n", "utf8");
-    fs.appendFileSync(
-      "vocabulary1.json",
-      `"5530考研词汇词频排序表": [\n`,
-      "utf8"
-    );
-    fs.appendFileSync("vocabulary1.json", `${updatedItemString},\n`, "utf8");
-  } else {
-    fs.appendFileSync("vocabulary1.json", `${updatedItemString},\n`, "utf8");
-  }
-}
-
 function processVocabulary() {
   const dict = new Mdict("mdx/TLD.mdx"); // 创建 Mdict 实例，用于读取 mdx 文件
-  const vocabularyFile = fs.readFileSync("vocabulary.json", "utf8"); // 读取 vocabulary.json 文件
-  const vocabularyList = JSON.parse(vocabularyFile); // 将读取到的 JSON 字符串转换为 JavaScript 对象
-  const table = vocabularyList["5530考研词汇词频排序表"]; // 获取单词表
-
+  
   // 获取单词释义
   for (let i = 0; i < table.length; i++) {
     const item = vocabularyList["5530考研词汇词频排序表"][i];
