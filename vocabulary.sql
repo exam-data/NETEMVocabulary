@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS `vocabulary`;
 create table if not exists vocabulary
 (
-    id        int unsigned auto_increment
+    id        int 
         primary key,
     frequency int      ,
     word      varchar(255) ,
@@ -9,7 +9,7 @@ create table if not exists vocabulary
     variant   varchar(255) ,
     meta     json         
 )
-    engine = InnoDB default charset = utf8mb4;
+    engine = InnoDB default charset = utf8mb4 collate utf8mb4_bin;
 
 INSERT INTO `vocabulary` VALUES (1, 86015, 'the', '这个、这些', '', NULL);
 INSERT INTO `vocabulary` VALUES (2, 54093, 'be', '是、存在', '', NULL);
