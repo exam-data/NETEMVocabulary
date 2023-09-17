@@ -1,5 +1,5 @@
 const Mdict = require("js-mdict").default; // 引入 js-mdict, 用于读取 mdx 文件，获取单词释义
-const mysql = require("mysql2"); // 读写 sql 
+const mysql = require("mysql2"); // 读写 sql
 const jsdom = require("jsdom"); // 引入 jsdom 模块，用于解析 HTML 字符串
 const { JSDOM } = jsdom; // 引入 JSDOM 类，用于解析 HTML 字符串
 
@@ -40,18 +40,49 @@ function findInnerDiv(element) {
 }
 
 function processVocabulary() {
+  const records = null;
   const dict = new Mdict("mdx/TLD.mdx"); // 创建 Mdict 实例，用于读取 mdx 文件
-  
+  // 执行数据库查询以获取数据
+  connection.query("SELECT word FROM vocabulary", (err, results) => {
+    if (err) {
+      console.error("查询数据库时出错:", err);
+      return;
+    }
+     // 处理检索到的数据
+   records = results; 
+  });
+/*
+for (const record of records) {
+    const word = record.word; // 获取单词字段的值
+    const result = new SpellingVariations(word).analyze();
+    if (result.hasVariations) {
+      const uniqueVariantsSet = new Set(
+        result.variations.filter((variant) => variant !== word)
+      ); // 使用Set来确保唯一性
+      const uniqueVariants = Array.from(uniqueVariantsSet).join(", ");
+      const updateQuery = `UPDATE \`vocabulary\` SET \`variant\` = ? WHERE \`word\` = ?`;
+      const query = connection.query(
+        updateQuery,
+        [uniqueVariants, word],
+        (updateErr, updateResults) => {
+          // console.log(updateResults)
+          if (updateErr) {
+            console.error(`更新单词 ${word} 的变体时出错: ${updateErr}`);
+          }
+        }
+      );
+      console.log('sql是',query.sql)
+    } else {
+      continue;
+    }
+*/ 
   // 获取单词释义
-  for (let i = 0; i < table.length; i++) {
-    const item = vocabularyList["5530考研词汇词频排序表"][i];
-    const word = item["单词"];
-
+  for (const record of records) {
+    const word = record.word;
     let meta_info = dict.lookup(word); // 从 mdx 文件中查找单词释义
     let info = meta_info.definition; // 获取单词释义元信息
     if (!info) {
-      console.log(`${word}找不到，请留意，进行下一个\n`);
-      writeToFile(item, i, table);
+      console.log(`${word}找不到，请留意，进行下一个\n`);     
       continue;
     }
     // 如果词典单词和要查找的单词不一致，或者释义元信息中不包含 coca2，就进入第二种方式
@@ -71,17 +102,14 @@ function processVocabulary() {
 
       if (!found) {
         console.error(`${word}未找到词频信息，请留意，进行下一个\n`);
-        writeToFile(item, i, table);
         continue;
       }
     }
-
     const dom = new JSDOM(info); // 将 HTML 字符串转换为 DOM 对象
     const document = dom.window.document; // 获取 DOM 对象的 document 属性
     // 如果 document 不存在，出错了，就跳过
     if (!document) {
       console.log(`${word}出错，请留意，进行下一个\n`);
-      writeToFile(item, i, table);
       continue;
     }
     const innerDiv = findInnerDiv(document.querySelector(".coca2")); // 从 document 中查找最内层的 .coca2 元素
@@ -89,7 +117,6 @@ function processVocabulary() {
     // 如果 innerDiv 不存在，出错了，就跳过
     if (!innerDiv) {
       console.log(`${word}出现问题，请留意，进行下一个\n`);
-      writeToFile(item, i, table);
       continue;
     }
     const content = innerDiv.textContent; // 获取 innerDiv 的文本内容
@@ -99,7 +126,6 @@ function processVocabulary() {
     //将匹配到的释义和百分比组合成一个对象，然后按百分比从大到小排序
     if (!matches || !percentages) {
       console.log(`${word}出现奇怪问题，请留意，进行下一个\n`);
-      writeToFile(item, i, table);
       continue;
     }
 
@@ -128,8 +154,8 @@ function processVocabulary() {
 
     // 将 topDefinitions 中的释义这一项用顿号连接起来，作为最终的释义
     const definitionsString = topDefinitions.join("、");
-    item["释义"] = definitionsString;
-    writeToFile(item, i, table);
+    // 写入数据库
+
   }
 }
 
