@@ -48,8 +48,8 @@ function processVocabulary() {
       console.error("查询数据库时出错:", err);
       return;
     }
-     // 处理检索到的数据
-   records = results; 
+    // 处理检索到的数据
+    records = results;
   });
   // 获取单词释义
   for (const record of records) {
@@ -57,7 +57,7 @@ function processVocabulary() {
     let meta_info = dict.lookup(word); // 从 mdx 文件中查找单词释义
     let info = meta_info.definition; // 获取单词释义元信息
     if (!info) {
-      console.log(`${word}找不到，请留意，进行下一个\n`);     
+      console.log(`${word}找不到，请留意，进行下一个\n`);
       continue;
     }
     // 如果词典单词和要查找的单词不一致，或者释义元信息中不包含 coca2，就进入第二种方式
@@ -131,13 +131,15 @@ function processVocabulary() {
     const definitionsString = topDefinitions.join("、");
     // 写入数据库
     const updateQuery = `UPDATE \`vocabulary\` SET \`definition\` = ? WHERE \`word\` = ?`;
-    connection.query(updateQuery,
+    connection.query(
+      updateQuery,
       [definitionsString, word],
       (updateErr, updateResults) => {
         if (updateErr) {
           console.error(`更新单词 ${word} 的变体时出错: ${updateErr}`);
         }
-      })
+      }
+    );
   }
 }
 
