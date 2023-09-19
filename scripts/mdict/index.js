@@ -51,31 +51,6 @@ function processVocabulary() {
      // 处理检索到的数据
    records = results; 
   });
-/*
-for (const record of records) {
-    const word = record.word; // 获取单词字段的值
-    const result = new SpellingVariations(word).analyze();
-    if (result.hasVariations) {
-      const uniqueVariantsSet = new Set(
-        result.variations.filter((variant) => variant !== word)
-      ); // 使用Set来确保唯一性
-      const uniqueVariants = Array.from(uniqueVariantsSet).join(", ");
-      const updateQuery = `UPDATE \`vocabulary\` SET \`variant\` = ? WHERE \`word\` = ?`;
-      const query = connection.query(
-        updateQuery,
-        [uniqueVariants, word],
-        (updateErr, updateResults) => {
-          // console.log(updateResults)
-          if (updateErr) {
-            console.error(`更新单词 ${word} 的变体时出错: ${updateErr}`);
-          }
-        }
-      );
-      console.log('sql是',query.sql)
-    } else {
-      continue;
-    }
-*/ 
   // 获取单词释义
   for (const record of records) {
     const word = record.word;
@@ -155,9 +130,9 @@ for (const record of records) {
     // 将 topDefinitions 中的释义这一项用顿号连接起来，作为最终的释义
     const definitionsString = topDefinitions.join("、");
     // 写入数据库
-    const updateQuery = `UPDATE \`vocabulary\` SET \`variant\` = ? WHERE \`word\` = ?`;
+    const updateQuery = `UPDATE \`vocabulary\` SET \`definition\` = ? WHERE \`word\` = ?`;
     connection.query(updateQuery,
-      [uniqueVariants, word],
+      [definitionsString, word],
       (updateErr, updateResults) => {
         if (updateErr) {
           console.error(`更新单词 ${word} 的变体时出错: ${updateErr}`);
