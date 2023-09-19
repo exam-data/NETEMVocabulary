@@ -155,7 +155,14 @@ for (const record of records) {
     // 将 topDefinitions 中的释义这一项用顿号连接起来，作为最终的释义
     const definitionsString = topDefinitions.join("、");
     // 写入数据库
-
+    const updateQuery = `UPDATE \`vocabulary\` SET \`variant\` = ? WHERE \`word\` = ?`;
+    connection.query(updateQuery,
+      [uniqueVariants, word],
+      (updateErr, updateResults) => {
+        if (updateErr) {
+          console.error(`更新单词 ${word} 的变体时出错: ${updateErr}`);
+        }
+      })
   }
 }
 
