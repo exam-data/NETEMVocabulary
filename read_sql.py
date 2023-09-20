@@ -74,7 +74,7 @@ for i in range(pageNum):
         break
     doc.add_page_break()
     count = count+config.perNum
-doc.save('5530考研词汇词频排序表4.docx')
+doc.save('5530考研词汇词频排序表6.docx')
 
 # 关闭数据库连接
 Db.close()
