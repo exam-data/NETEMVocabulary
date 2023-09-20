@@ -1,7 +1,7 @@
 from docx import Document
 import json
 
-with open('vocabulary.json', encoding='utf-8') as vocabulary:
+with open('/Users/liurunke/Documents/项目代码/python/NETEMVocabulary/vocabulary.json','r+', encoding='utf-8') as vocabulary:
     data = json.load(vocabulary)
 items = data['5530考研词汇词频排序表']
 
@@ -36,4 +36,4 @@ for i in range(308):
         break
     doc.add_page_break()
     count = count+18
-doc.save('5530考研词汇词频排序表.docx')
+doc.save('5530考研词汇词频排序表1.docx')
