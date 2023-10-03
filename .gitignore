@@ -1,4 +1,5 @@
 *.docx
 .vscode/
-*.pdf
 .idea/
+*.pdf
+mini-voca-app/**/node_modules/
