@@ -14,15 +14,27 @@ def split_string_with_commas(input_str):
         result.append(current_word)
     return result
 
+
 def concatenate_with_newlines(str_list):
     result = str_list[0]
     for i in range(1, len(str_list)):
         current_length = len(result)
         next_length = len(str_list[i])
-        if current_length + next_length >= 6 and current_length <= 6:
+        next = str_list[i]
+        if current_length + next_length == 6:
+            # 如果当前结果字符串和下一个字符串的长度之和为6
+            # 并且第六个字符是逗号"、"，则删除它
+            if next[-1] == "、":
+                next = next[:-1]
+                next_length -= 1
+                str_list[i] = next
+
+        if current_length + next_length > 5 and current_length <= 5:
             result += '\n'
+
         result += str_list[i]
     return result
+
 
 def format_word(word):
     single_words = split_string_with_commas(word)
@@ -32,7 +44,7 @@ def remove_whitespace(input_str):
     cleaned_str = input_str.replace(" ", "").replace("\t", "").replace("\n", "").replace("\r", "")
     return cleaned_str
 
-doc = docx.Document('5530考研词汇词频排序表12.docx')
+doc = docx.Document('cet.docx')
 
 for table in doc.tables:
    
@@ -46,12 +58,6 @@ for table in doc.tables:
             definition=remove_whitespace(definition)
             row.cells[4].text = format_word(definition)
 
-# 设置所有表格中的文字居中对齐
-for table in doc.tables:
-    for row in table.rows:
-        for cell in row.cells:
-            for paragraph in cell.paragraphs:
-                paragraph.alignment = docx.enum.text.WD_ALIGN_PARAGRAPH.CENTER
 
 # 保存更新后的 Word 文档
-doc.save("updated_5530_v4.9.docx")
+doc.save("upt.docx")
