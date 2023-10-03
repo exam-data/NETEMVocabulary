@@ -2,4 +2,4 @@
 .vscode/
 .idea/
 *.pdf
-**/node_modules/
+mini-voca-app/**/node_modules/
