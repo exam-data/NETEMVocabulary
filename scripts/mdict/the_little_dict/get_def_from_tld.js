@@ -1,23 +1,21 @@
+// this script is used to get the definition of vocabulary from "the little dict" and write it into database
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+
+const jsconfig = require("../../custom_config/js-config.js")
 const Mdict = require("js-mdict").default; // 引入 js-mdict, 用于读取 mdx 文件，获取单词释义
-const mysql = require("mysql2"); // 读写 sql
+const mysql = require("mysql2/promise"); // 读写 sql
 const jsdom = require("jsdom"); // 引入 jsdom 模块，用于解析 HTML 字符串
 const { JSDOM } = jsdom; // 引入 JSDOM 类，用于解析 HTML 字符串
-
-const connection = mysql.createConnection({
-  host: "127.0.0.1",
-  user: "root",
-  password: "root",
-  database: "netem",
+let records = null;
+const connection = await mysql.createConnection({
+  host: jsconfig.database.host,
+  user: jsconfig.database.user,
+  password: jsconfig.database.password,
+  database: jsconfig.database.name,
 });
 
-// 连接到数据库
-connection.connect((err) => {
-  if (err) {
-    console.error("无法连接到数据库:", err);
-    return;
-  }
-  console.log("已成功连接到数据库");
-});
+const table = "vocabulary"; // 数据库表名
 
 // 从一个 DOM 元素开始，递归查找最内层的 .coca2 元素
 function findInnerDiv(element) {
@@ -39,18 +37,13 @@ function findInnerDiv(element) {
   return innermostCoca2;
 }
 
-function processVocabulary() {
-  const records = null;
-  const dict = new Mdict("mdx/TLD.mdx"); // 创建 Mdict 实例，用于读取 mdx 文件
-  // 执行数据库查询以获取数据
-  connection.query("SELECT word FROM vocabulary", (err, results) => {
-    if (err) {
-      console.error("查询数据库时出错:", err);
-      return;
-    }
-    // 处理检索到的数据
-    records = results;
-  });
+async function processVocabulary() {
+  await connection.query(`SELECT word FROM ${table}`).then((res)=>{
+    records = res[0]
+  })
+
+  const dict = new Mdict("../mdx/TLD.mdx"); // 创建 Mdict 实例，用于读取 mdx 文件
+
   // 获取单词释义
   for (const record of records) {
     const word = record.word;
@@ -130,17 +123,15 @@ function processVocabulary() {
     // 将 topDefinitions 中的释义这一项用顿号连接起来，作为最终的释义
     const definitionsString = topDefinitions.join("、");
     // 写入数据库
-    const updateQuery = `UPDATE \`vocabulary\` SET \`definition\` = ? WHERE \`word\` = ?`;
-    connection.query(
-      updateQuery,
-      [definitionsString, word],
-      (updateErr, updateResults) => {
-        if (updateErr) {
-          console.error(`更新单词 ${word} 的变体时出错: ${updateErr}`);
-        }
-      }
+    const updateQuery = `UPDATE ${table} SET \`definition\` = ? WHERE \`word\` = ?`;
+    await connection.query(
+        updateQuery,
+        [definitionsString, word]
     );
   }
 }
 
-processVocabulary();
+processVocabulary().then(()=>{
+    console.log("done")
+    connection.end().then(() => console.log("connection closed"))
+} );

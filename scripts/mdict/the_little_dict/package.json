@@ -2,8 +2,10 @@
   "name": "word",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "type": "module",
+  "scripts": {
+    "tld": "node get_def_from_tld.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
