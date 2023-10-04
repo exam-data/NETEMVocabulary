@@ -52,7 +52,7 @@ num = 0
 
 for i in range(pageNum):
 # 设定页数
-    table = doc.add_table(rows=py_config.perNum+1, cols=5)
+    table = doc.add_table(rows=py_config.per_num+1, cols=5)
     row = table.rows[0]
     row.cells[0].text = '序号'
     row.cells[1].text = '词频'
