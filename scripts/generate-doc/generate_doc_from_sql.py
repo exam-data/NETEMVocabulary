@@ -50,7 +50,7 @@ except:
 doc = Document()
 
 count = 1
-num = 0
+idx = 0
 
 for i in range(page_num):
     # 设定页数
@@ -58,20 +58,20 @@ for i in range(page_num):
     row = table.rows[0]
 
     # 动态设置列名
-    for h, column_name in enumerate(column_names):
-        row.cells[h].text = column_name
+    for cell_index_static, column_name in enumerate(column_names):
+        row.cells[cell_index_static].text = column_name
 
-    k = 1
+    cell_index_dynamic = 1
     for j in range(count, count + py_config.per_num, 1):
-        for d, table_column in enumerate(table_columns):
-            value = str(words_data[num][table_columns.index(table_column)])
-            table.columns[d].cells[k].text = value
-        k = k + 1
-        num = num + 1
-        if num == total:
+        for column_index, table_column in enumerate(table_columns):
+            value = str(words_data[idx][table_columns.index(table_column)])
+            table.columns[column_index].cells[cell_index_dynamic].text = value
+        cell_index_dynamic = cell_index_dynamic + 1
+        idx = idx + 1
+        if idx == total:
             break
 
-    if num == total:
+    if idx == total:
         break
 
     doc.add_page_break()
