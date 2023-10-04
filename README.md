@@ -10,7 +10,7 @@
 
 每个单词有异形词（即考纲当中有多种写法的单词）的，一并列出，以保证原始数据的准确性。目前根据[这个数据](https://github.com/awxiaoxian2020/spelling-variations/blob/dev/src/bydictionary.json)进行了初步填充。有空再和考纲校对。
 
-目前正在开发对应的跨端小程序，见 [develop 分支](https://github.com/awxiaoxian2020/NETEMVocabulary/tree/develop)。
+目前正在开发对应的跨端小程序，见 [mini-voca-app](https://github.com/exam-data/mini-voca-app)。
 
 [vocabulary.json](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.sql)。
 
