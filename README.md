@@ -17,5 +17,3 @@
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/LICENSE).
 
 去 [Release 页面](https://github.com/awxiaoxian2020/NETEMVocabulary/releases)下载 PDF 版本。
-
-使用 [generate_doc.py](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/bk/generate_doc.py) 生成文档初版。
