@@ -1,13 +1,16 @@
 import mysql.connector
 import json
+from scripts.custom_config import py_config
 
 # MySQL数据库连接参数
 db_config = {
-    'host': '127.0.0.1',
-    'user': 'root',
-    'password': 'root',
-    'database': 'netem'
+    'host': py_config.database["host"],
+    'user': py_config.database["user"],
+    'password': py_config.database["password"],
+    'database': py_config.database["name"],
 }
+
+table = "vocabulary"
 
 # 连接到MySQL数据库
 try:
@@ -16,7 +19,7 @@ try:
         cursor = connection.cursor()
         
         # 查询MySQL数据库中的数据，假设 "vocabulary" 表中包含 "word" 和 "variant" 字段
-        cursor.execute("SELECT word, variant FROM vocabulary")
+        cursor.execute(f"SELECT word, variant FROM {table}")
         data_from_db = cursor.fetchall()
         
         # 读取原始 JSON 数据
