@@ -6,7 +6,7 @@ function setColorForFirstRow() {
     table.Rows.Item(1).Range.Editors.Add(wdEditorCurrent);
   }
   ActiveDocument.SelectAllEditableRanges(wdEditorCurrent);
-  Selection.Cells.Shading.ForegroundPatternColor = wdColorGray125;
+  Selection.Cells.Shading.BackgroundPatternColor = wdColorGray50;
   ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
 }
 
