@@ -91,11 +91,7 @@ function formatTables() {
     obj.AddSpaceBetweenFarEastAndDigit = -1;
     obj.BaseLineAlignment = wdBaselineAlignAuto;
   })(Selection.ParagraphFormat);
-
-  ((obj) => {
-    obj.Cells.VerticalAlignment = wdCellAlignVerticalCenter;
-    obj.ParagraphFormat.Alignment = wdAlignParagraphCenter;
-  })(Selection);
+  
   ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
   setColorForFirstRow();
   Application.ScreenUpdating = true;
