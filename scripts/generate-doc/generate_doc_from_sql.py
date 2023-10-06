@@ -65,6 +65,8 @@ for i in range(page_num):
     for j in range(count, count + py_config.per_num, 1):
         for column_index, table_column in enumerate(table_columns):
             value = str(words_data[idx][table_columns.index(table_column)])
+            if value == "None":
+                value = ''
             table.columns[column_index].cells[cell_index_dynamic].text = value
         cell_index_dynamic = cell_index_dynamic + 1
         idx = idx + 1

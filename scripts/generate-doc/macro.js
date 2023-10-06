@@ -59,10 +59,17 @@ function formatTables() {
       obj.Height = 31.180853;
       obj.AllowBreakAcrossPages = -1;
     })(ActiveDocument.Range(table.Range.Start, table.Range.End).Rows);
+    Selection.SetRange(table.Range.Start, table.Range.End);
+    ((obj) => {
+      obj.Cells.VerticalAlignment = wdCellAlignVerticalCenter;
+      obj.ParagraphFormat.Alignment = wdAlignParagraphCenter;
+    })(Selection);
+
     table.Range.Editors.Add(wdEditorCurrent);
   }
   ActiveDocument.SelectAllEditableRanges(wdEditorCurrent);
-
+  setFont();
+  addBorders();
   ((obj) => {
     obj.LineUnitBefore = 0;
     obj.SpaceBefore = 0;
@@ -84,14 +91,7 @@ function formatTables() {
     obj.AddSpaceBetweenFarEastAndDigit = -1;
     obj.BaseLineAlignment = wdBaselineAlignAuto;
   })(Selection.ParagraphFormat);
-
-  ((obj) => {
-    obj.Cells.VerticalAlignment = wdCellAlignVerticalCenter;
-    obj.ParagraphFormat.Alignment = wdAlignParagraphCenter;
-  })(Selection);
-
-  setFont();
-
+  
   ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
   setColorForFirstRow();
   Application.ScreenUpdating = true;
