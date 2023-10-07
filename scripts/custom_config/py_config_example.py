@@ -20,4 +20,7 @@ column_list = [
     {"column_name": "释义", "table_column": "definition"},
     {"column_name": "异形词", "table_column": "variant"}
 ]
+
 table_name = "vocabulary"
+
+max_length = -1
