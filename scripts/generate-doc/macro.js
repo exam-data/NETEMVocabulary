@@ -1,13 +1,17 @@
-function setColorForFirstRow() {
+function cleanup() {
   ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
   Selection.SetRange(0, 0);
+}
+
+function setColorForFirstRow() {
+  cleanup();
   for (var i = 1; i <= ActiveDocument.Tables.Count; i++) {
     var table = ActiveDocument.Tables.Item(i);
     table.Rows.Item(1).Range.Editors.Add(wdEditorCurrent);
   }
   ActiveDocument.SelectAllEditableRanges(wdEditorCurrent);
   Selection.Cells.Shading.BackgroundPatternColor = wdColorGray50;
-  ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
+  cleanup();
 }
 
 function addBorders() {
@@ -51,7 +55,7 @@ function setFont() {
 
 function formatTables() {
   Application.ScreenUpdating = false;
-  ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
+  cleanup();
   for (var i = 1; i <= ActiveDocument.Tables.Count; i++) {
     var table = ActiveDocument.Tables.Item(i);
     ((obj) => {
@@ -91,8 +95,9 @@ function formatTables() {
     obj.AddSpaceBetweenFarEastAndDigit = -1;
     obj.BaseLineAlignment = wdBaselineAlignAuto;
   })(Selection.ParagraphFormat);
-  
-  ActiveDocument.DeleteAllEditableRanges(wdEditorCurrent);
+
+  cleanup();
   setColorForFirstRow();
+  cleanup();
   Application.ScreenUpdating = true;
 }
