@@ -3,10 +3,7 @@ from docx import Document
 
 from scripts.custom_config import py_config
 
-table = input("请输入要生成文档的表名：")
-if not table:
-    table = "vocabulary"
-    print("未输入表名，默认为vocabulary表。")
+table = py_config.table_name
 
 # 链接数据库
 Db = pymysql.connect(
@@ -16,11 +13,17 @@ Db = pymysql.connect(
     password=py_config.database["password"],
     database=py_config.database["name"],
 )
+column_list = py_config.column_list
+# 1. 动态指定列的数量
+num_columns = len(column_list)
 
+# 2. 获取列名和表字段名的列表
+column_names = [info["column_name"] for info in column_list]
+table_columns = [info["table_column"] for info in column_list]
 # 查询数据库总条数
 try:
     with Db.cursor() as cursor:
-        sql = f'SELECT count(*) as total FROM {table}'
+        sql = f"SELECT count(*) as total FROM {table}"
         cursor.execute(sql)
         data = cursor.fetchone()
         total = data[0]
@@ -29,7 +32,7 @@ except:
     exit()
 
 # 计算页数
-pageNum = (
+page_num = (
     total // py_config.per_num
     if total % py_config.per_num == 0
     else total // py_config.per_num + 1
@@ -37,7 +40,7 @@ pageNum = (
 # 查询数据
 try:
     with Db.cursor() as cursor:
-        sql = f'SELECT * FROM {table}'
+        sql = f'SELECT {", ".join(table_columns)} FROM {table}'
         cursor.execute(sql)
         words_data = cursor.fetchall()
 except:
@@ -45,40 +48,38 @@ except:
     exit()
 
 doc = Document()
-# 实例化文档对象
-count = 1
-num = 0
-# 单词序号
 
-for i in range(pageNum):
-# 设定页数
-    table = doc.add_table(rows=py_config.per_num+1, cols=5)
+count = 1
+idx = 0
+
+for i in range(page_num):
+    # 设定页数
+    table = doc.add_table(rows=py_config.per_num + 1, cols=num_columns)
     row = table.rows[0]
-    row.cells[0].text = '序号'
-    row.cells[1].text = '词频'
-    row.cells[2].text = '单词'
-    row.cells[3].text = '释义'
-    row.cells[4].text = '异形词'
-    order = table.columns[0]
-    frequency = table.columns[1]
-    word = table.columns[2]
-    meaning = table.columns[3]
-    difference = table.columns[4]
-    k = 1
-    for j in range(count, count+py_config.per_num, 1):
-        order.cells[k].text = str(words_data[num][0])
-        frequency.cells[k].text = str(words_data[num][1])
-        word.cells[k].text = str(words_data[num][2])
-        meaning.cells[k].text = str(words_data[num][3])
-        difference.cells[k].text = str(words_data[num][4])
-        k = k + 1
-        num = num + 1
-        if num == total:
+
+    # 动态设置列名
+    for cell_index_static, column_name in enumerate(column_names):
+        row.cells[cell_index_static].text = column_name
+
+    cell_index_dynamic = 1
+    for j in range(count, count + py_config.per_num, 1):
+        for column_index, table_column in enumerate(table_columns):
+            value = str(words_data[idx][table_columns.index(table_column)])
+            if value == "None":
+                value = ''
+            table.columns[column_index].cells[cell_index_dynamic].text = value
+        cell_index_dynamic = cell_index_dynamic + 1
+        idx = idx + 1
+        if idx == total:
             break
-    if num == total:
+
+    if idx == total:
         break
+
     doc.add_page_break()
     count = count + py_config.per_num
+
+# 保存生成的 Word 文档
 doc.save(py_config.updated_doc)
 
 # 关闭数据库连接
