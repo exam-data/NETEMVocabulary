@@ -24,3 +24,7 @@ column_list = [
 table_name = "vocabulary"
 
 max_length = -1
+
+updated_json_name = "netem.json"
+
+table_name_in_json = "5530考研词汇词频排序表"
