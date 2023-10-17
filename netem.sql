@@ -5459,7 +5459,7 @@ INSERT INTO `vocabulary` VALUES (5438, 0, 'normalisation', '正常化', 'normali
 INSERT INTO `vocabulary` VALUES (5439, 0, 'northwest', '西北', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (5440, 0, 'November', '十一月', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (5441, 0, 'oar', '桨', NULL, NULL);
-INSERT INTO `vocabulary` VALUES (5442, 0, 'o\'clock', '点钟', NULL, NULL);
+INSERT INTO `vocabulary` VALUES (5442, 0, "o'clock", '点钟', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (5443, 0, 'October', '十月', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (5444, 0, 'odds', '可能性', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (5445, 0, 'ought to', '应该', NULL, NULL);
