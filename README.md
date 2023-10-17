@@ -12,8 +12,8 @@
 
 目前正在开发对应的跨端小程序，见 [mini-voca-app](https://github.com/exam-data/mini-voca-app)。
 
-[vocabulary.json](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/vocabulary.sql)。
+[netem.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem.sql)。
 
-本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/awxiaoxian2020/NETEMVocabulary/blob/master/LICENSE).
+本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/exam-data/NETEMVocabulary/blob/master/LICENSE-CODE).
 
-去 [Release 页面](https://github.com/awxiaoxian2020/NETEMVocabulary/releases)下载 PDF 版本。
+去 [Release 页面](https://github.com/exam-data/NETEMVocabulary/releases)下载 PDF 版本。
