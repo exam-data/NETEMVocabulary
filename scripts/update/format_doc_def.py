@@ -27,7 +27,9 @@ def str_add_break_line(zh_str, max_length):
             result.append(word)
             current_length += len(word)
         else:
-            result.append('\n' + word)
+            if len(result) > 0:
+                result.append('\n')
+            result.append(word)
             current_length = len(word)
 
     if result and result[-1] == '、':
