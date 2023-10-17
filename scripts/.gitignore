@@ -1,3 +1,4 @@
 **/node_modules/*
 !mdict/**/node_modules/js-mdict/
 *.mdx
+*.jsonl
