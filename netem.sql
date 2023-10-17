@@ -2884,7 +2884,7 @@ INSERT INTO `vocabulary` VALUES (2863, 28, 'brilliant', '巧妙的、聪明的',
 INSERT INTO `vocabulary` VALUES (2864, 28, 'gadget', '小玩意儿', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (2865, 28, 'playground', '操场', NULL, 'shopping');
 INSERT INTO `vocabulary` VALUES (2866, 28, 'tenant', '房客、承租人', NULL, NULL);
-INSERT INTO `vocabulary` VALUES (2867, 27, 'worthwhile', '形容词', NULL, NULL);
+INSERT INTO `vocabulary` VALUES (2867, 27, 'worthwhile', '与此同时', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (2868, 27, 'assert', '断言', NULL, 'communication');
 INSERT INTO `vocabulary` VALUES (2869, 27, 'mysterious', '神秘的', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (2870, 27, 'slice', '部分、薄片', NULL, 'food and drink');
@@ -3069,7 +3069,7 @@ INSERT INTO `vocabulary` VALUES (3048, 23, 'nonsense', '胡说', NULL, 'communic
 INSERT INTO `vocabulary` VALUES (3049, 23, 'vivid', '生动的', NULL, 'describing things');
 INSERT INTO `vocabulary` VALUES (3050, 23, 'beef', '牛肉', NULL, 'food and drink');
 INSERT INTO `vocabulary` VALUES (3051, 23, 'excel', '优于', NULL, NULL);
-INSERT INTO `vocabulary` VALUES (3052, 23, 'nonetheless', '副词', NULL, NULL);
+INSERT INTO `vocabulary` VALUES (3052, 23, 'nonetheless', '然而', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (3053, 23, 'queue', '排队', NULL, 'people: actions');
 INSERT INTO `vocabulary` VALUES (3054, 23, 'conquer', '征服', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (3055, 23, 'contradict', '反驳', NULL, NULL);

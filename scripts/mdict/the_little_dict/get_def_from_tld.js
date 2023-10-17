@@ -15,7 +15,7 @@ const connection = await mysql.createConnection({
   database: jsconfig.database.name,
 });
 
-const table = "vocabulary"; // 数据库表名
+const table = jsconfig.tableName; // 数据库表名
 
 // 从一个 DOM 元素开始，递归查找最内层的 .coca2 元素
 function findInnerDiv(element) {

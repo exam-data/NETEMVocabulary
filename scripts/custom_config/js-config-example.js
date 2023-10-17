@@ -11,5 +11,6 @@ module.exports={
     },
     perNum: 18,
     originalDoc: "",
-    updatedDoc: ""
+    updatedDoc: "",
+    tableName: "vocabulary"
 }
