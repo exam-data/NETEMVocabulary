@@ -2494,7 +2494,7 @@ INSERT INTO `vocabulary` VALUES (2473, 38, 'prior', '优先的、在前的', NUL
 INSERT INTO `vocabulary` VALUES (2474, 38, 'forever', '永远', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (2475, 38, 'machinery', '机械', NULL, 'technology');
 INSERT INTO `vocabulary` VALUES (2476, 38, 'census', '人口普查', NULL, NULL);
-INSERT INTO `vocabulary` VALUES (2477, 38, 'fade', '消退消逝', NULL, NULL);
+INSERT INTO `vocabulary` VALUES (2477, 38, 'fade', '消退、消逝', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (2478, 38, 'addict', '上瘾', NULL, 'body and health');
 INSERT INTO `vocabulary` VALUES (2479, 38, 'anyway', '无论如何', NULL, 'communication');
 INSERT INTO `vocabulary` VALUES (2480, 38, 'tolerant', '宽容的', NULL, NULL);
@@ -4518,7 +4518,7 @@ INSERT INTO `vocabulary` VALUES (4497, 7, 'slippery', '滑的', NULL, NULL);
 INSERT INTO `vocabulary` VALUES (4498, 7, 'sock', '袜子', NULL, 'clothes');
 INSERT INTO `vocabulary` VALUES (4499, 7, 'sofa', '沙发', NULL, 'homes and buildings');
 INSERT INTO `vocabulary` VALUES (4500, 7, 'southwest', '西南', NULL, NULL);
-INSERT INTO `vocabulary` VALUES (4501, 7, 'swear', '赌咒发誓', NULL, 'communication');
+INSERT INTO `vocabulary` VALUES (4501, 7, 'swear', '赌咒、发誓', NULL, 'communication');
 INSERT INTO `vocabulary` VALUES (4502, 7, 'swift', '迅速的、雨燕', NULL, 'describing things');
 INSERT INTO `vocabulary` VALUES (4503, 7, 'thirsty', '口渴的', NULL, 'food and drink');
 INSERT INTO `vocabulary` VALUES (4504, 6, 'censorship', '检查制度', NULL, NULL);
