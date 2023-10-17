@@ -11,7 +11,7 @@ database = {
 per_num = 18
 original_doc = ""
 updated_doc = "updated_doc.docx"
-jsonFile = "../../vocabulary.json"
+jsonFile = "../../netem.json"
 
 column_list = [
     {"column_name": "序号", "table_column": "id"},
