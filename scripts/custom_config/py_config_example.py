@@ -32,13 +32,13 @@ column_list = [
 ]
 
 # 处理的数据库表名
-table_name = "vocabulary"
+table_name = "netem_full_list"
 
 # 单元格单行所能容纳最大字符数
 max_length = -1
 
 # 已处理后的 json 文件名
-updated_json_name = "netem.json"
+updated_json_name = "netem_full_list.json"
 
 # json 文件标题
 table_name_in_json = "5530考研词汇词频排序表"

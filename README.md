@@ -12,7 +12,7 @@
 
 目前正在开发对应的跨端小程序，见 [mini-voca-app](https://github.com/exam-data/mini-voca-app)。
 
-[netem.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem.sql)。
+[netem_full_list.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.sql)。
 
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/exam-data/NETEMVocabulary/blob/master/LICENSE-CODE).
 

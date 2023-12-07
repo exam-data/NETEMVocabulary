@@ -3,7 +3,7 @@ import mysql from "mysql2/promise";
 import jsconfig from "../custom_config/js-config.js";
 
 let records = null;
-const table = "vocabulary"; // 数据库表名
+const table = "netem_full_list"; // 数据库表名
 const connection = await mysql.createConnection({
     host: jsconfig.database.host,
     user: jsconfig.database.user,
