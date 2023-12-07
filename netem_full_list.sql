@@ -2375,7 +2375,7 @@ INSERT INTO `netem_full_list` VALUES (2354, 43, 'menu', '菜单', NULL, 'food an
 INSERT INTO `netem_full_list` VALUES (2355, 43, 'pilot', '飞行员', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2356, 43, 'violent', '暴力的', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (2357, 43, 'bore', '使厌烦、钻孔', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2358, 43, 'update', '更新', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (2358, 43, 'update_def', '更新', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (2359, 43, 'cream', '奶油', NULL, 'food and drink');
 INSERT INTO `netem_full_list` VALUES (2360, 43, 'ton', '吨、大量', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2361, 43, 'bomb', '炸弹', NULL, 'people: actions');
