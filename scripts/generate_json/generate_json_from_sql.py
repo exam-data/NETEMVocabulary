@@ -12,6 +12,7 @@ Db = pymysql.connect(
     password=py_config.database["password"],
     database=py_config.database["name"],
 )
+
 column_list = py_config.column_list
 
 # 2. 获取列名和表字段名的列表
