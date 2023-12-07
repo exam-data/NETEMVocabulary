@@ -28,7 +28,7 @@ column_list = [
     {"column_name": "词频", "table_column": "frequency"},
     {"column_name": "单词", "table_column": "word"},
     {"column_name": "释义", "table_column": "definition"},
-    {"column_name": "异形词", "table_column": "variant"}
+    {"column_name": "其他拼写形式", "table_column": "variant"}
 ]
 
 # 处理的数据库表名
