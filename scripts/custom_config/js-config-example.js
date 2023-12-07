@@ -12,5 +12,5 @@ module.exports={
     perNum: 18,
     originalDoc: "",
     updatedDoc: "",
-    tableName: "vocabulary"
+    tableName: "netem_full_list"
 }
