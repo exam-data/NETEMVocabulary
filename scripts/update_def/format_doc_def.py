@@ -42,7 +42,7 @@ if not py_config.original_doc:
     print("源文档未配置路径！同时请检查单元格字符数后运行。")
     exit(0)
 
-doc = docx.Document(py_config.original_doc)
+doc = docx.Document("../generate-doc/"+py_config.original_doc)
 
 
 def find_header_indices(t):
