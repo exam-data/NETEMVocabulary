@@ -4319,7 +4319,7 @@ INSERT INTO `netem_full_list` VALUES (4298, 8, 'proficiency', '熟练', NULL, NU
 INSERT INTO `netem_full_list` VALUES (4299, 8, 'rumor', '谣言', 'rumour', NULL);
 INSERT INTO `netem_full_list` VALUES (4300, 8, 'scare', '恐吓、惊吓', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (4301, 8, 'sober', '清醒', NULL, 'describing things');
-INSERT INTO `netem_full_list` VALUES (4302, 8, 'stall', '失速、拖延', NULL, 'shopping');
+INSERT INTO `netem_full_list` VALUES (4302, 8, 'stall', '货摊、失速、拖延', NULL, 'shopping');
 INSERT INTO `netem_full_list` VALUES (4303, 8, 'tomb', '坟墓', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (4304, 8, 'tropic', '热带', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (4305, 8, 'underneath', '在下面', NULL, 'describing things');
