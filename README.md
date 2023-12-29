@@ -8,7 +8,7 @@
 
 高频词汇的释义经过了人工初步校对，其他单词选取使用频率总和大于 50% 的释义（数据来自 [the little dict](http://louischeung.top:225/mdict%E8%AF%8D%E5%85%B8%E5%8C%85/The%20Little%20Dict/)），可以保证一定的准确性。减轻不必要的机械记忆负担。
 
-每个单词有其他拼写形式（即考纲当中有多种写法的单词）的，一并列出，以保证原始数据的准确性。目前根据[这个数据](https://github.com/awxiaoxian2020/spelling-variations/blob/dev/src/bydictionary.json)进行了初步填充。有空再和考纲校对。
+每个单词有其他拼写（即考纲当中有多种写法的单词）的，一并列出，以保证原始数据的准确性。目前根据[这个数据](https://github.com/awxiaoxian2020/spelling-variations/blob/dev/src/bydictionary.json)进行了初步填充。有空再和考纲校对。
 
 目前正在开发对应的跨端小程序，见 [mini-voca-app](https://github.com/exam-data/mini-voca-app)。
 
