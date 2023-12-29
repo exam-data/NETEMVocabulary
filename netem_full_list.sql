@@ -24,11 +24,11 @@ INSERT INTO `netem_full_list` VALUES (3, 50252, 'a', '一、每一', NULL, NULL)
 INSERT INTO `netem_full_list` VALUES (4, 44609, 'to', '目的、终点', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (5, 40452, 'of', '的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (6, 28550, 'and', '和', NULL, 'communication');
-INSERT INTO `netem_full_list` VALUES (7, 28481, 'in', '在…内、范围', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (7, 28481, 'in', '在…内', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (8, 15599, 'have', '有', NULL, 'body and health');
 INSERT INTO `netem_full_list` VALUES (9, 14916, 'that', '那', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (10, 13810, 'it', '它', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (11, 13733, 'for', '原因、对象', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (11, 13733, 'for', '为了…、因为…', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (12, 12004, 'on', '在…上、持续', NULL, 'travel');
 INSERT INTO `netem_full_list` VALUES (13, 11942, 'they', '他们', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (14, 10015, 'you', '你', NULL, NULL);
