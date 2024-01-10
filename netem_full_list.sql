@@ -2541,7 +2541,7 @@ INSERT INTO `netem_full_list` VALUES (2520, 37, 'rough', '粗糙的', NULL, NULL
 INSERT INTO `netem_full_list` VALUES (2521, 37, 'scope', '范围', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2522, 37, 'advertise', '打广告', 'advertize', 'arts and media');
 INSERT INTO `netem_full_list` VALUES (2523, 37, 'fancy', '幻想、想象', NULL, 'people: personality');
-INSERT INTO `netem_full_list` VALUES (2524, 37, 'sympathetic', '交感神经', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2524, 37, 'sympathetic', '同情的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2525, 37, 'clever', '聪明的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2526, 37, 'fashionable', '时髦的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2527, 37, 'hurry', '匆忙的', NULL, 'people: actions');
