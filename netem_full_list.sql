@@ -993,7 +993,7 @@ INSERT INTO `netem_full_list` VALUES (972, 162, 'derive', '取得', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (973, 162, 'china', '瓷器', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (974, 162, 'textbook', '课本', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (975, 161, 'extra', '额外的', NULL, 'arts and media');
-INSERT INTO `netem_full_list` VALUES (976, 161, 'electronic', '电子的', NULL, 'technology');
+INSERT INTO `netem_full_list` VALUES (976, 161, 'electronic', '电子', NULL, 'technology');
 INSERT INTO `netem_full_list` VALUES (977, 161, 'ignore', '忽视', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (978, 161, 'survive', '幸存', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (979, 161, 'bird', '鸟', NULL, 'animals');
