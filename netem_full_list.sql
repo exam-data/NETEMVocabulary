@@ -973,7 +973,7 @@ INSERT INTO `netem_full_list` VALUES (952, 167, 'push', '推', NULL, 'people: ac
 INSERT INTO `netem_full_list` VALUES (953, 167, 'twenty', '二十', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (954, 167, 'police', '警察', NULL, 'crime');
 INSERT INTO `netem_full_list` VALUES (955, 167, 'film', '电影', NULL, 'arts and media');
-INSERT INTO `netem_full_list` VALUES (956, 166, 'review', '复习、回顾、评论', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (956, 166, 'review', '回顾、评论', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (957, 166, 'attempt', '试图、企图', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (958, 166, 'wealth', '财富', NULL, 'money');
 INSERT INTO `netem_full_list` VALUES (959, 166, 'associate', '联系、结交', NULL, NULL);
