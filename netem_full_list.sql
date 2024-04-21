@@ -985,7 +985,7 @@ INSERT INTO `netem_full_list` VALUES (964, 163, 'ill', '有病的、坏的', NUL
 INSERT INTO `netem_full_list` VALUES (965, 163, 'box', '盒子', NULL, 'shopping');
 INSERT INTO `netem_full_list` VALUES (966, 163, 'cry', '哭泣', NULL, 'animals');
 INSERT INTO `netem_full_list` VALUES (967, 162, 'hardly', '几乎不、仅仅', NULL, 'communication');
-INSERT INTO `netem_full_list` VALUES (968, 162, 'responsible', '应负责的、可靠的', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (968, 162, 'responsible', '应负责的、可靠', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (969, 162, 'track', '追踪、足迹、痕迹', NULL, 'shopping');
 INSERT INTO `netem_full_list` VALUES (970, 162, 'warn', '警告', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (971, 162, 'total', '总共的', NULL, 'communication');
