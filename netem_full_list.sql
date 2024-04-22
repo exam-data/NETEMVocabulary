@@ -2822,7 +2822,7 @@ INSERT INTO `netem_full_list` VALUES (2801, 29, 'gentleman', '绅士', NULL, 'pe
 INSERT INTO `netem_full_list` VALUES (2802, 29, 'invisible', '看不见的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2803, 29, 'retreat', '撤退', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2804, 29, 'chemistry', '化学', NULL, 'education');
-INSERT INTO `netem_full_list` VALUES (2805, 29, 'manipulate', '操作、操纵', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2805, 29, 'manipulate', '操纵', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2806, 29, 'migrate', '迁移', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2807, 29, 'somebody', '有人', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2808, 29, 'clinic', '诊室', NULL, NULL);
