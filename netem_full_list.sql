@@ -2911,7 +2911,7 @@ INSERT INTO `netem_full_list` VALUES (2890, 27, 'silence', '沉默', NULL, NULL)
 INSERT INTO `netem_full_list` VALUES (2891, 27, 'theoretical', '理论上的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2892, 27, 'murder', '谋杀', NULL, 'crime');
 INSERT INTO `netem_full_list` VALUES (2893, 27, 'rigorous', '严格的', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2894, 27, 'waiter', '侍者', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2894, 27, 'waiter', '服务员', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2895, 27, 'corn', '玉米', NULL, 'food and drink');
 INSERT INTO `netem_full_list` VALUES (2896, 27, 'oneself', '自己', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2897, 27, 'shadow', '阴影', NULL, NULL);
