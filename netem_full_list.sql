@@ -2878,7 +2878,7 @@ INSERT INTO `netem_full_list` VALUES (2857, 28, 'misfortune', '不幸', NULL, NU
 INSERT INTO `netem_full_list` VALUES (2858, 28, 'rob', '抢劫', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2859, 28, 'surgeon', '外科医生', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2860, 28, 'transmission', '传输', NULL, 'arts and media');
-INSERT INTO `netem_full_list` VALUES (2861, 28, 'orbit', '眼眶、轨迹', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2861, 28, 'orbit', '轨道', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2862, 28, 'reservation', '预定', NULL, 'travel');
 INSERT INTO `netem_full_list` VALUES (2863, 28, 'brilliant', '巧妙的、聪明的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2864, 28, 'gadget', '小玩意儿', NULL, NULL);
