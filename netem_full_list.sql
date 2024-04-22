@@ -2825,7 +2825,7 @@ INSERT INTO `netem_full_list` VALUES (2804, 29, 'chemistry', '化学', NULL, 'ed
 INSERT INTO `netem_full_list` VALUES (2805, 29, 'manipulate', '操纵', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2806, 29, 'migrate', '迁移', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2807, 29, 'somebody', '某人', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2808, 29, 'clinic', '诊室', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2808, 29, 'clinic', '诊所', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2809, 29, 'dull', '乏味的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2810, 29, 'tight', '紧的', NULL, 'clothes');
 INSERT INTO `netem_full_list` VALUES (2811, 29, 'wonderful', '精彩的', NULL, 'describing things');
