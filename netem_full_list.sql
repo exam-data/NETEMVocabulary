@@ -2826,7 +2826,7 @@ INSERT INTO `netem_full_list` VALUES (2805, 29, 'manipulate', '操纵', NULL, NU
 INSERT INTO `netem_full_list` VALUES (2806, 29, 'migrate', '迁移', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2807, 29, 'somebody', '某人', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2808, 29, 'clinic', '诊所', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2809, 29, 'dull', '愚笨的、枯燥的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (2809, 29, 'dull', '枯燥的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2810, 29, 'tight', '紧的', NULL, 'clothes');
 INSERT INTO `netem_full_list` VALUES (2811, 29, 'wonderful', '精彩的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2812, 29, 'accommodate', '适应、容纳', NULL, NULL);
@@ -2880,7 +2880,7 @@ INSERT INTO `netem_full_list` VALUES (2859, 28, 'surgeon', '外科医生', NULL,
 INSERT INTO `netem_full_list` VALUES (2860, 28, 'transmission', '传输', NULL, 'arts and media');
 INSERT INTO `netem_full_list` VALUES (2861, 28, 'orbit', '轨道', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2862, 28, 'reservation', '预定', NULL, 'travel');
-INSERT INTO `netem_full_list` VALUES (2863, 28, 'brilliant', '闪亮的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (2863, 28, 'brilliant', '闪亮的、聪明的、出色的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2864, 28, 'gadget', '小玩意儿', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2865, 28, 'playground', '操场', NULL, 'shopping');
 INSERT INTO `netem_full_list` VALUES (2866, 28, 'tenant', '房客、租户', NULL, NULL);
@@ -3189,7 +3189,7 @@ INSERT INTO `netem_full_list` VALUES (3168, 21, 'merge', '合并', NULL, 'people
 INSERT INTO `netem_full_list` VALUES (3169, 21, 'shine', '闪耀、照耀', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3170, 21, 'yell', '喊叫', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3171, 21, 'fraud', '欺骗', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3172, 21, 'tedious', '单调愚笨的、枯燥的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (3172, 21, 'tedious', '枯燥的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (3173, 21, 'crazy', '疯狂的', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3174, 21, 'invade', '侵略', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3175, 21, 'yard', '院子', NULL, 'describing things');
