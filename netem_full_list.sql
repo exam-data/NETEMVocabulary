@@ -2858,7 +2858,7 @@ INSERT INTO `netem_full_list` VALUES (2837, 28, 'density', '密度', NULL, NULL)
 INSERT INTO `netem_full_list` VALUES (2838, 28, 'prescription', '处方', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2839, 28, 'resistance', '抵抗', NULL, 'body and health');
 INSERT INTO `netem_full_list` VALUES (2840, 28, 'sir', '先生', NULL, 'communication');
-INSERT INTO `netem_full_list` VALUES (2841, 28, 'leap', '跃', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2841, 28, 'leap', '跳跃', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2842, 28, 'reproduce', '复制', NULL, 'natural world');
 INSERT INTO `netem_full_list` VALUES (2843, 28, 'revolutionary', '革命的', NULL, 'politics');
 INSERT INTO `netem_full_list` VALUES (2844, 28, 'shy', '害羞地', NULL, 'people: personality');
