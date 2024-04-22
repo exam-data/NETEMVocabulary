@@ -2883,7 +2883,7 @@ INSERT INTO `netem_full_list` VALUES (2862, 28, 'reservation', '预定', NULL, '
 INSERT INTO `netem_full_list` VALUES (2863, 28, 'brilliant', '闪亮的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2864, 28, 'gadget', '小玩意儿', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2865, 28, 'playground', '操场', NULL, 'shopping');
-INSERT INTO `netem_full_list` VALUES (2866, 28, 'tenant', '房客、承租人', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2866, 28, 'tenant', '房客、租户', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2867, 27, 'worthwhile', '与此同时', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2868, 27, 'assert', '断言', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (2869, 27, 'mysterious', '神秘的', NULL, NULL);
