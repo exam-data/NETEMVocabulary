@@ -2843,7 +2843,7 @@ INSERT INTO `netem_full_list` VALUES (2822, 29, 'salesman', '推销员', NULL, N
 INSERT INTO `netem_full_list` VALUES (2823, 29, 'summary', '摘要', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (2824, 28, 'monopoly', '垄断', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2825, 28, 'dose', '剂量', NULL, 'body and health');
-INSERT INTO `netem_full_list` VALUES (2826, 28, 'gross', '总额、总量', NULL, 'money');
+INSERT INTO `netem_full_list` VALUES (2826, 28, 'gross', '总的', NULL, 'money');
 INSERT INTO `netem_full_list` VALUES (2827, 28, 'laughter', '笑声', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2828, 28, 'trail', '小径、踪迹', NULL, 'animals');
 INSERT INTO `netem_full_list` VALUES (2829, 28, 'discard', '抛弃、丢弃', NULL, NULL);
