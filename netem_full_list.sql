@@ -2831,7 +2831,7 @@ INSERT INTO `netem_full_list` VALUES (2810, 29, 'tight', '紧的', NULL, 'clothe
 INSERT INTO `netem_full_list` VALUES (2811, 29, 'wonderful', '精彩的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2812, 29, 'accommodate', '适应、容纳', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2813, 29, 'destructive', '破坏性的', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2814, 29, 'chase', '追赶、追求', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (2814, 29, 'chase', '追逐', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2815, 29, 'steep', '陡峭的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2816, 29, 'deed', '行为、事迹', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2817, 29, 'lightning', '闪电', NULL, 'natural world');
