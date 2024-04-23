@@ -3003,7 +3003,7 @@ INSERT INTO `netem_full_list` VALUES (2982, 25, 'tailor', '裁缝', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2983, 25, 'indoor', '室内的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2984, 25, 'offend', '冒犯', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (2985, 25, 'publicity', '宣传', NULL, 'arts and media');
-INSERT INTO `netem_full_list` VALUES (2986, 25, 'refrain', '避免、克制', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2986, 25, 'refrain', '克制', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2987, 25, 'cherish', '珍爱', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2988, 25, 'descend', '下降', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2989, 25, 'entity', '实体', NULL, NULL);
