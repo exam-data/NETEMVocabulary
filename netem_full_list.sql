@@ -3013,7 +3013,7 @@ INSERT INTO `netem_full_list` VALUES (2992, 25, 'fry', '油炸', NULL, 'food and
 INSERT INTO `netem_full_list` VALUES (2993, 25, 'syndrome', '综合症', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2994, 25, 'whale', '鲸', NULL, 'animals');
 INSERT INTO `netem_full_list` VALUES (2995, 24, 'pencil', '铅笔', NULL, 'communication');
-INSERT INTO `netem_full_list` VALUES (2996, 24, 'spy', '当间谍', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2996, 24, 'spy', '侦察、间谍', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2997, 24, 'cease', '停止', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2998, 24, 'fold', '折叠', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2999, 24, 'beam', '光线、发射', NULL, NULL);
