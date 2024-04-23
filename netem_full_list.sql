@@ -3094,7 +3094,7 @@ INSERT INTO `netem_full_list` VALUES (3073, 23, 'obey', '遵守、服从', NULL,
 INSERT INTO `netem_full_list` VALUES (3074, 23, 'butter', '黄油', NULL, 'food and drink');
 INSERT INTO `netem_full_list` VALUES (3075, 23, 'carpet', '地毯', NULL, 'homes and buildings');
 INSERT INTO `netem_full_list` VALUES (3076, 23, 'civilian', '平民', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3077, 23, 'pin', '钉住、别住', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (3077, 23, 'pin', '别针、固定', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3078, 23, 'yellow', '黄色', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (3079, 23, 'pie', '馅饼', NULL, 'food and drink');
 INSERT INTO `netem_full_list` VALUES (3080, 23, 'retrieve', '取回、恢复', NULL, 'people: actions');
