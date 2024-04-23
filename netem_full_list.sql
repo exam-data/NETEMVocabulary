@@ -2927,7 +2927,7 @@ INSERT INTO `netem_full_list` VALUES (2906, 26, 'speculate', '推测', NULL, NUL
 INSERT INTO `netem_full_list` VALUES (2907, 26, 'underlie', '构成...的基础、在...之下', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2908, 26, 'precede', '先于', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2909, 26, 'quota', '配额', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2910, 26, 'surplus', '盈余、顺差', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2910, 26, 'surplus', '盈余、过剩', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2911, 26, 'drastic', '激烈的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2912, 26, 'lest', '以免', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2913, 26, 'supervise', '监督', 'supervize', 'people: actions');
