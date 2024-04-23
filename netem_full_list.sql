@@ -3048,7 +3048,7 @@ INSERT INTO `netem_full_list` VALUES (3027, 24, 'diagnose', '判断', NULL, 'bod
 INSERT INTO `netem_full_list` VALUES (3028, 24, 'scratch', '抓', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3029, 24, 'wet', '湿的', NULL, 'natural world');
 INSERT INTO `netem_full_list` VALUES (3030, 24, 'dip', '蘸', NULL, 'people: actions');
-INSERT INTO `netem_full_list` VALUES (3031, 24, 'distress', '痛苦、苦恼', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3031, 24, 'distress', '忧虑、悲伤', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3032, 24, 'drill', '练习', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3033, 24, 'sculpture', '雕塑', NULL, 'arts and media');
 INSERT INTO `netem_full_list` VALUES (3034, 24, 'warmth', '温暖', NULL, 'people: personality');
