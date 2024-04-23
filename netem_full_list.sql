@@ -3057,7 +3057,7 @@ INSERT INTO `netem_full_list` VALUES (3036, 24, 'resign', '辞职', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3037, 24, 'vigorous', '有力的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3038, 23, 'leaf', '叶子', NULL, 'natural world');
 INSERT INTO `netem_full_list` VALUES (3039, 23, 'manifest', '显示、显然的', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3040, 23, 'pen', '写', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (3040, 23, 'pen', '钢笔', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3041, 23, 'alongside', '在旁边', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (3042, 23, 'bulk', '大部分、体积', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3043, 23, 'dig', '挖', NULL, 'people: actions');
