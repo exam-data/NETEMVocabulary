@@ -2924,7 +2924,7 @@ INSERT INTO `netem_full_list` VALUES (2903, 27, 'dine', '进餐', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2904, 27, 'pronunciation', '发音', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (2905, 26, 'dissolve', '溶解', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2906, 26, 'speculate', '推测', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2907, 26, 'underlie', '之下', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2907, 26, 'underlie', '构成...的基础、在...之下', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2908, 26, 'precede', '先于', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2909, 26, 'quota', '配额', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2910, 26, 'surplus', '盈余、顺差', NULL, NULL);
