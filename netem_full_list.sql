@@ -2959,7 +2959,7 @@ INSERT INTO `netem_full_list` VALUES (2938, 26, 'grave', '坟墓', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2939, 26, 'historic', '有历史意义的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2940, 26, 'incorporate', '合并', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2941, 26, 'physicist', '物理学家', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2942, 26, 'prey', '捕食', NULL, 'animals');
+INSERT INTO `netem_full_list` VALUES (2942, 26, 'prey', '猎物、捕食', NULL, 'animals');
 INSERT INTO `netem_full_list` VALUES (2943, 26, 'stupid', '愚蠢', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (2944, 26, 'toxic', '有毒的', NULL, 'body and health');
 INSERT INTO `netem_full_list` VALUES (2945, 26, 'collar', '衣领', NULL, 'animals');
