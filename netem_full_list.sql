@@ -2941,7 +2941,7 @@ INSERT INTO `netem_full_list` VALUES (2920, 26, 'recipient', '接受者', NULL, 
 INSERT INTO `netem_full_list` VALUES (2921, 26, 'suspicion', '怀疑', NULL, 'crime');
 INSERT INTO `netem_full_list` VALUES (2922, 26, 'lag', '落后', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2923, 26, 'hypothesis', '假设', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2924, 26, 'revive', '复生', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2924, 26, 'revive', '复苏、唤醒', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2925, 26, 'undertake', '承担', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2926, 26, 'deficiency', '不足、缺乏', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2927, 26, 'enrol', '登记', 'enroll', NULL);
