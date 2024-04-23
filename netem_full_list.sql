@@ -3054,7 +3054,7 @@ INSERT INTO `netem_full_list` VALUES (3033, 24, 'sculpture', '雕塑', NULL, 'ar
 INSERT INTO `netem_full_list` VALUES (3034, 24, 'warmth', '温暖', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3035, 24, 'dump', '垃圾场、倾倒', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3036, 24, 'resign', '辞职', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3037, 24, 'vigorous', '有力的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3037, 24, 'vigorous', '精力充沛的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3038, 23, 'leaf', '叶子', NULL, 'natural world');
 INSERT INTO `netem_full_list` VALUES (3039, 23, 'manifest', '显示、显然的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3040, 23, 'pen', '写', NULL, 'communication');
