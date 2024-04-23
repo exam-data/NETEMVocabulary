@@ -3076,7 +3076,7 @@ INSERT INTO `netem_full_list` VALUES (3055, 23, 'contradict', '反驳', NULL, NU
 INSERT INTO `netem_full_list` VALUES (3056, 23, 'leak', '泄露', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3057, 23, 'seize', '抓住', 'seise', 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3058, 23, 'authentic', '真实的、真正的', NULL, 'describing things');
-INSERT INTO `netem_full_list` VALUES (3059, 23, 'coordinate', '坐标', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3059, 23, 'coordinate', '协调、坐标', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3060, 23, 'hip', '髋', NULL, 'body and health');
 INSERT INTO `netem_full_list` VALUES (3061, 23, 'feasible', '可行的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3062, 23, 'gloomy', '阴暗的', NULL, NULL);
