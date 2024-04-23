@@ -3088,7 +3088,7 @@ INSERT INTO `netem_full_list` VALUES (3067, 23, 'painter', '画家', NULL, 'arts
 INSERT INTO `netem_full_list` VALUES (3068, 23, 'stir', '搅拌', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3069, 23, 'bitter', '苦的', NULL, 'food and drink');
 INSERT INTO `netem_full_list` VALUES (3070, 23, 'digest', '消化', NULL, 'body and health');
-INSERT INTO `netem_full_list` VALUES (3071, 23, 'exotic', '奇异的、异国的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3071, 23, 'exotic', '奇异的、外来的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3072, 23, 'lazy', '懒惰的', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3073, 23, 'obey', '遵守、服从', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3074, 23, 'butter', '黄油', NULL, 'food and drink');
