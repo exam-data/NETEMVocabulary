@@ -2980,7 +2980,7 @@ INSERT INTO `netem_full_list` VALUES (2959, 25, 'volcano', '火山', NULL, 'natu
 INSERT INTO `netem_full_list` VALUES (2960, 25, 'deem', '认为', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2961, 25, 'nowhere', '无处', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2962, 25, 'contend', '竞争、争辩', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (2963, 25, 'delicate', '精美的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (2963, 25, 'delicate', '易碎的、精致的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2964, 25, 'mathematical', '数学的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2965, 25, 'outer', '外面的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2966, 25, 'allowance', '津贴', NULL, 'money');
