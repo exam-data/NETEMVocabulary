@@ -2965,7 +2965,7 @@ INSERT INTO `netem_full_list` VALUES (2944, 26, 'toxic', '有毒的', NULL, 'bod
 INSERT INTO `netem_full_list` VALUES (2945, 26, 'collar', '衣领', NULL, 'animals');
 INSERT INTO `netem_full_list` VALUES (2946, 26, 'plot', '情节', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2947, 26, 'rainbow', '彩虹', NULL, 'natural world');
-INSERT INTO `netem_full_list` VALUES (2948, 26, 'sheer', '陡峭的、避开', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2948, 26, 'sheer', '纯粹的、陡峭的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2949, 26, 'sing', '唱歌', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2950, 26, 'soar', '翱翔、高飞', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2951, 26, 'studio', '工作室', NULL, NULL);
