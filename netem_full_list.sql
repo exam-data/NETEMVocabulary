@@ -2998,7 +2998,7 @@ INSERT INTO `netem_full_list` VALUES (2977, 25, 'competent', '有能力的', NUL
 INSERT INTO `netem_full_list` VALUES (2978, 25, 'hat', '帽子', NULL, 'clothes');
 INSERT INTO `netem_full_list` VALUES (2979, 25, 'prestige', '声望', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2980, 25, 'silly', '愚蠢的', NULL, 'people: personality');
-INSERT INTO `netem_full_list` VALUES (2981, 25, 'split', '分', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (2981, 25, 'split', '分开、划分', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (2982, 25, 'tailor', '裁缝', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (2983, 25, 'indoor', '室内的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (2984, 25, 'offend', '冒犯', NULL, 'people: personality');
