@@ -3021,7 +3021,7 @@ INSERT INTO `netem_full_list` VALUES (3000, 24, 'charter', '宪章', NULL, NULL)
 INSERT INTO `netem_full_list` VALUES (3001, 24, 'correlate', '关联', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3002, 24, 'departure', '离开', NULL, 'travel');
 INSERT INTO `netem_full_list` VALUES (3003, 24, 'float', '漂浮', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3004, 24, 'array', '数组', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3004, 24, 'array', '大批、数列', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3005, 24, 'engagement', '订婚', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3006, 24, 'fertile', '肥沃的', NULL, 'natural world');
 INSERT INTO `netem_full_list` VALUES (3007, 24, 'fool', '傻瓜', NULL, 'people: personality');
