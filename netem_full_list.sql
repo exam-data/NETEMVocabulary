@@ -3206,7 +3206,7 @@ INSERT INTO `netem_full_list` VALUES (3185, 20, 'violate', '违背、侵犯', NU
 INSERT INTO `netem_full_list` VALUES (3186, 20, 'poisonous', '有毒的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3187, 20, 'silent', '沉默的', NULL, 'work');
 INSERT INTO `netem_full_list` VALUES (3188, 20, 'thereby', '从而', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3189, 20, 'cling', '坚持', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (3189, 20, 'cling', '紧贴、坚持', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3190, 20, 'divert', '转移', NULL, 'travel');
 INSERT INTO `netem_full_list` VALUES (3191, 20, 'fraction', '小部分、分数', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3192, 20, 'applicable', '适用的', NULL, NULL);
