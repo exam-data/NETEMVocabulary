@@ -3125,7 +3125,7 @@ INSERT INTO `netem_full_list` VALUES (3104, 22, 'cart', '手推车', NULL, NULL)
 INSERT INTO `netem_full_list` VALUES (3105, 22, 'comply', '顺从', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3106, 22, 'demographic', '人口的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3107, 22, 'imitation', '模仿', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3108, 22, 'incidence', '入射', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3108, 22, 'incidence', '发生率', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3109, 22, 'invitation', '邀请', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3110, 22, 'mill', '磨', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3111, 22, 'super', '极好的', NULL, NULL);
