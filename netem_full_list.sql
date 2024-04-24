@@ -3161,7 +3161,7 @@ INSERT INTO `netem_full_list` VALUES (3140, 21, 'flag', '旗', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3141, 21, 'frontier', '边境、边界', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3142, 21, 'illusion', '错觉', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3143, 21, 'slogan', '口号', NULL, 'communication');
-INSERT INTO `netem_full_list` VALUES (3144, 21, 'vessel', '船', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3144, 21, 'vessel', '器皿、船', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3145, 21, 'compute', '估计', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3146, 21, 'episode', '插曲', NULL, 'arts and media');
 INSERT INTO `netem_full_list` VALUES (3147, 21, 'indication', '迹象、指示', NULL, NULL);
