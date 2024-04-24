@@ -3154,7 +3154,7 @@ INSERT INTO `netem_full_list` VALUES (3133, 21, 'snap', '猛咬、拍摄、突�
 INSERT INTO `netem_full_list` VALUES (3134, 21, 'undoubtedly', '无疑地', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3135, 21, 'visa', '签证', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3136, 21, 'wing', '翼', NULL, 'politics');
-INSERT INTO `netem_full_list` VALUES (3137, 21, 'commute', '通勤、改换', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (3137, 21, 'commute', '通勤', NULL, 'travel');
 INSERT INTO `netem_full_list` VALUES (3138, 21, 'dare', '敢', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3139, 21, 'energetic', '精力旺盛的、能量的', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3140, 21, 'flag', '旗', NULL, NULL);
