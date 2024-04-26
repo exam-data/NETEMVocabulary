@@ -3271,7 +3271,7 @@ INSERT INTO `netem_full_list` VALUES (3250, 20, 'pat', '轻拍', NULL, 'people: 
 INSERT INTO `netem_full_list` VALUES (3251, 20, 'prospective', '未来的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3252, 20, 'uncle', '叔', NULL, 'relationships');
 INSERT INTO `netem_full_list` VALUES (3253, 19, 'blueprint', '蓝图', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3254, 19, 'federation', '联合、联邦', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3254, 19, 'federation', '联盟、同盟', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3255, 19, 'telescope', '望远镜', NULL, 'technology');
 INSERT INTO `netem_full_list` VALUES (3256, 19, 'cheque', '支票', 'check', 'money');
 INSERT INTO `netem_full_list` VALUES (3257, 19, 'republican', '共和政体的', NULL, NULL);
