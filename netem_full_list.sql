@@ -3268,7 +3268,7 @@ INSERT INTO `netem_full_list` VALUES (3247, 20, 'kindergarten', '幼儿园', NUL
 INSERT INTO `netem_full_list` VALUES (3248, 20, 'litter', '垃圾', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3249, 20, 'passport', '护照', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3250, 20, 'pat', '轻拍', NULL, 'people: actions');
-INSERT INTO `netem_full_list` VALUES (3251, 20, 'prospective', '未来的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3251, 20, 'prospective', '潜在的、预期的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3252, 20, 'uncle', '叔', NULL, 'relationships');
 INSERT INTO `netem_full_list` VALUES (3253, 19, 'blueprint', '蓝图', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3254, 19, 'federation', '联合、联邦', NULL, NULL);
