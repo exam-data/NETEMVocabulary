@@ -3247,7 +3247,7 @@ INSERT INTO `netem_full_list` VALUES (3226, 20, 'wrap', '包裹', NULL, 'people:
 INSERT INTO `netem_full_list` VALUES (3227, 20, 'altitude', '高度', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3228, 20, 'cattle', '牛', NULL, 'animals');
 INSERT INTO `netem_full_list` VALUES (3229, 20, 'cottage', '村舍', NULL, 'homes and buildings');
-INSERT INTO `netem_full_list` VALUES (3230, 20, 'drown', '淹死', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3230, 20, 'drown', '淹没', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3231, 20, 'empire', '帝国', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3232, 20, 'ignorance', '无知', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3233, 20, 'landlord', '房东', NULL, NULL);
