@@ -3211,7 +3211,7 @@ INSERT INTO `netem_full_list` VALUES (3190, 20, 'divert', '转移', NULL, 'trave
 INSERT INTO `netem_full_list` VALUES (3191, 20, 'fraction', '小部分、分数', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3192, 20, 'applicable', '适用的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3193, 20, 'bachelor', '学士、单身汉', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3194, 20, 'carrier', '航空母舰', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3194, 20, 'carrier', '载体', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3195, 20, 'hole', '洞', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3196, 20, 'initiate', '开始', NULL, 'people: actions');
 INSERT INTO `netem_full_list` VALUES (3197, 20, 'mate', '交配、配偶', NULL, 'relationships');
