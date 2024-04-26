@@ -3317,7 +3317,7 @@ INSERT INTO `netem_full_list` VALUES (3296, 19, 'deteriorate', '恶化', NULL, N
 INSERT INTO `netem_full_list` VALUES (3297, 19, 'equation', '方程式', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3298, 19, 'orange', '橙色的', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (3299, 19, 'postpone', '推迟', NULL, 'people: actions');
-INSERT INTO `netem_full_list` VALUES (3300, 19, 'pronounce', '发音', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (3300, 19, 'pronounce', '发音、宣告', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3301, 19, 'thorough', '彻底的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3302, 19, 'contaminate', '污染', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3303, 19, 'creep', '爬、蔓延', NULL, NULL);
