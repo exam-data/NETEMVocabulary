@@ -3308,7 +3308,7 @@ INSERT INTO `netem_full_list` VALUES (3287, 19, 'destiny', '命运', NULL, NULL)
 INSERT INTO `netem_full_list` VALUES (3288, 19, 'dim', '暗淡的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3289, 19, 'paradox', '悖论', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3290, 19, 'repeatedly', '重复地', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3291, 19, 'resolution', '解决方案', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3291, 19, 'resolution', '解决方案、决心', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3292, 19, 'scream', '喊叫', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3293, 19, 'shade', '阴影', NULL, 'describing things');
 INSERT INTO `netem_full_list` VALUES (3294, 19, 'collaborate', '合作', NULL, NULL);
