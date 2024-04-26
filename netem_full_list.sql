@@ -6091,7 +6091,7 @@ INSERT INTO `netem_full_list` VALUES (3035, 24, 'dump', '垃圾场、倾倒', NU
 
 INSERT INTO `netem_full_list` VALUES (3036, 24, 'resign', '辞职', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3037, 24, 'vigorous', '有力的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3037, 24, 'vigorous', '充满力量的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3038, 23, 'leaf', '叶子', NULL, 'natural world');
 
