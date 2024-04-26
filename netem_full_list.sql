@@ -5913,7 +5913,7 @@ INSERT INTO `netem_full_list` VALUES (2946, 26, 'plot', '情节', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2947, 26, 'rainbow', '彩虹', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (2948, 26, 'sheer', '陡峭的、避开', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2948, 26, 'sheer', '纯然的、陡峭的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2949, 26, 'sing', '唱歌', NULL, NULL);
 
