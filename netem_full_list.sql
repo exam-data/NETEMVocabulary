@@ -3290,7 +3290,7 @@ INSERT INTO `netem_full_list` VALUES (3269, 19, 'ant', '蚂蚁', NULL, 'animals'
 INSERT INTO `netem_full_list` VALUES (3270, 19, 'betray', '背叛', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3271, 19, 'handful', '少数', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3272, 19, 'imperative', '命令', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3273, 19, 'reckon', '认为', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (3273, 19, 'reckon', '估算、认为', NULL, 'people: personality');
 INSERT INTO `netem_full_list` VALUES (3274, 19, 'acute', '严重的、敏锐的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3275, 19, 'castle', '城堡', NULL, 'homes and buildings');
 INSERT INTO `netem_full_list` VALUES (3276, 19, 'considerate', '体贴的', NULL, NULL);
