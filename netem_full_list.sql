@@ -3233,7 +3233,7 @@ INSERT INTO `netem_full_list` VALUES (3212, 20, 'sole', '鞋底、唯一的', NU
 INSERT INTO `netem_full_list` VALUES (3213, 20, 'spark', '火星、引起', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3214, 20, 'sportsman', '运动员', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3215, 20, 'tissue', '纸巾', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3216, 20, 'toll', '代价、通行费', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3216, 20, 'toll', '损失、通行费', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3217, 20, 'verify', '核实', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3218, 20, 'compulsory', '强制的、义务的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3219, 20, 'cyberspace', '网络空间', NULL, NULL);
