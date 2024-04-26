@@ -3229,7 +3229,7 @@ INSERT INTO `netem_full_list` VALUES (3208, 20, 'miserable', '悲惨的', NULL, 
 INSERT INTO `netem_full_list` VALUES (3209, 20, 'practitioner', '从业者', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3210, 20, 'proposition', '命题', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3211, 20, 'qualify', '合格', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3212, 20, 'sole', '唯一的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3212, 20, 'sole', '鞋底、唯一的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3213, 20, 'spark', '火星、引起', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3214, 20, 'sportsman', '运动员', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3215, 20, 'tissue', '纸巾', NULL, NULL);
