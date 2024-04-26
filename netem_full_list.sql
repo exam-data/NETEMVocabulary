@@ -3256,7 +3256,7 @@ INSERT INTO `netem_full_list` VALUES (3235, 20, 'prosperous', '繁荣的', NULL,
 INSERT INTO `netem_full_list` VALUES (3236, 20, 'tense', '紧张的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3237, 20, 'versus', '对抗', NULL, 'shopping');
 INSERT INTO `netem_full_list` VALUES (3238, 20, 'allocate', '分配', NULL, NULL);
-INSERT INTO `netem_full_list` VALUES (3239, 20, 'beg', '祈求', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (3239, 20, 'beg', '乞求', NULL, 'communication');
 INSERT INTO `netem_full_list` VALUES (3240, 20, 'glad', '高兴的', NULL, NULL);
 INSERT INTO `netem_full_list` VALUES (3241, 20, 'infect', '感染', NULL, 'body and health');
 INSERT INTO `netem_full_list` VALUES (3242, 20, 'mess', '混乱', NULL, NULL);
