@@ -7109,7 +7109,7 @@ INSERT INTO `netem_full_list` VALUES (3544, 15, 'clarity', '清楚', NULL, 'comm
 
 INSERT INTO `netem_full_list` VALUES (3545, 15, 'dirt', '污垢、泥土', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3546, 15, 'disclose', '公开', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3546, 15, 'disclose', '揭露、公开', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3547, 15, 'embody', '包含', NULL, NULL);
 
