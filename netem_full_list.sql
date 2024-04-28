@@ -6691,7 +6691,7 @@ INSERT INTO `netem_full_list` VALUES (3335, 18, 'crawl', '爬', NULL, 'people: a
 
 INSERT INTO `netem_full_list` VALUES (3336, 18, 'exit', '退出', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (3337, 18, 'masculine', '男性', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3337, 18, 'masculine', '阳刚的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3338, 18, 'restrain', '抑制', NULL, 'people: actions');
 
