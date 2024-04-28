@@ -7163,7 +7163,7 @@ INSERT INTO `netem_full_list` VALUES (3571, 15, 'confess', '承认', NULL, 'comm
 
 INSERT INTO `netem_full_list` VALUES (3572, 15, 'coupon', '息票', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3573, 15, 'discharge', '放电', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3573, 15, 'discharge', '释放', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3574, 15, 'drain', '下水道、排出', NULL, NULL);
 
