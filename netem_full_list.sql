@@ -6971,7 +6971,7 @@ INSERT INTO `netem_full_list` VALUES (3475, 16, 'spin', '旋转', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3476, 16, 'tank', '坦克、水箱', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3477, 16, 'thoughtful', '深思的、体贴的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3477, 16, 'thoughtful', '深思熟虑的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3478, 16, 'veteran', '老兵', NULL, NULL);
 
