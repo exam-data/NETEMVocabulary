@@ -6849,7 +6849,7 @@ INSERT INTO `netem_full_list` VALUES (3414, 17, 'persuasion', '说服', NULL, 'c
 
 INSERT INTO `netem_full_list` VALUES (3415, 17, 'plug', '塞、插头', NULL, 'technology');
 
-INSERT INTO `netem_full_list` VALUES (3416, 17, 'revelation', '启示', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3416, 17, 'revelation', '揭露、启示', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3417, 17, 'terrify', '使恐怖、使害怕', NULL, 'people: personality');
 
