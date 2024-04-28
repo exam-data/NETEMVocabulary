@@ -6789,7 +6789,7 @@ INSERT INTO `netem_full_list` VALUES (3384, 17, 'cartoon', '卡通', NULL, 'arts
 
 INSERT INTO `netem_full_list` VALUES (3385, 17, 'medal', '奖章', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3386, 17, 'detach', '派遣', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3386, 17, 'detach', '分离、派遣', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3387, 17, 'durable', '耐用持久的', NULL, NULL);
 
