@@ -6891,7 +6891,7 @@ INSERT INTO `netem_full_list` VALUES (3435, 17, 'lamp', '灯', NULL, 'homes and 
 
 INSERT INTO `netem_full_list` VALUES (3436, 17, 'league', '联盟', NULL, 'shopping');
 
-INSERT INTO `netem_full_list` VALUES (3437, 17, 'tablet', '平板电脑', NULL, 'body and health');
+INSERT INTO `netem_full_list` VALUES (3437, 17, 'tablet', '药片、平板电脑', NULL, 'body and health');
 
 INSERT INTO `netem_full_list` VALUES (3438, 17, 'affluent', '富裕的', NULL, 'money');
 
