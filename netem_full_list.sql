@@ -7417,7 +7417,7 @@ INSERT INTO `netem_full_list` VALUES (3698, 13, 'laser', '激光', NULL, 'techno
 
 INSERT INTO `netem_full_list` VALUES (3699, 13, 'legacy', '遗赠物', NULL, 'money');
 
-INSERT INTO `netem_full_list` VALUES (3700, 13, 'entail', '带来', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3700, 13, 'entail', '需要、牵扯', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3701, 13, 'nail', '钉、钉子', NULL, 'body and health');
 
