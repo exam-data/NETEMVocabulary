@@ -7281,7 +7281,7 @@ INSERT INTO `netem_full_list` VALUES (3630, 14, 'wholly', '完全地', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (3631, 14, 'ceiling', '天花板', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (3632, 14, 'default', '默认', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3632, 14, 'default', '默认、拖欠', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3633, 14, 'duration', '持续时间', NULL, NULL);
 
