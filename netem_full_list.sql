@@ -7409,7 +7409,7 @@ INSERT INTO `netem_full_list` VALUES (3694, 13, 'premier', '总理', NULL, NULL)
 
 INSERT INTO `netem_full_list` VALUES (3695, 13, 'hug', '拥抱', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (3696, 13, 'nasty', '严重的', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (3696, 13, 'nasty', '丑陋的、惹人厌的', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (3697, 13, 'ideology', '意识形态', NULL, NULL);
 
