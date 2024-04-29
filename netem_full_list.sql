@@ -7759,7 +7759,7 @@ INSERT INTO `netem_full_list` VALUES (3869, 12, 'certify', '证明', NULL, NULL)
 
 INSERT INTO `netem_full_list` VALUES (3870, 12, 'collide', '碰撞', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3871, 12, 'cord', '索', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3871, 12, 'cord', '绳索', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3872, 12, 'denial', '否认', NULL, NULL);
 
