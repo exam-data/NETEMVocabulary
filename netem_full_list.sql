@@ -7327,7 +7327,7 @@ INSERT INTO `netem_full_list` VALUES (3653, 14, 'golf', '高尔夫球', NULL, 's
 
 INSERT INTO `netem_full_list` VALUES (3654, 14, 'realm', '领域', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3655, 14, 'scarcely', '几乎不、简直不', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3655, 14, 'scarcely', '几乎不、刚刚', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3656, 14, 'tragic', '悲惨的', NULL, 'people: personality');
 
