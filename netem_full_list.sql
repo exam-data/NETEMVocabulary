@@ -7767,7 +7767,7 @@ INSERT INTO `netem_full_list` VALUES (3873, 12, 'dormitory', '集体宿舍', NUL
 
 INSERT INTO `netem_full_list` VALUES (3874, 12, 'lemon', '柠檬', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (3875, 12, 'ounce', '少量、盎司（单位）', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3875, 12, 'ounce', '盎司', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3876, 12, 'pedestrian', '行人', NULL, NULL);
 
