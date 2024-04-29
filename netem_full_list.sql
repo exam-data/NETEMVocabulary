@@ -7633,7 +7633,7 @@ INSERT INTO `netem_full_list` VALUES (3806, 12, 'bypass', '绕开、旁道', NUL
 
 INSERT INTO `netem_full_list` VALUES (3807, 12, 'chemist', '化学家', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3808, 12, 'chunk', '矮胖的人或物、发出猛冲的声音', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3808, 12, 'chunk', '厚块、大片', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3809, 12, 'drawback', '缺点', NULL, NULL);
 
