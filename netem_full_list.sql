@@ -7179,7 +7179,7 @@ INSERT INTO `netem_full_list` VALUES (3579, 15, 'mad', '生气的、着迷的', 
 
 INSERT INTO `netem_full_list` VALUES (3580, 15, 'marathon', '马拉松', NULL, 'shopping');
 
-INSERT INTO `netem_full_list` VALUES (3581, 15, 'optional', '可选择的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3581, 15, 'optional', '可选的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3582, 15, 'orientation', '定位', NULL, 'education');
 
