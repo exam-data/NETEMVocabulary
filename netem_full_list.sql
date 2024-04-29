@@ -7713,7 +7713,7 @@ INSERT INTO `netem_full_list` VALUES (3846, 12, 'terminal', '终点、末端', N
 
 INSERT INTO `netem_full_list` VALUES (3847, 12, 'tremble', '颤抖', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3848, 12, 'tribute', '敬意', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (3848, 12, 'tribute', '贡品、称赞', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (3849, 12, 'devil', '魔鬼', NULL, NULL);
 
