@@ -7403,7 +7403,7 @@ INSERT INTO `netem_full_list` VALUES (3691, 14, 'pronoun', '代词', NULL, NULL)
 
 INSERT INTO `netem_full_list` VALUES (3692, 14, 'reconcile', '调和、一致', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3693, 14, 'tender', '投标', NULL, 'food and drink');
+INSERT INTO `netem_full_list` VALUES (3693, 14, 'tender', '柔软、投标', NULL, 'food and drink');
 
 INSERT INTO `netem_full_list` VALUES (3694, 13, 'premier', '总理', NULL, NULL);
 
