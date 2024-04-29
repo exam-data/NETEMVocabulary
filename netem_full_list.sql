@@ -7461,7 +7461,7 @@ INSERT INTO `netem_full_list` VALUES (3720, 13, 'terminate', '终止', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (3721, 13, 'tow', '拖', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3722, 13, 'uneasy', '不舒服的', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (3722, 13, 'uneasy', '不安的', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (3723, 13, 'weave', '编织', NULL, NULL);
 
