@@ -7771,7 +7771,7 @@ INSERT INTO `netem_full_list` VALUES (3875, 12, 'ounce', '盎司', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3876, 12, 'pedestrian', '行人', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3877, 12, 'sail', '帆', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (3877, 12, 'sail', '航行、帆', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (3878, 12, 'salad', '色拉', NULL, 'food and drink');
 
