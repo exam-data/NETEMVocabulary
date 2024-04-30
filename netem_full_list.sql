@@ -7775,7 +7775,7 @@ INSERT INTO `netem_full_list` VALUES (3877, 12, 'sail', '帆', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (3878, 12, 'salad', '色拉', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (3879, 12, 'scenario', '设想', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3879, 12, 'scenario', '场景', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3880, 12, 'sightseeing', '游览', NULL, 'travel');
 
