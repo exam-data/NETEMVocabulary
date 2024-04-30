@@ -7843,7 +7843,7 @@ INSERT INTO `netem_full_list` VALUES (3911, 11, 'attorney', '律师', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (3912, 11, 'classification', '分类', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3913, 11, 'declaration', '申报', NULL, 'politics');
+INSERT INTO `netem_full_list` VALUES (3913, 11, 'declaration', '宣告、声明', NULL, 'politics');
 
 INSERT INTO `netem_full_list` VALUES (3914, 11, 'editorial', '社论', NULL, NULL);
 
