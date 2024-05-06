@@ -8195,7 +8195,7 @@ INSERT INTO `netem_full_list` VALUES (4087, 10, 'resemblance', '相似', NULL, N
 
 INSERT INTO `netem_full_list` VALUES (4088, 10, 'sometime', '改天、来日', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4089, 10, 'staple', '主要的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4089, 10, 'staple', '主要的、订书钉', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4090, 10, 'suck', '吸', NULL, NULL);
 
