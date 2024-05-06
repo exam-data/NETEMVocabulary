@@ -7907,7 +7907,7 @@ INSERT INTO `netem_full_list` VALUES (3943, 11, 'marginal', '微小的、边际�
 
 INSERT INTO `netem_full_list` VALUES (3944, 11, 'obsession', '困扰', NULL, 'people: personality');
 
-INSERT INTO `netem_full_list` VALUES (3945, 11, 'offensive', '攻势、攻击', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (3945, 11, 'offensive', '冒犯的、进攻性的', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (3946, 11, 'petroleum', '石油', NULL, NULL);
 
