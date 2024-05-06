@@ -8065,7 +8065,7 @@ INSERT INTO `netem_full_list` VALUES (4022, 10, 'sunrise', '日出', 'sunrize', 
 
 INSERT INTO `netem_full_list` VALUES (4023, 10, 'susceptible', '易受感染的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4024, 10, 'agony', '挣扎', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4024, 10, 'agony', '极度痛苦', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4025, 10, 'bizarre', '奇异的', NULL, 'describing things');
 
