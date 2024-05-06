@@ -7961,7 +7961,7 @@ INSERT INTO `netem_full_list` VALUES (3970, 11, 'omit', '省略', NULL, 'people:
 
 INSERT INTO `netem_full_list` VALUES (3971, 11, 'prosper', '成功', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3972, 11, 'scarce', '稀少的、罕见的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (3972, 11, 'scarce', '缺乏的、稀有的', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (3973, 11, 'thunder', '闪电', NULL, 'natural world');
 
