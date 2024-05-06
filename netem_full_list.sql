@@ -8283,7 +8283,7 @@ INSERT INTO `netem_full_list` VALUES (4131, 9, 'colonial', '殖民地的', NULL,
 
 INSERT INTO `netem_full_list` VALUES (4132, 9, 'conductor', '指挥、导体', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4133, 9, 'cripple', '削弱', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4133, 9, 'cripple', '跛子、削弱', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4134, 9, 'mandate', '授权', NULL, NULL);
 
