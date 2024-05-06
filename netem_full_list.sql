@@ -8183,7 +8183,7 @@ INSERT INTO `netem_full_list` VALUES (4081, 10, 'dwarf', '侏儒', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4082, 10, 'embark', '着手', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4083, 10, 'embed', '嵌入、深留脑中', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4083, 10, 'embed', '嵌入', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4084, 10, 'fuss', '大惊小怪', NULL, 'people: personality');
 
