@@ -8203,7 +8203,7 @@ INSERT INTO `netem_full_list` VALUES (4091, 10, 'terror', '恐惧', NULL, 'peopl
 
 INSERT INTO `netem_full_list` VALUES (4092, 10, 'tonight', '今晚', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4093, 10, 'wardrobe', '全部服装', NULL, 'clothes');
+INSERT INTO `netem_full_list` VALUES (4093, 10, 'wardrobe', '衣柜', NULL, 'clothes');
 
 INSERT INTO `netem_full_list` VALUES (4094, 10, 'wreck', '残骸、破坏', NULL, 'people: actions');
 
