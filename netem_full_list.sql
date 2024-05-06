@@ -8129,7 +8129,7 @@ INSERT INTO `netem_full_list` VALUES (4054, 10, 'layoff', '临时解雇、操作
 
 INSERT INTO `netem_full_list` VALUES (4055, 10, 'messenger', '报信者', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4056, 10, 'oral', '口试', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (4056, 10, 'oral', '口述的', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (4057, 10, 'outbreak', '爆发', NULL, NULL);
 
