@@ -7979,7 +7979,7 @@ INSERT INTO `netem_full_list` VALUES (3979, 11, 'carriage', '运输、四轮马�
 
 INSERT INTO `netem_full_list` VALUES (3980, 11, 'cube', '立方', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3981, 11, 'elevator', '斗式皮带输送机', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3981, 11, 'elevator', '电梯、升降机', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3982, 11, 'fixture', '固定装置', NULL, NULL);
 
