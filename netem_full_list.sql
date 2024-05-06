@@ -8181,7 +8181,7 @@ INSERT INTO `netem_full_list` VALUES (4080, 10, 'convict', '罪犯', NULL, 'crim
 
 INSERT INTO `netem_full_list` VALUES (4081, 10, 'dwarf', '侏儒', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4082, 10, 'embark', '着手', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4082, 10, 'embark', '着手、、上船', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4083, 10, 'embed', '深留脑中', NULL, NULL);
 
