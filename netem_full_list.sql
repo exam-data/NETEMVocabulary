@@ -7919,7 +7919,7 @@ INSERT INTO `netem_full_list` VALUES (3949, 11, 'safeguard', '保护', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (3950, 11, 'signify', '表示、意味着', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3951, 11, 'simulate', '模拟', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3951, 11, 'simulate', '模拟、冒充', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3952, 11, 'sphere', '球', NULL, NULL);
 
