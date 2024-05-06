@@ -8137,7 +8137,7 @@ INSERT INTO `netem_full_list` VALUES (4058, 10, 'portrait', '肖像', NULL, 'art
 
 INSERT INTO `netem_full_list` VALUES (4059, 10, 'procession', '队伍', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4060, 10, 'recognise', '认可', 'recognize', NULL);
+INSERT INTO `netem_full_list` VALUES (4060, 10, 'recognise', '意识到、认可', 'recognize', NULL);
 
 INSERT INTO `netem_full_list` VALUES (4061, 10, 'southeast', '东南', NULL, NULL);
 
