@@ -8071,7 +8071,7 @@ INSERT INTO `netem_full_list` VALUES (4025, 10, 'bizarre', '奇异的', NULL, 'd
 
 INSERT INTO `netem_full_list` VALUES (4026, 10, 'conversely', '相反地', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4027, 10, 'dedicate', '致力于', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4027, 10, 'dedicate', '奉献、致力于', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4028, 10, 'extinguish', '扑灭', NULL, NULL);
 
