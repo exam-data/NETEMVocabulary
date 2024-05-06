@@ -7939,7 +7939,7 @@ INSERT INTO `netem_full_list` VALUES (3959, 11, 'candle', '蜡烛', NULL, 'homes
 
 INSERT INTO `netem_full_list` VALUES (3960, 11, 'closet', '壁橱', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (3961, 11, 'duplicate', '重复', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3961, 11, 'duplicate', '复印、重复的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3962, 11, 'evaporate', '蒸发', NULL, NULL);
 
