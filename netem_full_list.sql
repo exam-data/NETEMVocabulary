@@ -7993,7 +7993,7 @@ INSERT INTO `netem_full_list` VALUES (3986, 11, 'merchant', '商人', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (3987, 11, 'pitch', '球场、投', NULL, 'shopping');
 
-INSERT INTO `netem_full_list` VALUES (3988, 11, 'polar', '极性', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (3988, 11, 'polar', '两级的、对立的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (3989, 11, 'reassure', '再保证', NULL, 'communication');
 
