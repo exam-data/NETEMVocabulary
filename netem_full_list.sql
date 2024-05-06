@@ -8357,7 +8357,7 @@ INSERT INTO `netem_full_list` VALUES (4168, 9, 'concise', '简明的', 'concize'
 
 INSERT INTO `netem_full_list` VALUES (4169, 9, 'disperse', '分散', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4170, 9, 'dividend', '股息', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4170, 9, 'dividend', '被除数、股息', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4171, 9, 'documentary', '纪录片', NULL, 'arts and media');
 
