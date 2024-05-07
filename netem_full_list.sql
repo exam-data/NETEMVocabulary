@@ -847,7 +847,7 @@ INSERT INTO `netem_full_list` VALUES (413, 430, 'design', '设计', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (414, 429, 'history', '历史', NULL, 'education');
 
-INSERT INTO `netem_full_list` VALUES (415, 428, 'nation', '国家', NULL, 'politics');
+INSERT INTO `netem_full_list` VALUES (415, 428, 'nation', '国家、民族', NULL, 'politics');
 
 INSERT INTO `netem_full_list` VALUES (416, 426, 'real', '真的', NULL, NULL);
 
