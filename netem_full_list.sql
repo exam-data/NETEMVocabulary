@@ -3187,7 +3187,7 @@ INSERT INTO `netem_full_list` VALUES (1583, 84, 'clone', '克隆', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1584, 84, 'commission', '委员会、委托', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1585, 84, 'settle', '安定、定居', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1585, 84, 'settle', '解决、定居', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (1586, 84, 'insist', '坚持', NULL, 'communication');
 
