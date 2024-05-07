@@ -259,7 +259,7 @@ INSERT INTO `netem_full_list` VALUES (119, 1554, 'over', '在…上方、结束'
 
 INSERT INTO `netem_full_list` VALUES (120, 1539, 'then', '然后', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (121, 1538, 'minute', '微小的、详细的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (121, 1538, 'minute', '分钟、微小的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (122, 1528, 'after', '在…之后', NULL, NULL);
 
