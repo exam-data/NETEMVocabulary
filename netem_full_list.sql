@@ -3269,7 +3269,7 @@ INSERT INTO `netem_full_list` VALUES (1624, 81, 'minority', '少数', NULL, 'des
 
 INSERT INTO `netem_full_list` VALUES (1625, 80, 'relevant', '相关的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1626, 80, 'cool', '冷却', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1626, 80, 'cool', '酷、使冷静', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1627, 80, 'deserve', '值得、应得', NULL, NULL);
 
