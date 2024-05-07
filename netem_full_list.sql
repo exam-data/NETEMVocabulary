@@ -741,7 +741,7 @@ INSERT INTO `netem_full_list` VALUES (360, 496, 'away', '离开', NULL, 'describ
 
 INSERT INTO `netem_full_list` VALUES (361, 493, 'happen', '发生', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (362, 492, 'fall', '掉落', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (362, 492, 'fall', '下降、掉落', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (363, 491, 'self', '自我、自己', NULL, NULL);
 
