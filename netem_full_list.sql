@@ -763,7 +763,7 @@ INSERT INTO `netem_full_list` VALUES (371, 487, 'under', '在…之下', NULL, '
 
 INSERT INTO `netem_full_list` VALUES (372, 485, 'activity', '活跃、活动', NULL, 'work');
 
-INSERT INTO `netem_full_list` VALUES (373, 481, 'national', '国家的', NULL, 'politics');
+INSERT INTO `netem_full_list` VALUES (373, 481, 'national', '国家的、民族的', NULL, 'politics');
 
 INSERT INTO `netem_full_list` VALUES (374, 481, 'brain', '大脑', NULL, 'body and health');
 
