@@ -3161,7 +3161,7 @@ INSERT INTO `netem_full_list` VALUES (1570, 86, 'productive', '盛产的、富�
 
 INSERT INTO `netem_full_list` VALUES (1571, 86, 'enormous', '巨大的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (1572, 86, 'conservation', '保存', NULL, 'natural world');
+INSERT INTO `netem_full_list` VALUES (1572, 86, 'conservation', '保护、保存', NULL, 'natural world');
 
 INSERT INTO `netem_full_list` VALUES (1573, 86, 'urge', '催促、敦促', NULL, NULL);
 
