@@ -2873,7 +2873,7 @@ INSERT INTO `netem_full_list` VALUES (1426, 98, 'yes', '是', NULL, 'communicati
 
 INSERT INTO `netem_full_list` VALUES (1427, 98, 'narrow', '狭窄的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (1428, 98, 'transfer', '转移（特指空间上的转移）、传输、转让', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1428, 98, 'transfer', '转移、传输', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1429, 98, 'copy', '复制', NULL, 'people: actions');
 
