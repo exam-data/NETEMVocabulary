@@ -643,7 +643,7 @@ INSERT INTO `netem_full_list` VALUES (311, 588, 'skill', '技术', NULL, 'people
 
 INSERT INTO `netem_full_list` VALUES (312, 587, 'yet', '然而', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (313, 585, 'form', '形式、形成', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (313, 585, 'form', '表格、形式、建立', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (314, 582, 'include', '包括', NULL, NULL);
 
