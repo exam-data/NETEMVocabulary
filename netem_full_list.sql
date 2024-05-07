@@ -2823,7 +2823,7 @@ INSERT INTO `netem_full_list` VALUES (1401, 101, 'blue', '蓝色的', NULL, 'des
 
 INSERT INTO `netem_full_list` VALUES (1402, 100, 'blame', '责备', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1403, 100, 'proper', '适合的、固有的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1403, 100, 'proper', '正确的、适当的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1404, 100, 'invest', '投资', NULL, 'people: actions');
 
