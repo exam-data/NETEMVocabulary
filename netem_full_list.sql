@@ -513,7 +513,7 @@ INSERT INTO `netem_full_list` VALUES (246, 746, 'technology', '技术、工艺',
 
 INSERT INTO `netem_full_list` VALUES (247, 734, 'grow', '成长、增长', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (248, 732, 'sentence', '判决', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (248, 732, 'sentence', '句子、判决', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (249, 731, 'without', '没有', NULL, 'describing things');
 
