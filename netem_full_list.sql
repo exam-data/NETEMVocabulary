@@ -89,7 +89,7 @@ INSERT INTO `netem_full_list` VALUES (34, 4834, 'question', '问题', NULL, 'com
 
 INSERT INTO `netem_full_list` VALUES (35, 4812, 'people', '人民、民族', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (36, 4554, 'what', '什么事物', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (36, 4554, 'what', '什么', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (37, 4126, 'there', '那里', NULL, NULL);
 
