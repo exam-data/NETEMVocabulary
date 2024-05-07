@@ -1325,7 +1325,7 @@ INSERT INTO `netem_full_list` VALUES (652, 270, 'event', '事件', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (653, 269, 'either', '两者之一', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (654, 268, 'step', '迈步', NULL, 'homes and buildings');
+INSERT INTO `netem_full_list` VALUES (654, 268, 'step', '步骤', NULL, 'homes and buildings');
 
 INSERT INTO `netem_full_list` VALUES (655, 267, 'habit', '习惯', NULL, 'people: actions');
 
