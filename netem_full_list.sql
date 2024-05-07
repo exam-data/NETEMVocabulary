@@ -875,7 +875,7 @@ INSERT INTO `netem_full_list` VALUES (427, 416, 'late', '晚的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (428, 414, 'true', '真实', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (429, 412, 'name', '叩召', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (429, 412, 'name', '名称、命名', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (430, 412, 'knowledge', '知识', NULL, 'people: personality');
 
