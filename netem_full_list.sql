@@ -2817,7 +2817,7 @@ INSERT INTO `netem_full_list` VALUES (1398, 101, 'wealthy', '富裕的', NULL, '
 
 INSERT INTO `netem_full_list` VALUES (1399, 101, 'exhibit', '展览', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1400, 101, 'block', '阻挡、块', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (1400, 101, 'block', '块、阻止、街区', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (1401, 101, 'blue', '蓝色的', NULL, 'describing things');
 
