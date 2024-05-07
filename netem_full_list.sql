@@ -773,7 +773,7 @@ INSERT INTO `netem_full_list` VALUES (376, 479, 'able', '有能力的', NULL, 'p
 
 INSERT INTO `netem_full_list` VALUES (377, 477, 'run', '跑步、运转', NULL, 'arts and media');
 
-INSERT INTO `netem_full_list` VALUES (378, 476, 'past', '过去的、经过', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (378, 476, 'past', '过去的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (379, 476, 'win', '赢', NULL, 'shopping');
 
