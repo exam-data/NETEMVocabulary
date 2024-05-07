@@ -1275,7 +1275,7 @@ INSERT INTO `netem_full_list` VALUES (627, 279, 'production', '生产', NULL, 'a
 
 INSERT INTO `netem_full_list` VALUES (628, 279, 'grade', '年级', NULL, 'education');
 
-INSERT INTO `netem_full_list` VALUES (629, 279, 'visit', '拜访', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (629, 279, 'visit', '参观、访问', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (630, 278, 'content', '内容、目录、满足的', NULL, NULL);
 
