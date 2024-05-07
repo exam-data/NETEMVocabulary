@@ -2873,7 +2873,7 @@ INSERT INTO `netem_full_list` VALUES (1426, 98, 'yes', '是', NULL, 'communicati
 
 INSERT INTO `netem_full_list` VALUES (1427, 98, 'narrow', '狭窄的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (1428, 98, 'transfer', '转移、转让', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1428, 98, 'transfer', '转移（特指空间上的转移）、传输、转让', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1429, 98, 'copy', '复制', NULL, 'people: actions');
 
@@ -2893,7 +2893,7 @@ INSERT INTO `netem_full_list` VALUES (1436, 97, 'origin', '起源', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1437, 97, 'recommend', '推荐', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1438, 97, 'valuable', '贵重的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1438, 97, 'valuable', '有价值的、贵重的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1439, 97, 'addition', '加', NULL, 'describing things');
 
@@ -2915,7 +2915,7 @@ INSERT INTO `netem_full_list` VALUES (1447, 96, 'gene', '基因', NULL, 'body an
 
 INSERT INTO `netem_full_list` VALUES (1448, 96, 'wave', '招手', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1449, 96, 'moreover', '再者', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1449, 96, 'moreover', '而且、此外', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (1450, 96, 'capable', '有能力的', NULL, 'people: personality');
 
@@ -2923,7 +2923,7 @@ INSERT INTO `netem_full_list` VALUES (1451, 96, 'ordinary', '普通的', NULL, N
 
 INSERT INTO `netem_full_list` VALUES (1452, 96, 'strengthen', '加强', NULL, 'people: appearance');
 
-INSERT INTO `netem_full_list` VALUES (1453, 96, 'suggestion', '建议、联想', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1453, 96, 'suggestion', '建议', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (1454, 96, 'cash', '现金', NULL, 'money');
 
@@ -3007,7 +3007,7 @@ INSERT INTO `netem_full_list` VALUES (1493, 93, 'foundation', '基础、地基',
 
 INSERT INTO `netem_full_list` VALUES (1494, 93, 'lunch', '午饭', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (1495, 93, 'engine', '引擎', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1495, 93, 'engine', '发动机、引擎', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1496, 93, 'symbol', '符号、象征', NULL, 'communication');
 
@@ -3083,7 +3083,7 @@ INSERT INTO `netem_full_list` VALUES (1531, 89, 'giant', '巨人、巨大的', N
 
 INSERT INTO `netem_full_list` VALUES (1532, 89, 'definition', '定义、清晰度', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1533, 89, 'height', '身高', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (1533, 89, 'height', '高度、身高', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (1534, 89, 'reject', '拒绝', NULL, 'communication');
 
@@ -3117,7 +3117,7 @@ INSERT INTO `netem_full_list` VALUES (1548, 88, 'physician', '医师', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (1549, 88, 'actor', '男演员', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1550, 88, 'extent', '程度、长度', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (1550, 88, 'extent', '程度、范围', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (1551, 88, 'jump', '跳', NULL, 'people: actions');
 
@@ -3131,7 +3131,7 @@ INSERT INTO `netem_full_list` VALUES (1555, 88, 'complicated', '错综复杂的'
 
 INSERT INTO `netem_full_list` VALUES (1556, 87, 'bracket', '括号', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1557, 87, 'solar', '太阳的', NULL, 'natural world');
+INSERT INTO `netem_full_list` VALUES (1557, 87, 'solar', '太阳能的、太阳的', NULL, 'natural world');
 
 INSERT INTO `netem_full_list` VALUES (1558, 87, 'duty', '责任', NULL, 'work');
 
