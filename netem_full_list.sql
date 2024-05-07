@@ -3007,7 +3007,7 @@ INSERT INTO `netem_full_list` VALUES (1493, 93, 'foundation', '基础、地基',
 
 INSERT INTO `netem_full_list` VALUES (1494, 93, 'lunch', '午饭', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (1495, 93, 'engine', '发动机、引擎', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1495, 93, 'engine', '引擎', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1496, 93, 'symbol', '符号、象征', NULL, 'communication');
 
