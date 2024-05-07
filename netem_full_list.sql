@@ -819,7 +819,7 @@ INSERT INTO `netem_full_list` VALUES (399, 448, 'close', '关闭、近', NULL, '
 
 INSERT INTO `netem_full_list` VALUES (400, 445, 'attention', '注意', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (401, 445, 'poor', '糟糕的', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (401, 445, 'poor', '贫穷的、可怜的、糟糕的', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (402, 445, 'free', '自由的', NULL, 'people: actions');
 
