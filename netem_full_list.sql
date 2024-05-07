@@ -49,7 +49,7 @@ INSERT INTO `netem_full_list` VALUES (14, 10015, 'you', '你', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (15, 9006, 'with', '伴随', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (16, 8258, 'as', '作为、既然、随着、就像', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (16, 8258, 'as', '如同、作为、由于、尽管', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (17, 7050, 'their', '他们的', NULL, NULL);
 
