@@ -3279,7 +3279,7 @@ INSERT INTO `netem_full_list` VALUES (1629, 80, 'politician', '政治家', NULL,
 
 INSERT INTO `netem_full_list` VALUES (1630, 80, 'pose', '摆姿势、提出', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (1631, 80, 'chair', '椅子', NULL, 'homes and buildings');
+INSERT INTO `netem_full_list` VALUES (1631, 80, 'chair', '主席、椅子', NULL, 'homes and buildings');
 
 INSERT INTO `netem_full_list` VALUES (1632, 80, 'beautiful', '美好的', NULL, 'describing things');
 
