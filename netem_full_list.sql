@@ -1005,7 +1005,7 @@ INSERT INTO `netem_full_list` VALUES (492, 360, 'add', '增加', NULL, 'people: 
 
 INSERT INTO `netem_full_list` VALUES (493, 358, 'policy', '政策', NULL, 'politics');
 
-INSERT INTO `netem_full_list` VALUES (494, 358, 'item', '物品', NULL, 'arts and media');
+INSERT INTO `netem_full_list` VALUES (494, 358, 'item', '物品、条款', NULL, 'arts and media');
 
 INSERT INTO `netem_full_list` VALUES (495, 357, 'force', '强迫、迫使', NULL, 'people: actions');
 
