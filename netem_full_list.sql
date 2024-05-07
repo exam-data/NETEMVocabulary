@@ -389,7 +389,7 @@ INSERT INTO `netem_full_list` VALUES (184, 994, 'different', '不同的', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (185, 982, 'point', '点、指', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (186, 982, 'last', '持续', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (186, 982, 'last', '最后的、持续', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (187, 975, 'text', '文本', NULL, 'communication');
 
