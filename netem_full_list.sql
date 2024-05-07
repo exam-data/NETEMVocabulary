@@ -25,7 +25,7 @@ INSERT INTO `netem_full_list` VALUES (2, 54093, 'be', '是、存在', NULL, 'des
 
 INSERT INTO `netem_full_list` VALUES (3, 50252, 'a', '一、每一', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4, 44609, 'to', '目的、终点', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4, 44609, 'to', '到、向', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5, 40452, 'of', '的', NULL, 'describing things');
 
