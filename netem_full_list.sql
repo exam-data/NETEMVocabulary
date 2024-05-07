@@ -3135,7 +3135,7 @@ INSERT INTO `netem_full_list` VALUES (1557, 87, 'solar', '太阳能的、太阳�
 
 INSERT INTO `netem_full_list` VALUES (1558, 87, 'duty', '责任', NULL, 'work');
 
-INSERT INTO `netem_full_list` VALUES (1559, 87, 'recall', '回忆', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1559, 87, 'recall', '回忆、召回', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1560, 87, 'winter', '冬季', NULL, 'natural world');
 
