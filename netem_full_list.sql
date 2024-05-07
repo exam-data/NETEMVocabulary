@@ -53,7 +53,7 @@ INSERT INTO `netem_full_list` VALUES (16, 8258, 'as', '作为、既然、随着�
 
 INSERT INTO `netem_full_list` VALUES (17, 7050, 'their', '他们的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (18, 6895, 'by', '方式、到…为止', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (18, 6895, 'by', '方式、到…为止、乘坐', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (19, 6608, 'not', '不、没有', NULL, NULL);
 
