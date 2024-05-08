@@ -3355,11 +3355,11 @@ INSERT INTO `netem_full_list` VALUES (1667, 77, 'weak', '弱的', NULL, 'food an
 
 INSERT INTO `netem_full_list` VALUES (1668, 77, 'affair', '事情、事务', NULL, 'relationships');
 
-INSERT INTO `netem_full_list` VALUES (1669, 77, 'undergraduate', '大学生', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1669, 77, 'undergraduate', '本科的、本科生', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1670, 77, 'assign', '分配、指定', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1671, 77, 'mission', '使命', NULL, 'work');
+INSERT INTO `netem_full_list` VALUES (1671, 77, 'mission', '任务、使命', NULL, 'work');
 
 INSERT INTO `netem_full_list` VALUES (1672, 77, 'joy', '欢乐', NULL, 'people: personality');
 
@@ -3413,7 +3413,7 @@ INSERT INTO `netem_full_list` VALUES (1696, 75, 'considerable', '相当大的', 
 
 INSERT INTO `netem_full_list` VALUES (1697, 75, 'beauty', '美丽、美人', NULL, 'people: appearance');
 
-INSERT INTO `netem_full_list` VALUES (1698, 75, 'massive', '大而重的、大规模的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (1698, 75, 'massive', '巨大的、大规模的', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (1699, 75, 'council', '理事会', NULL, 'politics');
 
