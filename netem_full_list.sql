@@ -3315,7 +3315,7 @@ INSERT INTO `netem_full_list` VALUES (1647, 79, 'remote', '遥远的', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (1648, 79, 'tomorrow', '明天、来日', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1649, 78, 'continent', '大陆', NULL, 'natural world');
+INSERT INTO `netem_full_list` VALUES (1649, 78, 'continent', '洲、大陆', NULL, 'natural world');
 
 INSERT INTO `netem_full_list` VALUES (1650, 78, 'reduction', '减少、降低', NULL, NULL);
 
@@ -3331,7 +3331,7 @@ INSERT INTO `netem_full_list` VALUES (1655, 78, 'stimulate', '刺激、使兴奋
 
 INSERT INTO `netem_full_list` VALUES (1656, 78, 'arrange', '安排', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (1657, 78, 'faculty', '才能、学院', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1657, 78, 'faculty', '能力、全体教员', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1658, 78, 'praise', '赞美、表扬', 'praize', 'communication');
 
@@ -8375,7 +8375,7 @@ INSERT INTO `netem_full_list` VALUES (4177, 9, 'impair', '损害', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4178, 9, 'levy', '征收', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4179, 9, 'mainland', '大陆', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4179, 9, 'mainland', '洲、大陆', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4180, 9, 'northeast', '东北', NULL, NULL);
 
