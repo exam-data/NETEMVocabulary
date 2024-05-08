@@ -2303,7 +2303,7 @@ INSERT INTO `netem_full_list` VALUES (1141, 132, 'sort', '种类、排序', NULL
 
 INSERT INTO `netem_full_list` VALUES (1142, 132, 'enhance', '提高', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1143, 132, 'round', '圆的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1143, 132, 'round', '圆的、附近', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1144, 132, 'connect', '连接', NULL, 'people: actions');
 
