@@ -1805,7 +1805,7 @@ INSERT INTO `netem_full_list` VALUES (892, 184, 'worry', '担心', NULL, 'people
 
 INSERT INTO `netem_full_list` VALUES (893, 182, 'tool', '工具', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (894, 182, 'waste', '浪费', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (894, 182, 'waste', '浪费、废弃的', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (895, 181, 'predict', '预测', NULL, 'communication');
 
