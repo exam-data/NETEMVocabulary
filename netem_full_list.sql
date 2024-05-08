@@ -3465,9 +3465,9 @@ INSERT INTO `netem_full_list` VALUES (1722, 73, 'stick', '棍、刺、粘贴', N
 
 INSERT INTO `netem_full_list` VALUES (1723, 73, 'observation', '观察、言论', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1724, 73, 'convey', '运输', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1724, 73, 'convey', '传达、表达、传递', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1725, 73, 'virtual', '实际上的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1725, 73, 'virtual', '虚拟、实际上的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1726, 73, 'discourage', '使泄气', 'discorage', 'communication');
 
@@ -3477,7 +3477,7 @@ INSERT INTO `netem_full_list` VALUES (1728, 73, 'location', '位置', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (1729, 73, 'coach', '教练', NULL, 'travel');
 
-INSERT INTO `netem_full_list` VALUES (1730, 73, 'merit', '值得、价值', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1730, 73, 'merit', '优点、价值、值得', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1731, 73, 'occasion', '机会、重大活动', NULL, NULL);
 
@@ -3495,9 +3495,9 @@ INSERT INTO `netem_full_list` VALUES (1737, 72, 'independence', '独立', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (1738, 72, 'aside', '在旁边', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1739, 72, 'bind', '捆扎', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1739, 72, 'bind', '结合、约束、捆绑', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1740, 72, 'capture', '占领、体现、吸引、拍摄', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1740, 72, 'capture', '捕获、战利品、拍摄、引起注意', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1741, 72, 'satisfy', '满意、使确信', NULL, 'people: personality');
 
@@ -3559,7 +3559,7 @@ INSERT INTO `netem_full_list` VALUES (1769, 70, 'hair', '头发', NULL, 'people:
 
 INSERT INTO `netem_full_list` VALUES (1770, 70, 'admission', '允许进入、承认', NULL, 'education');
 
-INSERT INTO `netem_full_list` VALUES (1771, 70, 'regardless', '不留心的、不顾', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1771, 70, 'regardless', '不顾、不管怎样', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1772, 70, 'empty', '空的', NULL, NULL);
 
