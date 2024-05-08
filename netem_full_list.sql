@@ -1715,7 +1715,7 @@ INSERT INTO `netem_full_list` VALUES (847, 197, 'medicine', '医药', NULL, 'bod
 
 INSERT INTO `netem_full_list` VALUES (848, 196, 'engage', '吸引、使参加', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (849, 195, 'executive', '实行的、经理', NULL, 'work');
+INSERT INTO `netem_full_list` VALUES (849, 195, 'executive', '行政的、决策人', NULL, 'work');
 
 INSERT INTO `netem_full_list` VALUES (850, 195, 'wide', '广泛的、宽的', NULL, 'describing things');
 
