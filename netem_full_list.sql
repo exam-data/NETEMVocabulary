@@ -2377,7 +2377,7 @@ INSERT INTO `netem_full_list` VALUES (1178, 129, 'park', '停车、公园', NULL
 
 INSERT INTO `netem_full_list` VALUES (1179, 128, 'largely', '大量地', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1180, 128, 'cent', '分', NULL, 'money');
+INSERT INTO `netem_full_list` VALUES (1180, 128, 'cent', '分(货币单位)', NULL, 'money');
 
 INSERT INTO `netem_full_list` VALUES (1181, 128, 'analysis', '分析', NULL, NULL);
 
