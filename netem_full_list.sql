@@ -1521,7 +1521,7 @@ INSERT INTO `netem_full_list` VALUES (750, 226, 'wait', '等待', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (751, 226, 'failure', '失败', NULL, 'technology');
 
-INSERT INTO `netem_full_list` VALUES (752, 226, 'composition', '作品、作词', NULL, 'arts and media');
+INSERT INTO `netem_full_list` VALUES (752, 226, 'composition', '构成、作品、作词', NULL, 'arts and media');
 
 INSERT INTO `netem_full_list` VALUES (753, 226, 'attend', '出席、照看', NULL, 'people: actions');
 
