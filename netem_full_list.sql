@@ -3645,7 +3645,7 @@ INSERT INTO `netem_full_list` VALUES (1812, 68, 'bar', '条、酒吧', NULL, 'de
 
 INSERT INTO `netem_full_list` VALUES (1813, 68, 'east', '东、东方的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1814, 68, 'resume', '重新开始、恢复', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1814, 68, 'resume', '重新开始、恢复、简历', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1815, 68, 'adolescent', '青少年', NULL, 'people: appearance');
 
@@ -3671,7 +3671,7 @@ INSERT INTO `netem_full_list` VALUES (1825, 67, 'convenient', '方便的', NULL,
 
 INSERT INTO `netem_full_list` VALUES (1826, 67, 'battle', '战斗', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1827, 67, 'vulnerable', '易受攻击的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1827, 67, 'vulnerable', '易受攻击的、脆弱的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1828, 67, 'committee', '委员会', NULL, 'work');
 
