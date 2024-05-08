@@ -1667,7 +1667,7 @@ INSERT INTO `netem_full_list` VALUES (823, 206, 'bill', '账单', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (824, 206, 'fire', '火、开除', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (825, 204, 'site', '景点、站点', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (825, 204, 'site', '位置、地点', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (826, 204, 'moment', '时刻', NULL, NULL);
 
