@@ -3277,7 +3277,7 @@ INSERT INTO `netem_full_list` VALUES (1628, 80, 'repeat', '重复', NULL, 'commu
 
 INSERT INTO `netem_full_list` VALUES (1629, 80, 'politician', '政治家', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1630, 80, 'pose', '摆姿势、提出', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1630, 80, 'pose', '摆姿势、造成、提出', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1631, 80, 'chair', '椅子', NULL, 'homes and buildings');
 
