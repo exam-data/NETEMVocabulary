@@ -3751,7 +3751,7 @@ INSERT INTO `netem_full_list` VALUES (1865, 64, 'remark', '评价、评论', NUL
 
 INSERT INTO `netem_full_list` VALUES (1866, 64, 'comparison', '比较', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1867, 64, 'regulate', '管理', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1867, 64, 'regulate', '管理、调节', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1868, 64, 'contrary', '相反的、对方的', NULL, NULL);
 
@@ -3771,7 +3771,7 @@ INSERT INTO `netem_full_list` VALUES (1875, 64, 'desert', '遗弃、沙漠', NUL
 
 INSERT INTO `netem_full_list` VALUES (1876, 64, 'beach', '海滩', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (1877, 64, 'usage', '用法', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1877, 64, 'usage', '使用、(词语的)用法', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1878, 63, 'exceptional', '例外的', NULL, 'describing things');
 
@@ -3785,9 +3785,9 @@ INSERT INTO `netem_full_list` VALUES (1882, 63, 'bottom', '底下', NULL, 'body 
 
 INSERT INTO `netem_full_list` VALUES (1883, 63, 'expansion', '扩张', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1884, 62, 'whereas', '而、考虑到', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1884, 62, 'whereas', '然而、但是、考虑到', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1885, 62, 'license', '执照', 'licence', NULL);
+INSERT INTO `netem_full_list` VALUES (1885, 62, 'license', '执照、许可、许可证', 'licence', NULL);
 
 INSERT INTO `netem_full_list` VALUES (1886, 62, 'journey', '旅行', NULL, 'travel');
 
