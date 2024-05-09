@@ -4417,7 +4417,7 @@ INSERT INTO `netem_full_list` VALUES (2198, 48, 'soccer', '足球', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2199, 48, 'sympathy', '同情', NULL, 'people: personality');
 
-INSERT INTO `netem_full_list` VALUES (2200, 48, 'mechanism', '机制', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2200, 48, 'mechanism', '机制、方法', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2201, 48, 'ownership', '所有', NULL, NULL);
 
