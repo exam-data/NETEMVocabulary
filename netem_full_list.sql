@@ -8423,7 +8423,7 @@ INSERT INTO `netem_full_list` VALUES (4201, 9, 'selfish', '自私的', NULL, 'pe
 
 INSERT INTO `netem_full_list` VALUES (4202, 9, 'shrug', '耸肩', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4203, 9, 'tick', '滴答声、蜱虫、一会儿', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4203, 9, 'tick', '滴答声、蜱虫、一会儿、打勾', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4204, 9, 'tile', '瓷砖', NULL, NULL);
 
@@ -8431,7 +8431,7 @@ INSERT INTO `netem_full_list` VALUES (4205, 9, 'umbrella', '伞', NULL, 'clothes
 
 INSERT INTO `netem_full_list` VALUES (4206, 9, 'verge', '边缘', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4207, 9, 'aisle', '侧廊', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4207, 9, 'aisle', '走廊', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4208, 9, 'badge', '徽章', NULL, 'clothes');
 
