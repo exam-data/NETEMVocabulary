@@ -4513,7 +4513,7 @@ INSERT INTO `netem_full_list` VALUES (2246, 46, 'exclude', '不包括', NULL, NU
 
 INSERT INTO `netem_full_list` VALUES (2247, 46, 'casual', '随意的', NULL, 'clothes');
 
-INSERT INTO `netem_full_list` VALUES (2248, 46, 'orient', '东方、适应', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2248, 46, 'orient', '朝向、使适应', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2249, 46, 'component', '组成部分', NULL, NULL);
 
@@ -4575,7 +4575,7 @@ INSERT INTO `netem_full_list` VALUES (2277, 45, 'jury', '陪审团', NULL, 'crim
 
 INSERT INTO `netem_full_list` VALUES (2278, 45, 'humor', '幽默、诙谐', 'humour', NULL);
 
-INSERT INTO `netem_full_list` VALUES (2279, 45, 'desirable', '称心的', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (2279, 45, 'desirable', '称心的、可取的', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (2280, 45, 'motion', '动、提议', NULL, 'communication');
 
