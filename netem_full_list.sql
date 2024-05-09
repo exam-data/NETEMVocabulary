@@ -2083,7 +2083,7 @@ INSERT INTO `netem_full_list` VALUES (1031, 149, 'scale', '刻度、天平', NUL
 
 INSERT INTO `netem_full_list` VALUES (1032, 149, 'possibility', '可能、可能的事', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1033, 149, 'application', '请求、申请书', NULL, 'technology');
+INSERT INTO `netem_full_list` VALUES (1033, 149, 'application', '应用、申请', NULL, 'technology');
 
 INSERT INTO `netem_full_list` VALUES (1034, 149, 'participant', '参与者', NULL, NULL);
 
