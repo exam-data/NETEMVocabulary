@@ -4357,7 +4357,7 @@ INSERT INTO `netem_full_list` VALUES (2168, 49, 'monkey', '猴子', NULL, 'anima
 
 INSERT INTO `netem_full_list` VALUES (2169, 49, 'database', '数据库', NULL, 'technology');
 
-INSERT INTO `netem_full_list` VALUES (2170, 49, 'convention', '会议', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2170, 49, 'convention', '习俗、会议', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2171, 49, 'enterprise', '企业、事业', 'enterprize', 'work');
 
