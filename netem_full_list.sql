@@ -2327,7 +2327,7 @@ INSERT INTO `netem_full_list` VALUES (1153, 131, 'personality', '人格', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (1154, 131, 'eventually', '最终', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1155, 131, 'manufacture', '制造、产品', NULL, 'work');
+INSERT INTO `netem_full_list` VALUES (1155, 131, 'manufacture', '制造、捏造', NULL, 'work');
 
 INSERT INTO `netem_full_list` VALUES (1156, 131, 'ocean', '海洋', NULL, 'natural world');
 
