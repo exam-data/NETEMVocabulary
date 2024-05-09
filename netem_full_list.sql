@@ -2253,7 +2253,7 @@ INSERT INTO `netem_full_list` VALUES (1116, 136, 'partner', '伙伴', NULL, 'rel
 
 INSERT INTO `netem_full_list` VALUES (1117, 136, 'floor', '地面', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1118, 135, 'imply', '意指', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1118, 135, 'imply', '暗示', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (1119, 135, 'remove', '移除', NULL, 'work');
 
