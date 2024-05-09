@@ -3331,7 +3331,7 @@ INSERT INTO `netem_full_list` VALUES (1655, 78, 'stimulate', '刺激、使兴奋
 
 INSERT INTO `netem_full_list` VALUES (1656, 78, 'arrange', '安排', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (1657, 78, 'faculty', '能力、全体教员', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1657, 78, 'faculty', '能力、院系', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1658, 78, 'praise', '赞美、表扬', 'praize', 'communication');
 
@@ -3787,7 +3787,7 @@ INSERT INTO `netem_full_list` VALUES (1883, 63, 'expansion', '扩张', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (1884, 62, 'whereas', '然而、但是、考虑到', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1885, 62, 'license', '执照、许可、许可证', 'licence', NULL);
+INSERT INTO `netem_full_list` VALUES (1885, 62, 'license', '执照、批准', 'licence', NULL);
 
 INSERT INTO `netem_full_list` VALUES (1886, 62, 'journey', '旅行', NULL, 'travel');
 
