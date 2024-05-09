@@ -3879,7 +3879,7 @@ INSERT INTO `netem_full_list` VALUES (1929, 60, 'era', '时代', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1930, 60, 'false', '错误的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1931, 60, 'uniform', '统一的、勉强的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1931, 60, 'uniform', '统一的、制服', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1932, 60, 'pair', '一对', NULL, 'describing things');
 
