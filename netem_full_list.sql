@@ -4045,7 +4045,7 @@ INSERT INTO `netem_full_list` VALUES (2012, 56, 'motor', '发动机', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (2013, 56, 'reporter', '报告人', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2014, 56, 'commerce', '商业', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2014, 56, 'commerce', '商业、交易', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2015, 56, 'strain', '使紧张、拉紧', NULL, 'body and health');
 
@@ -4111,7 +4111,7 @@ INSERT INTO `netem_full_list` VALUES (2045, 55, 'civil', '公民的', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (2046, 55, 'mirror', '镜子', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (2047, 55, 'costly', '费钱的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2047, 55, 'costly', '昂贵的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2048, 55, 'plus', '加上、正的', NULL, NULL);
 
@@ -4151,7 +4151,7 @@ INSERT INTO `netem_full_list` VALUES (2065, 54, 'construct', '建造、创立', 
 
 INSERT INTO `netem_full_list` VALUES (2066, 54, 'encounter', '偶遇', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2067, 54, 'overwhelm', '征服', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2067, 54, 'overwhelm', '征服、（感情或感觉）充溢', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2068, 54, 'sponsor', '赞助、资助', NULL, 'money');
 
@@ -4245,7 +4245,7 @@ INSERT INTO `netem_full_list` VALUES (2112, 52, 'guard', '保卫', NULL, 'people
 
 INSERT INTO `netem_full_list` VALUES (2113, 52, 'intention', '意图、打算', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2114, 52, 'lean', '瘦的、贫瘠的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2114, 52, 'lean', '倾斜、倚靠、瘦的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2115, 52, 'generous', '慷慨的', NULL, 'people: personality');
 
@@ -4289,7 +4289,7 @@ INSERT INTO `netem_full_list` VALUES (2134, 51, 'angry', '生气的', NULL, 'peo
 
 INSERT INTO `netem_full_list` VALUES (2135, 51, 'extensive', '广泛的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (2136, 51, 'resort', '被迫采取、手段', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (2136, 51, 'resort', '求助、手段', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (2137, 51, 'assistance', '帮助', NULL, 'people: actions');
 
