@@ -1599,7 +1599,7 @@ INSERT INTO `netem_full_list` VALUES (789, 214, 'daily', '破晓、开始', NULL
 
 INSERT INTO `netem_full_list` VALUES (790, 214, 'normal', '正常的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (791, 214, 'reward', '回报', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (791, 214, 'reward', '回报、报酬', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (792, 214, 'post', '发布、张贴、邮寄', NULL, 'communication');
 
