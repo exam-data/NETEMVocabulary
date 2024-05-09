@@ -3957,7 +3957,7 @@ INSERT INTO `netem_full_list` VALUES (1968, 58, 'tone', '音调、腔调', NULL,
 
 INSERT INTO `netem_full_list` VALUES (1969, 58, 'minor', '较小的、较少的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1970, 58, 'stuff', '东西、塞入', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1970, 58, 'stuff', '东西、材料、填满', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1971, 58, 'sum', '总和', NULL, 'money');
 
@@ -3967,7 +3967,7 @@ INSERT INTO `netem_full_list` VALUES (1973, 58, 'injure', '使受伤、损害', 
 
 INSERT INTO `netem_full_list` VALUES (1974, 58, 'superior', '优良的、较……多的', NULL, 'work');
 
-INSERT INTO `netem_full_list` VALUES (1975, 58, 'tackle', '用具', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1975, 58, 'tackle', '处理、应付', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1976, 58, 'maximum', '最大的', NULL, 'describing things');
 
