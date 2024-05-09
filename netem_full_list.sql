@@ -8423,7 +8423,7 @@ INSERT INTO `netem_full_list` VALUES (4201, 9, 'selfish', '自私的', NULL, 'pe
 
 INSERT INTO `netem_full_list` VALUES (4202, 9, 'shrug', '耸肩', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4203, 9, 'tick', '滴答声、蜱虫、一会儿', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4203, 9, 'tick', '滴答声、蜱虫、一会儿、打勾', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4204, 9, 'tile', '瓷砖', NULL, NULL);
 
