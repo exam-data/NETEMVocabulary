@@ -4683,7 +4683,7 @@ INSERT INTO `netem_full_list` VALUES (2331, 44, 'assembly', '集合、装配', N
 
 INSERT INTO `netem_full_list` VALUES (2332, 44, 'rid', '摆脱', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2333, 44, 'upper', '上面的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2333, 44, 'upper', '上面的、较高的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2334, 44, 'pet', '宠物', NULL, 'animals');
 
