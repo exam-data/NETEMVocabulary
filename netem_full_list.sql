@@ -2079,7 +2079,7 @@ INSERT INTO `netem_full_list` VALUES (1029, 150, 'unemployment', '失业', NULL,
 
 INSERT INTO `netem_full_list` VALUES (1030, 150, 'fix', '固定、修理', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (1031, 149, 'scale', '刻度、天平', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (1031, 149, 'scale', '规模、刻度、天平', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (1032, 149, 'possibility', '可能、可能的事', NULL, NULL);
 
