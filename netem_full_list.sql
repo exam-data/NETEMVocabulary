@@ -4375,7 +4375,7 @@ INSERT INTO `netem_full_list` VALUES (2177, 49, 'quantity', '数量、数额', N
 
 INSERT INTO `netem_full_list` VALUES (2178, 49, 'fatal', '致命的、宿命的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2179, 49, 'lobby', '门廊', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (2179, 49, 'lobby', '游说', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (2180, 49, 'calm', '冷静、镇定', NULL, 'natural world');
 
@@ -4409,7 +4409,7 @@ INSERT INTO `netem_full_list` VALUES (2194, 49, 'classmate', '同学', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (2195, 49, 'grand', '宏伟的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2196, 49, 'shed', '棚', NULL, 'homes and buildings');
+INSERT INTO `netem_full_list` VALUES (2196, 49, 'shed', '脱去、棚', NULL, 'homes and buildings');
 
 INSERT INTO `netem_full_list` VALUES (2197, 48, 'pride', '自豪、自满', NULL, 'people: personality');
 
