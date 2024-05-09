@@ -4711,7 +4711,7 @@ INSERT INTO `netem_full_list` VALUES (2345, 43, 'alive', '活着的', NULL, 'bod
 
 INSERT INTO `netem_full_list` VALUES (2346, 43, 'exert', '用、运用', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2347, 43, 'pioneer', '先驱、倡导', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2347, 43, 'pioneer', '先驱、开创', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2348, 43, 'punish', '惩罚', NULL, NULL);
 
