@@ -3845,7 +3845,7 @@ INSERT INTO `netem_full_list` VALUES (1912, 61, 'rural', '乡村的', NULL, 'nat
 
 INSERT INTO `netem_full_list` VALUES (1913, 61, 'god', '神、上帝', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1914, 61, 'reluctant', '厌恶的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1914, 61, 'reluctant', '不情愿的、勉强的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1915, 61, 'sharp', '尖的、清晰的', NULL, 'describing things');
 
@@ -3879,7 +3879,7 @@ INSERT INTO `netem_full_list` VALUES (1929, 60, 'era', '时代', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1930, 60, 'false', '错误的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1931, 60, 'uniform', '不变的、制服', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1931, 60, 'uniform', '统一的、勉强的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1932, 60, 'pair', '一对', NULL, 'describing things');
 
