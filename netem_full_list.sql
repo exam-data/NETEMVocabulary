@@ -4473,7 +4473,7 @@ INSERT INTO `netem_full_list` VALUES (2226, 48, 'scholarship', '奖学金、学�
 
 INSERT INTO `netem_full_list` VALUES (2227, 47, 'rail', '栏杆、铁轨', NULL, 'travel');
 
-INSERT INTO `netem_full_list` VALUES (2228, 47, 'dean', '教长、学监', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2228, 47, 'dean', ' 院长、主任', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2229, 47, 'overlook', '俯瞰、忽略', NULL, NULL);
 
