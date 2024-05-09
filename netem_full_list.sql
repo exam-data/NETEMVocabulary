@@ -8483,7 +8483,7 @@ INSERT INTO `netem_full_list` VALUES (4231, 9, 'miracle', '奇迹', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4232, 9, 'nominate', '提名', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4233, 9, 'notable', '显著的、著名的11', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4233, 9, 'notable', '显著的、著名的111', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4234, 9, 'obedience', '服从', NULL, NULL);
 
