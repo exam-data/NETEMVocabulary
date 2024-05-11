@@ -8833,7 +8833,7 @@ INSERT INTO `netem_full_list` VALUES (4406, 7, 'fork', '叉', NULL, 'food and dr
 
 INSERT INTO `netem_full_list` VALUES (4407, 7, 'glare', '瞪着、怒视', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (4408, 7, 'hasty', '轻率的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4408, 7, 'hasty', '匆忙的、轻率的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4409, 7, 'impetus', '推动力', NULL, NULL);
 
