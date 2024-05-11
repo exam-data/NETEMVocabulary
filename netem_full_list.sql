@@ -8517,7 +8517,7 @@ INSERT INTO `netem_full_list` VALUES (4248, 8, 'perplex', '使困惑、使复杂
 
 INSERT INTO `netem_full_list` VALUES (4249, 8, 'anchor', '锚', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4250, 8, 'damn', '该死、该死的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4250, 8, 'damn', '谴责、该死的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4251, 8, 'detector', '探测器', NULL, NULL);
 
