@@ -8685,7 +8685,7 @@ INSERT INTO `netem_full_list` VALUES (4332, 8, 'basement', '地下室', NULL, 'h
 
 INSERT INTO `netem_full_list` VALUES (4333, 8, 'blend', '混合', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4334, 8, 'bound', '跳跃、界限、跳', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (4334, 8, 'bound', '跳跃、界限', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (4335, 8, 'breeze', '微风', NULL, 'natural world');
 
