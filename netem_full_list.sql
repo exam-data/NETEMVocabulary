@@ -8933,7 +8933,7 @@ INSERT INTO `netem_full_list` VALUES (4456, 7, 'congratulation', '祝贺', NULL,
 
 INSERT INTO `netem_full_list` VALUES (4457, 7, 'consecutive', '连续的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4458, 7, 'console', '安慰', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4458, 7, 'console', '安慰、控制台', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4459, 7, 'crush', '压碎', NULL, NULL);
 
