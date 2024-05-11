@@ -8433,7 +8433,7 @@ INSERT INTO `netem_full_list` VALUES (4206, 9, 'verge', '边缘', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4207, 9, 'aisle', '走廊', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4208, 9, 'badge', '徽章', NULL, 'clothes');
+INSERT INTO `netem_full_list` VALUES (4208, 9, 'badge', '徽章、象征', NULL, 'clothes');
 
 INSERT INTO `netem_full_list` VALUES (4209, 9, 'bean', '豆', NULL, 'food and drink');
 
