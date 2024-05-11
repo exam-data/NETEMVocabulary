@@ -1647,7 +1647,7 @@ INSERT INTO `netem_full_list` VALUES (813, 208, 'slow', '慢的', NULL, 'people:
 
 INSERT INTO `netem_full_list` VALUES (814, 208, 'six', '六', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (815, 208, 'attach', '附上、附加', NULL, 'technology');
+INSERT INTO `netem_full_list` VALUES (815, 208, 'attach', '包围、附上、附加', NULL, 'technology');
 
 INSERT INTO `netem_full_list` VALUES (816, 207, 'respect', '尊重', NULL, 'people: personality');
 
@@ -8649,7 +8649,7 @@ INSERT INTO `netem_full_list` VALUES (4314, 8, 'clumsy', '笨拙的', NULL, 'peo
 
 INSERT INTO `netem_full_list` VALUES (4315, 8, 'concede', '承认', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4316, 8, 'enclose', '附上', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4316, 8, 'enclose', '包围、附上', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4317, 8, 'envisage', '想像', NULL, NULL);
 
