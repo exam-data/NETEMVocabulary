@@ -8615,7 +8615,7 @@ INSERT INTO `netem_full_list` VALUES (4297, 8, 'pierce', '穿透', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4298, 8, 'proficiency', '熟练', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4299, 8, 'rumor', '谣言', 'rumour', NULL);
+INSERT INTO `netem_full_list` VALUES (4299, 8, 'rumor', '谣传', 'rumour', NULL);
 
 INSERT INTO `netem_full_list` VALUES (4300, 8, 'scare', '恐吓、惊吓', NULL, NULL);
 
