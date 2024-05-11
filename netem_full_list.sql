@@ -8901,7 +8901,7 @@ INSERT INTO `netem_full_list` VALUES (4440, 7, 'moan', '呻吟、抱怨', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (4441, 7, 'muscular', '肌肉的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4442, 7, 'nuisance', '讨厌的东西', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (4442, 7, 'nuisance', '麻烦', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (4443, 7, 'relativity', '相对论', NULL, NULL);
 
