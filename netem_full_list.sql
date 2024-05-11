@@ -8745,7 +8745,7 @@ INSERT INTO `netem_full_list` VALUES (4362, 8, 'notify', '通知', NULL, 'commun
 
 INSERT INTO `netem_full_list` VALUES (4363, 8, 'oak', '橡木', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (4364, 8, 'pale', '苍白的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4364, 8, 'pale', '苍白的、暗淡的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4365, 8, 'paperback', '平装书', NULL, NULL);
 
