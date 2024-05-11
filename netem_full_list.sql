@@ -8939,7 +8939,7 @@ INSERT INTO `netem_full_list` VALUES (4459, 7, 'crush', '压碎', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4460, 7, 'deaf', '聋的', NULL, 'body and health');
 
-INSERT INTO `netem_full_list` VALUES (4461, 7, 'dinosaur', '恐龙', NULL, 'animals');
+INSERT INTO `netem_full_list` VALUES (4461, 7, 'dinosaur', '恐龙、落后的事务', NULL, 'animals');
 
 INSERT INTO `netem_full_list` VALUES (4462, 7, 'dread', '恐惧', NULL, NULL);
 
