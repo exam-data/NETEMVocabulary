@@ -8433,7 +8433,7 @@ INSERT INTO `netem_full_list` VALUES (4206, 9, 'verge', '边缘', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4207, 9, 'aisle', '走廊', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4208, 9, 'badge', '徽章', NULL, 'clothes');
+INSERT INTO `netem_full_list` VALUES (4208, 9, 'badge', '徽章、象征', NULL, 'clothes');
 
 INSERT INTO `netem_full_list` VALUES (4209, 9, 'bean', '豆', NULL, 'food and drink');
 
@@ -8453,7 +8453,7 @@ INSERT INTO `netem_full_list` VALUES (4216, 9, 'custody', '监护、拘留', NUL
 
 INSERT INTO `netem_full_list` VALUES (4217, 9, 'daylight', '日光', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (4218, 9, 'divine', '神圣的、神的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4218, 9, 'divine', '神圣的、绝妙的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4219, 9, 'eccentric', '古怪的', NULL, 'people: personality');
 
