@@ -8721,7 +8721,7 @@ INSERT INTO `netem_full_list` VALUES (4350, 8, 'goodbye', '再见', NULL, 'commu
 
 INSERT INTO `netem_full_list` VALUES (4351, 8, 'ignite', '点燃', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4352, 8, 'industrialise', '使工业化', 'industrialize', NULL);
+INSERT INTO `netem_full_list` VALUES (4352, 8, 'industrialise', '工业化', 'industrialize', NULL);
 
 INSERT INTO `netem_full_list` VALUES (4353, 8, 'jewel', '珠宝', NULL, NULL);
 
