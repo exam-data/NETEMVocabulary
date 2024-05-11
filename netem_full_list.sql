@@ -8603,7 +8603,7 @@ INSERT INTO `netem_full_list` VALUES (4291, 8, 'disturbance', '扰乱', NULL, NU
 
 INSERT INTO `netem_full_list` VALUES (4292, 8, 'empirical', '经验主义的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4293, 8, 'fasten', '系上', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (4293, 8, 'fasten', '稳固', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (4294, 8, 'glue', '胶水', NULL, NULL);
 
