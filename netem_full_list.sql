@@ -8465,7 +8465,7 @@ INSERT INTO `netem_full_list` VALUES (4222, 9, 'eternal', '永恒的', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (4223, 9, 'fog', '雾', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (4224, 9, 'foul', '犯规', NULL, 'shopping');
+INSERT INTO `netem_full_list` VALUES (4224, 9, 'foul', '犯规、肮脏的', NULL, 'shopping');
 
 INSERT INTO `netem_full_list` VALUES (4225, 9, 'fracture', '断裂', NULL, NULL);
 
