@@ -8851,7 +8851,7 @@ INSERT INTO `netem_full_list` VALUES (4415, 7, 'rein', '控制', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4416, 7, 'rot', '腐烂', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4417, 7, 'sigh', '叹息、叹气', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (4417, 7, 'sigh', '叹息', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (4418, 7, 'singular', '非凡的、单数的', NULL, NULL);
 
