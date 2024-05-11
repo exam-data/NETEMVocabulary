@@ -8543,7 +8543,7 @@ INSERT INTO `netem_full_list` VALUES (4261, 8, 'transient', '短暂的', NULL, N
 
 INSERT INTO `netem_full_list` VALUES (4262, 8, 'abrupt', '突然的、陡峭的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4263, 8, 'affiliate', '分公司、附属机构', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4263, 8, 'affiliate', '使附属、附属机构', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4264, 8, 'align', '调整、排列', NULL, NULL);
 
