@@ -8913,7 +8913,7 @@ INSERT INTO `netem_full_list` VALUES (4446, 7, 'sincere', '真诚的', NULL, 'pe
 
 INSERT INTO `netem_full_list` VALUES (4447, 7, 'undo', '取消', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (4448, 7, 'alienate', '离间、使疏远', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4448, 7, 'alienate', '疏远', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4449, 7, 'ascend', '上升', NULL, NULL);
 
