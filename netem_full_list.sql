@@ -8527,7 +8527,7 @@ INSERT INTO `netem_full_list` VALUES (4253, 8, 'feeble', '虚弱的', NULL, 'bod
 
 INSERT INTO `netem_full_list` VALUES (4254, 8, 'galaxy', '星系', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4255, 8, 'hello', '英喂', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (4255, 8, 'hello', '你好', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (4256, 8, 'irony', '反讽', NULL, NULL);
 
