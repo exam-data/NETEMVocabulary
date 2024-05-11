@@ -8691,7 +8691,7 @@ INSERT INTO `netem_full_list` VALUES (4335, 8, 'breeze', '微风', NULL, 'natura
 
 INSERT INTO `netem_full_list` VALUES (4336, 8, 'cushion', '垫子', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (4337, 8, 'dazzle', '使眼花', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4337, 8, 'dazzle', '眼花', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4338, 8, 'deplete', '耗尽', NULL, NULL);
 
