@@ -8673,7 +8673,7 @@ INSERT INTO `netem_full_list` VALUES (4326, 8, 'scrap', '废品、报废', NULL,
 
 INSERT INTO `netem_full_list` VALUES (4327, 8, 'shatter', '粉碎', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4328, 8, 'trumpet', '喇叭', NULL, 'arts and media');
+INSERT INTO `netem_full_list` VALUES (4328, 8, 'trumpet', '喇叭、鼓吹', NULL, 'arts and media');
 
 INSERT INTO `netem_full_list` VALUES (4329, 8, 'aloud', '大声地', NULL, NULL);
 
