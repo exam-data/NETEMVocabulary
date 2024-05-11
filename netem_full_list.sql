@@ -8829,7 +8829,7 @@ INSERT INTO `netem_full_list` VALUES (4404, 7, 'flap', '拍打', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4405, 7, 'flesh', '肉', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (4406, 7, 'fork', '叉', NULL, 'food and drink');
+INSERT INTO `netem_full_list` VALUES (4406, 7, 'fork', '叉、付出', NULL, 'food and drink');
 
 INSERT INTO `netem_full_list` VALUES (4407, 7, 'glare', '瞪着、怒视', NULL, 'people: actions');
 
