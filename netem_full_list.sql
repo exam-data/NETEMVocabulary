@@ -8507,7 +8507,7 @@ INSERT INTO `netem_full_list` VALUES (4243, 8, 'chop', '砍', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4244, 8, 'doctrine', '学说、教义', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4245, 8, 'indignation', '愤慨、愤怒', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4245, 8, 'indignation', '愤怒', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4246, 8, 'prudent', '谨慎的', NULL, NULL);
 
