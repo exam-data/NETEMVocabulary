@@ -8795,7 +8795,7 @@ INSERT INTO `netem_full_list` VALUES (4387, 7, 'denote', '表示', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4388, 7, 'differentiate', '区分', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4389, 7, 'grin', '露齿而笑、咧嘴笑', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (4389, 7, 'grin', '咧嘴笑', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (4390, 7, 'harbor', '港口', 'harbour', NULL);
 
