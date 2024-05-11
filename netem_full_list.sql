@@ -8771,7 +8771,7 @@ INSERT INTO `netem_full_list` VALUES (4375, 8, 'stereo', '立体声', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (4376, 8, 'strand', '缕', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4377, 8, 'tangle', '纠纷、纠缠、缠结', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4377, 8, 'tangle', '纠纷、纠缠', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4378, 8, 'temple', '庙宇', NULL, 'homes and buildings');
 
