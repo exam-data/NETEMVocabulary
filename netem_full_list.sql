@@ -8553,7 +8553,7 @@ INSERT INTO `netem_full_list` VALUES (4266, 8, 'beginning', '开始', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (4267, 8, 'conjunction', '结合', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4268, 8, 'consolidate', '巩固', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4268, 8, 'consolidate', '巩固、统一', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4269, 8, 'counsel', '建议', NULL, NULL);
 
