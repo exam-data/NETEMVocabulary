@@ -8631,7 +8631,7 @@ INSERT INTO `netem_full_list` VALUES (4305, 8, 'underneath', '在下面', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (4306, 8, 'antique', '古董', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4307, 8, 'articulate', '发音、有关节的、发音清晰的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4307, 8, 'articulate', '清晰发言、有关节的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4308, 8, 'bake', '烤', NULL, 'food and drink');
 
