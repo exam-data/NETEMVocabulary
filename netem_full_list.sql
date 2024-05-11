@@ -8919,7 +8919,7 @@ INSERT INTO `netem_full_list` VALUES (4449, 7, 'ascend', '上升', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4450, 7, 'ascertain', '确定', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4451, 7, 'astonish', '使吃惊', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4451, 7, 'astonish', '吃惊', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4452, 7, 'banner', '旗帜', NULL, NULL);
 
