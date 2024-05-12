@@ -5165,7 +5165,7 @@ INSERT INTO `netem_full_list` VALUES (2572, 36, 'instruct', '指导', NULL, 'edu
 
 INSERT INTO `netem_full_list` VALUES (2573, 36, 'jacket', '夹克', NULL, 'clothes');
 
-INSERT INTO `netem_full_list` VALUES (2574, 36, 'sake', '目的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2574, 36, 'sake', '缘故、目的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2575, 36, 'virus', '病毒', NULL, 'technology');
 
