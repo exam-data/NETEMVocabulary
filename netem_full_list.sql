@@ -9259,7 +9259,7 @@ INSERT INTO `netem_full_list` VALUES (4619, 6, 'purple', '紫色', NULL, 'descri
 
 INSERT INTO `netem_full_list` VALUES (4620, 6, 'rape', '强奸', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4621, 6, 'reclaim', '回收、收回', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4621, 6, 'reclaim', '回收、利用', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4622, 6, 'repression', '镇压', NULL, NULL);
 
