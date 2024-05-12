@@ -4867,7 +4867,7 @@ INSERT INTO `netem_full_list` VALUES (2423, 40, 'automatic', '自动的', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (2424, 40, 'globe', '球体、地球', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2425, 40, 'division', '分开', NULL, 'shopping');
+INSERT INTO `netem_full_list` VALUES (2425, 40, 'division', '分开、部门', NULL, 'shopping');
 
 INSERT INTO `netem_full_list` VALUES (2426, 40, 'proceed', '继续进行', NULL, NULL);
 
