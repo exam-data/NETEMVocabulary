@@ -3447,7 +3447,7 @@ INSERT INTO `netem_full_list` VALUES (1713, 74, 'sister', '姐妹', NULL, 'relat
 
 INSERT INTO `netem_full_list` VALUES (1714, 73, 'plate', '盘子', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (1715, 73, 'justify', '替...辩护、辩解', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1715, 73, 'justify', '证明…正当', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (1716, 73, 'dead', '死去的、麻木的', NULL, 'body and health');
 
