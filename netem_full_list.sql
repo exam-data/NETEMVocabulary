@@ -9087,7 +9087,7 @@ INSERT INTO `netem_full_list` VALUES (4533, 6, 'commonwealth', '联邦', NULL, N
 
 INSERT INTO `netem_full_list` VALUES (4534, 6, 'congratulate', '庆祝、祝贺', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4535, 6, 'cricket', '板球', NULL, 'shopping');
+INSERT INTO `netem_full_list` VALUES (4535, 6, 'cricket', '板球、蟋蟀', NULL, 'shopping');
 
 INSERT INTO `netem_full_list` VALUES (4536, 6, 'diversion', '转移', NULL, NULL);
 
