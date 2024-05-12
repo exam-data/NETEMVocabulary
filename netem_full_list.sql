@@ -4973,7 +4973,7 @@ INSERT INTO `netem_full_list` VALUES (2476, 38, 'census', '人口普查', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (2477, 38, 'fade', '消退、消逝', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2478, 38, 'addict', '上瘾', NULL, 'body and health');
+INSERT INTO `netem_full_list` VALUES (2478, 38, 'addict', '瘾君子、（使）上瘾', NULL, 'body and health');
 
 INSERT INTO `netem_full_list` VALUES (2479, 38, 'anyway', '无论如何', NULL, 'communication');
 
