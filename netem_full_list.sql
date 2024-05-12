@@ -9161,7 +9161,7 @@ INSERT INTO `netem_full_list` VALUES (4570, 6, 'scent', '气味', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4571, 6, 'shrewd', '精明的', NULL, 'people: personality');
 
-INSERT INTO `netem_full_list` VALUES (4572, 6, 'specialise', '特别指明、的范围', 'specialize', NULL);
+INSERT INTO `netem_full_list` VALUES (4572, 6, 'specialise', '专门研究、特定范围', 'specialize', NULL);
 
 INSERT INTO `netem_full_list` VALUES (4573, 6, 'stance', '立场', NULL, NULL);
 
