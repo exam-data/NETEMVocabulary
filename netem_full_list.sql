@@ -8973,7 +8973,7 @@ INSERT INTO `netem_full_list` VALUES (4476, 7, 'magnet', '磁铁', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4477, 7, 'memorandum', '备忘录', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4478, 7, 'mingle', '交往、使混合', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4478, 7, 'mingle', '交往、混合', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4479, 7, 'miniature', '小型的、小规模的', NULL, NULL);
 
