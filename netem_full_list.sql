@@ -5119,7 +5119,7 @@ INSERT INTO `netem_full_list` VALUES (2549, 36, 'variation', '变化', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (2550, 36, 'harsh', '严厉的、恶劣的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (2551, 36, 'provision', '规定、条款', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2551, 36, 'provision', '提供、供给', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2552, 36, 'temper', '脾气', NULL, 'people: personality');
 
