@@ -4941,7 +4941,7 @@ INSERT INTO `netem_full_list` VALUES (2460, 39, 'hinder', '阻碍', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2461, 39, 'ear', '耳朵', NULL, 'body and health');
 
-INSERT INTO `netem_full_list` VALUES (2462, 39, 'session', '会议', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2462, 39, 'session', '会议、阶段', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2463, 39, 'fond', '喜欢', NULL, 'people: personality');
 
