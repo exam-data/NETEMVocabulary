@@ -9365,7 +9365,7 @@ INSERT INTO `netem_full_list` VALUES (4672, 5, 'tease', '取笑', NULL, 'communi
 
 INSERT INTO `netem_full_list` VALUES (4673, 5, 'tray', '盘', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (4674, 5, 'tug', '拖船', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4674, 5, 'tug', '拖船、拖', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4675, 5, 'ventilate', '通风', NULL, NULL);
 
