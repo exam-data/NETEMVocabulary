@@ -4513,7 +4513,7 @@ INSERT INTO `netem_full_list` VALUES (2246, 46, 'exclude', '不包括', NULL, NU
 
 INSERT INTO `netem_full_list` VALUES (2247, 46, 'casual', '随意的', NULL, 'clothes');
 
-INSERT INTO `netem_full_list` VALUES (2248, 46, 'orient', '朝向、使适应', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2248, 46, 'orient', '东方、定位、使适应', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2249, 46, 'component', '组成部分', NULL, NULL);
 
@@ -4711,7 +4711,7 @@ INSERT INTO `netem_full_list` VALUES (2345, 43, 'alive', '活着的', NULL, 'bod
 
 INSERT INTO `netem_full_list` VALUES (2346, 43, 'exert', '用、运用', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2347, 43, 'pioneer', '先驱、开创', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2347, 43, 'pioneer', '先驱', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2348, 43, 'punish', '惩罚', NULL, NULL);
 
