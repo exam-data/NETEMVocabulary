@@ -5083,7 +5083,7 @@ INSERT INTO `netem_full_list` VALUES (2531, 37, 'alliance', '联盟', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (2532, 37, 'copyright', '版权', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2533, 37, 'expertise', '专门知识', 'expertize', NULL);
+INSERT INTO `netem_full_list` VALUES (2533, 37, 'expertise', '专业知识', 'expertize', NULL);
 
 INSERT INTO `netem_full_list` VALUES (2534, 37, 'leg', '腿', NULL, 'body and health');
 
