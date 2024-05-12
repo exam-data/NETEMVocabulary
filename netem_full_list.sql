@@ -9097,7 +9097,7 @@ INSERT INTO `netem_full_list` VALUES (4538, 6, 'elbow', '手肘', NULL, 'body an
 
 INSERT INTO `netem_full_list` VALUES (4539, 6, 'equity', '公平、权益', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4540, 6, 'guild', '行会', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4540, 6, 'guild', '协会', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4541, 6, 'instrumental', '仪器的、有帮助的', NULL, NULL);
 
