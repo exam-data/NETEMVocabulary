@@ -5091,7 +5091,7 @@ INSERT INTO `netem_full_list` VALUES (2535, 37, 'spite', '恶意、怨恨', NULL
 
 INSERT INTO `netem_full_list` VALUES (2536, 36, 'suicide', '自杀', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2537, 36, 'acquisition', '采集', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2537, 36, 'acquisition', '收购、习得', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2538, 36, 'pole', '杆', NULL, NULL);
 
