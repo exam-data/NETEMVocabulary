@@ -9203,7 +9203,7 @@ INSERT INTO `netem_full_list` VALUES (4591, 6, 'futile', '无用的', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (4592, 6, 'gracious', '亲切的、仁慈的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4593, 6, 'hatch', '孵、孵化', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4593, 6, 'hatch', '孵化', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4594, 6, 'heap', '堆', NULL, NULL);
 
