@@ -8511,7 +8511,7 @@ INSERT INTO `netem_full_list` VALUES (4245, 8, 'indignation', '愤怒', NULL, NU
 
 INSERT INTO `netem_full_list` VALUES (4246, 8, 'prudent', '谨慎的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4247, 8, 'disposition', '性情、处置', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (4247, 8, 'disposition', '倾向、安排、性情', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (4248, 8, 'perplex', '使困惑、使复杂化', NULL, NULL);
 
