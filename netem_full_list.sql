@@ -9403,7 +9403,7 @@ INSERT INTO `netem_full_list` VALUES (4691, 5, 'eradicate', '根除', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (4692, 5, 'fabulous', '极好的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (4693, 5, 'fascinate', '吸引住、有吸引力', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4693, 5, 'fascinate', '吸引住', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4694, 5, 'fibre', '纤维', 'fiber', 'food and drink');
 
