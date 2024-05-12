@@ -5005,7 +5005,7 @@ INSERT INTO `netem_full_list` VALUES (2492, 38, 'somehow', '以某种方式', NU
 
 INSERT INTO `netem_full_list` VALUES (2493, 38, 'birthday', '生日', NULL, 'relationships');
 
-INSERT INTO `netem_full_list` VALUES (2494, 38, 'inferior', '下级、下级的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2494, 38, 'inferior', '下级、较差的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2495, 38, 'fake', '伪造、假的', NULL, 'people: personality');
 
