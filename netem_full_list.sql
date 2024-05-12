@@ -4151,7 +4151,7 @@ INSERT INTO `netem_full_list` VALUES (2065, 54, 'construct', '建造、创立', 
 
 INSERT INTO `netem_full_list` VALUES (2066, 54, 'encounter', '偶遇', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2067, 54, 'overwhelm', '征服、（感情或感觉）充溢', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2067, 54, 'overwhelm', '征服', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2068, 54, 'sponsor', '赞助、资助', NULL, 'money');
 
@@ -4289,7 +4289,7 @@ INSERT INTO `netem_full_list` VALUES (2134, 51, 'angry', '生气的', NULL, 'peo
 
 INSERT INTO `netem_full_list` VALUES (2135, 51, 'extensive', '广泛的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (2136, 51, 'resort', '求助、手段', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (2136, 51, 'resort', '度假村，被迫采取', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (2137, 51, 'assistance', '帮助', NULL, 'people: actions');
 
@@ -4375,7 +4375,7 @@ INSERT INTO `netem_full_list` VALUES (2177, 49, 'quantity', '数量、数额', N
 
 INSERT INTO `netem_full_list` VALUES (2178, 49, 'fatal', '致命的、宿命的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2179, 49, 'lobby', '游说', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (2179, 49, 'lobby', '游说、门廊', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (2180, 49, 'calm', '冷静、镇定', NULL, 'natural world');
 
