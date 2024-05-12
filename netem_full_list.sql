@@ -9229,7 +9229,7 @@ INSERT INTO `netem_full_list` VALUES (4604, 6, 'jungle', '丛林', NULL, 'natura
 
 INSERT INTO `netem_full_list` VALUES (4605, 6, 'layman', '门外汉', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4606, 6, 'locality', '地区、位置', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4606, 6, 'locality', '地区', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4607, 6, 'noon', '中午', NULL, NULL);
 
