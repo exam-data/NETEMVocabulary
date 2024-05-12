@@ -9321,7 +9321,7 @@ INSERT INTO `netem_full_list` VALUES (4650, 5, 'correspondent', '通讯记者', 
 
 INSERT INTO `netem_full_list` VALUES (4651, 5, 'crab', '蟹', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4652, 5, 'ditch', '沟渠、壕沟', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4652, 5, 'ditch', '沟渠、抛弃', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4653, 5, 'indignant', '愤慨的', NULL, NULL);
 
