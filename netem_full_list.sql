@@ -9219,7 +9219,7 @@ INSERT INTO `netem_full_list` VALUES (4599, 6, 'inland', '内陆', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4600, 6, 'insulate', '隔离', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4601, 6, 'intermediate', '中间体', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4601, 6, 'intermediate', '中间体、中等的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4602, 6, 'invaluable', '无价的', NULL, NULL);
 
