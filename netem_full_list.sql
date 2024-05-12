@@ -8959,7 +8959,7 @@ INSERT INTO `netem_full_list` VALUES (4469, 7, 'fore', '船头', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4470, 7, 'hammer', '锤', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4471, 7, 'homogeneous', '同质的、同种的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4471, 7, 'homogeneous', '同类的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4472, 7, 'intrigue', '阴谋', NULL, NULL);
 
