@@ -9195,7 +9195,7 @@ INSERT INTO `netem_full_list` VALUES (4587, 6, 'conversion', '转变', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (4588, 6, 'coward', '懦夫', NULL, 'people: personality');
 
-INSERT INTO `netem_full_list` VALUES (4589, 6, 'dizzy', '晕眩的、使困惑', NULL, 'body and health');
+INSERT INTO `netem_full_list` VALUES (4589, 6, 'dizzy', '晕眩的、困惑', NULL, 'body and health');
 
 INSERT INTO `netem_full_list` VALUES (4590, 6, 'exile', '流放', NULL, NULL);
 
