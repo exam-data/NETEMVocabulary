@@ -3277,7 +3277,7 @@ INSERT INTO `netem_full_list` VALUES (1628, 80, 'repeat', '重复', NULL, 'commu
 
 INSERT INTO `netem_full_list` VALUES (1629, 80, 'politician', '政治家', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1630, 80, 'pose', '摆姿势、提出', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1630, 80, 'pose', '摆姿势、造成、提出', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1631, 80, 'chair', '主席、椅子', NULL, 'homes and buildings');
 
@@ -3315,7 +3315,7 @@ INSERT INTO `netem_full_list` VALUES (1647, 79, 'remote', '遥远的', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (1648, 79, 'tomorrow', '明天、来日', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1649, 78, 'continent', '大陆', NULL, 'natural world');
+INSERT INTO `netem_full_list` VALUES (1649, 78, 'continent', '洲、大陆', NULL, 'natural world');
 
 INSERT INTO `netem_full_list` VALUES (1650, 78, 'reduction', '减少、降低', NULL, NULL);
 
@@ -3331,7 +3331,7 @@ INSERT INTO `netem_full_list` VALUES (1655, 78, 'stimulate', '刺激、使兴奋
 
 INSERT INTO `netem_full_list` VALUES (1656, 78, 'arrange', '安排', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (1657, 78, 'faculty', '才能、学院', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1657, 78, 'faculty', '能力、院系', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1658, 78, 'praise', '赞美、表扬', 'praize', 'communication');
 
@@ -3355,11 +3355,11 @@ INSERT INTO `netem_full_list` VALUES (1667, 77, 'weak', '弱的', NULL, 'food an
 
 INSERT INTO `netem_full_list` VALUES (1668, 77, 'affair', '事情、事务', NULL, 'relationships');
 
-INSERT INTO `netem_full_list` VALUES (1669, 77, 'undergraduate', '大学生', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1669, 77, 'undergraduate', '本科的、本科生', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1670, 77, 'assign', '分配、指定', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1671, 77, 'mission', '使命', NULL, 'work');
+INSERT INTO `netem_full_list` VALUES (1671, 77, 'mission', '任务、使命', NULL, 'work');
 
 INSERT INTO `netem_full_list` VALUES (1672, 77, 'joy', '欢乐', NULL, 'people: personality');
 
@@ -3413,7 +3413,7 @@ INSERT INTO `netem_full_list` VALUES (1696, 75, 'considerable', '相当大的', 
 
 INSERT INTO `netem_full_list` VALUES (1697, 75, 'beauty', '美丽、美人', NULL, 'people: appearance');
 
-INSERT INTO `netem_full_list` VALUES (1698, 75, 'massive', '大而重的、大规模的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (1698, 75, 'massive', '巨大的、大规模的', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (1699, 75, 'council', '理事会', NULL, 'politics');
 
@@ -3447,7 +3447,7 @@ INSERT INTO `netem_full_list` VALUES (1713, 74, 'sister', '姐妹', NULL, 'relat
 
 INSERT INTO `netem_full_list` VALUES (1714, 73, 'plate', '盘子', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (1715, 73, 'justify', '证明……正当', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1715, 73, 'justify', '证明…正当', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (1716, 73, 'dead', '死去的、麻木的', NULL, 'body and health');
 
@@ -3457,7 +3457,7 @@ INSERT INTO `netem_full_list` VALUES (1718, 73, 'elsewhere', '在别处', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (1719, 73, 'procedure', '步骤', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1720, 73, 'unlikely', '难以置信的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1720, 73, 'unlikely', '不太可能', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1721, 73, 'strict', '严格的', NULL, 'crime');
 
@@ -3465,9 +3465,9 @@ INSERT INTO `netem_full_list` VALUES (1722, 73, 'stick', '棍、刺、粘贴', N
 
 INSERT INTO `netem_full_list` VALUES (1723, 73, 'observation', '观察、言论', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1724, 73, 'convey', '运输', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1724, 73, 'convey', '传达、输送', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1725, 73, 'virtual', '实际上的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1725, 73, 'virtual', '虚拟、实际上的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1726, 73, 'discourage', '使泄气', 'discorage', 'communication');
 
@@ -3477,7 +3477,7 @@ INSERT INTO `netem_full_list` VALUES (1728, 73, 'location', '位置', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (1729, 73, 'coach', '教练', NULL, 'travel');
 
-INSERT INTO `netem_full_list` VALUES (1730, 73, 'merit', '值得、价值', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1730, 73, 'merit', '优点、价值、值得', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1731, 73, 'occasion', '机会、重大活动', NULL, NULL);
 
@@ -3495,9 +3495,9 @@ INSERT INTO `netem_full_list` VALUES (1737, 72, 'independence', '独立', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (1738, 72, 'aside', '在旁边', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1739, 72, 'bind', '捆扎', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1739, 72, 'bind', '结合、约束、捆绑', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1740, 72, 'capture', '占领、体现、吸引、拍摄', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1740, 72, 'capture', '捕获、战利品、拍摄、引起注意', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1741, 72, 'satisfy', '满意、使确信', NULL, 'people: personality');
 
@@ -3559,7 +3559,7 @@ INSERT INTO `netem_full_list` VALUES (1769, 70, 'hair', '头发', NULL, 'people:
 
 INSERT INTO `netem_full_list` VALUES (1770, 70, 'admission', '允许进入、承认', NULL, 'education');
 
-INSERT INTO `netem_full_list` VALUES (1771, 70, 'regardless', '不留心的、不顾', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1771, 70, 'regardless', '不顾、不管怎样', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1772, 70, 'empty', '空的', NULL, NULL);
 
@@ -3645,7 +3645,7 @@ INSERT INTO `netem_full_list` VALUES (1812, 68, 'bar', '条、酒吧', NULL, 'de
 
 INSERT INTO `netem_full_list` VALUES (1813, 68, 'east', '东、东方的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1814, 68, 'resume', '重新开始、恢复', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1814, 68, 'resume', '重新开始、恢复、简历', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1815, 68, 'adolescent', '青少年', NULL, 'people: appearance');
 
@@ -3671,7 +3671,7 @@ INSERT INTO `netem_full_list` VALUES (1825, 67, 'convenient', '方便的', NULL,
 
 INSERT INTO `netem_full_list` VALUES (1826, 67, 'battle', '战斗', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1827, 67, 'vulnerable', '易受攻击的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1827, 67, 'vulnerable', '易受攻击的、脆弱的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1828, 67, 'committee', '委员会', NULL, 'work');
 
@@ -3751,7 +3751,7 @@ INSERT INTO `netem_full_list` VALUES (1865, 64, 'remark', '评价、评论', NUL
 
 INSERT INTO `netem_full_list` VALUES (1866, 64, 'comparison', '比较', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1867, 64, 'regulate', '管理', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1867, 64, 'regulate', '管理、调节', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1868, 64, 'contrary', '相反的、对方的', NULL, NULL);
 
@@ -3771,7 +3771,7 @@ INSERT INTO `netem_full_list` VALUES (1875, 64, 'desert', '遗弃、沙漠', NUL
 
 INSERT INTO `netem_full_list` VALUES (1876, 64, 'beach', '海滩', NULL, 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (1877, 64, 'usage', '用法', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1877, 64, 'usage', '使用、用法', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1878, 63, 'exceptional', '例外的', NULL, 'describing things');
 
@@ -3785,9 +3785,9 @@ INSERT INTO `netem_full_list` VALUES (1882, 63, 'bottom', '底下', NULL, 'body 
 
 INSERT INTO `netem_full_list` VALUES (1883, 63, 'expansion', '扩张', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1884, 62, 'whereas', '而、考虑到', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (1884, 62, 'whereas', '然而', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (1885, 62, 'license', '执照', 'licence', NULL);
+INSERT INTO `netem_full_list` VALUES (1885, 62, 'license', '执照、许可', 'licence', NULL);
 
 INSERT INTO `netem_full_list` VALUES (1886, 62, 'journey', '旅行', NULL, 'travel');
 
@@ -3845,7 +3845,7 @@ INSERT INTO `netem_full_list` VALUES (1912, 61, 'rural', '乡村的', NULL, 'nat
 
 INSERT INTO `netem_full_list` VALUES (1913, 61, 'god', '神、上帝', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1914, 61, 'reluctant', '厌恶的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1914, 61, 'reluctant', '不情愿的、勉强的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1915, 61, 'sharp', '尖的、清晰的', NULL, 'describing things');
 
@@ -3879,7 +3879,7 @@ INSERT INTO `netem_full_list` VALUES (1929, 60, 'era', '时代', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1930, 60, 'false', '错误的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1931, 60, 'uniform', '不变的、制服', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1931, 60, 'uniform', '统一的、制服', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1932, 60, 'pair', '一对', NULL, 'describing things');
 
@@ -3957,7 +3957,7 @@ INSERT INTO `netem_full_list` VALUES (1968, 58, 'tone', '音调、腔调', NULL,
 
 INSERT INTO `netem_full_list` VALUES (1969, 58, 'minor', '较小的、较少的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1970, 58, 'stuff', '东西、塞入', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1970, 58, 'stuff', '东西、材料、填满', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1971, 58, 'sum', '总和', NULL, 'money');
 
@@ -3967,7 +3967,7 @@ INSERT INTO `netem_full_list` VALUES (1973, 58, 'injure', '使受伤、损害', 
 
 INSERT INTO `netem_full_list` VALUES (1974, 58, 'superior', '优良的、较……多的', NULL, 'work');
 
-INSERT INTO `netem_full_list` VALUES (1975, 58, 'tackle', '用具', NULL, 'people: actions');
+INSERT INTO `netem_full_list` VALUES (1975, 58, 'tackle', '处理、应付', NULL, 'people: actions');
 
 INSERT INTO `netem_full_list` VALUES (1976, 58, 'maximum', '最大的', NULL, 'describing things');
 
@@ -8375,7 +8375,7 @@ INSERT INTO `netem_full_list` VALUES (4177, 9, 'impair', '损害', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4178, 9, 'levy', '征收', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4179, 9, 'mainland', '大陆', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4179, 9, 'mainland', '洲、大陆', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4180, 9, 'northeast', '东北', NULL, NULL);
 
