@@ -3465,7 +3465,7 @@ INSERT INTO `netem_full_list` VALUES (1722, 73, 'stick', '棍、刺、粘贴', N
 
 INSERT INTO `netem_full_list` VALUES (1723, 73, 'observation', '观察、言论', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (1724, 73, 'convey', '传达、表达、传递', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (1724, 73, 'convey', '传达、输送', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (1725, 73, 'virtual', '虚拟、实际上的', NULL, NULL);
 
