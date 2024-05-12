@@ -4473,7 +4473,7 @@ INSERT INTO `netem_full_list` VALUES (2226, 48, 'scholarship', '奖学金、学�
 
 INSERT INTO `netem_full_list` VALUES (2227, 47, 'rail', '栏杆、铁轨', NULL, 'travel');
 
-INSERT INTO `netem_full_list` VALUES (2228, 47, 'dean', '教长、学监', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2228, 47, 'dean', '院长、主任', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2229, 47, 'overlook', '俯瞰、忽略', NULL, NULL);
 
@@ -4513,7 +4513,7 @@ INSERT INTO `netem_full_list` VALUES (2246, 46, 'exclude', '不包括', NULL, NU
 
 INSERT INTO `netem_full_list` VALUES (2247, 46, 'casual', '随意的', NULL, 'clothes');
 
-INSERT INTO `netem_full_list` VALUES (2248, 46, 'orient', '东方、适应', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2248, 46, 'orient', '东方、定位、使适应', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2249, 46, 'component', '组成部分', NULL, NULL);
 
@@ -4575,7 +4575,7 @@ INSERT INTO `netem_full_list` VALUES (2277, 45, 'jury', '陪审团', NULL, 'crim
 
 INSERT INTO `netem_full_list` VALUES (2278, 45, 'humor', '幽默、诙谐', 'humour', NULL);
 
-INSERT INTO `netem_full_list` VALUES (2279, 45, 'desirable', '称心的', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (2279, 45, 'desirable', '称心的、可取的', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (2280, 45, 'motion', '动、提议', NULL, 'communication');
 
@@ -4683,7 +4683,7 @@ INSERT INTO `netem_full_list` VALUES (2331, 44, 'assembly', '集合、装配', N
 
 INSERT INTO `netem_full_list` VALUES (2332, 44, 'rid', '摆脱', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2333, 44, 'upper', '上面的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2333, 44, 'upper', '上面的、较高的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2334, 44, 'pet', '宠物', NULL, 'animals');
 
@@ -4711,7 +4711,7 @@ INSERT INTO `netem_full_list` VALUES (2345, 43, 'alive', '活着的', NULL, 'bod
 
 INSERT INTO `netem_full_list` VALUES (2346, 43, 'exert', '用、运用', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2347, 43, 'pioneer', '先驱、倡导', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2347, 43, 'pioneer', '先驱', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2348, 43, 'punish', '惩罚', NULL, NULL);
 
@@ -4867,7 +4867,7 @@ INSERT INTO `netem_full_list` VALUES (2423, 40, 'automatic', '自动的', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (2424, 40, 'globe', '球体、地球', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2425, 40, 'division', '分开', NULL, 'shopping');
+INSERT INTO `netem_full_list` VALUES (2425, 40, 'division', '分开、部门', NULL, 'shopping');
 
 INSERT INTO `netem_full_list` VALUES (2426, 40, 'proceed', '继续进行', NULL, NULL);
 
