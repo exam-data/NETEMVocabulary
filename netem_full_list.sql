@@ -5249,7 +5249,7 @@ INSERT INTO `netem_full_list` VALUES (2614, 34, 'parallel', '平行的、类似�
 
 INSERT INTO `netem_full_list` VALUES (2615, 34, 'instinct', '本能', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2616, 34, 'premium', '保险费', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2616, 34, 'premium', '保险费、优质的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2617, 34, 'shuttle', '航天飞机', NULL, 'travel');
 
