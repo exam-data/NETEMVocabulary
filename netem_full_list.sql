@@ -9467,7 +9467,7 @@ INSERT INTO `netem_full_list` VALUES (4723, 5, 'crane', '起重机', NULL, NULL)
 
 INSERT INTO `netem_full_list` VALUES (4724, 5, 'crystal', '水晶', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4725, 5, 'culminate', '达到高潮、使结束', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4725, 5, 'culminate', '达到高潮、结束', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4726, 5, 'cupboard', '碗橱', NULL, 'homes and buildings');
 
