@@ -5123,7 +5123,7 @@ INSERT INTO `netem_full_list` VALUES (2551, 36, 'provision', '提供、供给', 
 
 INSERT INTO `netem_full_list` VALUES (2552, 36, 'temper', '脾气', NULL, 'people: personality');
 
-INSERT INTO `netem_full_list` VALUES (2553, 36, 'exhaust', '废气', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2553, 36, 'exhaust', '耗尽', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2554, 36, 'holder', '持有者', NULL, NULL);
 
@@ -5155,7 +5155,7 @@ INSERT INTO `netem_full_list` VALUES (2567, 36, 'housework', '家务', NULL, 'pe
 
 INSERT INTO `netem_full_list` VALUES (2568, 36, 'lifetime', '一生', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2569, 36, 'shirt', '衣服', NULL, 'clothes');
+INSERT INTO `netem_full_list` VALUES (2569, 36, 'shirt', '衬衫', NULL, 'clothes');
 
 INSERT INTO `netem_full_list` VALUES (2570, 36, 'amid', '在其间', NULL, NULL);
 
