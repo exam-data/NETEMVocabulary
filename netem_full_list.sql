@@ -4919,7 +4919,7 @@ INSERT INTO `netem_full_list` VALUES (2449, 39, 'permission', '允许、许可',
 
 INSERT INTO `netem_full_list` VALUES (2450, 39, 'pour', '倾倒', 'por', 'natural world');
 
-INSERT INTO `netem_full_list` VALUES (2451, 39, 'equivalent', '相等物', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2451, 39, 'equivalent', '相同的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2452, 39, 'ultimate', '终极', NULL, NULL);
 
