@@ -5083,7 +5083,7 @@ INSERT INTO `netem_full_list` VALUES (2531, 37, 'alliance', '联盟', NULL, NULL
 
 INSERT INTO `netem_full_list` VALUES (2532, 37, 'copyright', '版权', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2533, 37, 'expertise', '专门知识', 'expertize', NULL);
+INSERT INTO `netem_full_list` VALUES (2533, 37, 'expertise', '专业知识', 'expertize', NULL);
 
 INSERT INTO `netem_full_list` VALUES (2534, 37, 'leg', '腿', NULL, 'body and health');
 
@@ -5091,7 +5091,7 @@ INSERT INTO `netem_full_list` VALUES (2535, 37, 'spite', '恶意、怨恨', NULL
 
 INSERT INTO `netem_full_list` VALUES (2536, 36, 'suicide', '自杀', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2537, 36, 'acquisition', '采集', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2537, 36, 'acquisition', '收购、习得', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2538, 36, 'pole', '杆', NULL, NULL);
 
@@ -5117,13 +5117,13 @@ INSERT INTO `netem_full_list` VALUES (2548, 36, 'motive', '动机', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2549, 36, 'variation', '变化', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2550, 36, 'harsh', '刺耳的、粗糙的', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (2550, 36, 'harsh', '严厉的、恶劣的', NULL, 'describing things');
 
-INSERT INTO `netem_full_list` VALUES (2551, 36, 'provision', '规定、条款', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2551, 36, 'provision', '提供、供给', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2552, 36, 'temper', '脾气', NULL, 'people: personality');
 
-INSERT INTO `netem_full_list` VALUES (2553, 36, 'exhaust', '废气', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2553, 36, 'exhaust', '耗尽', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2554, 36, 'holder', '持有者', NULL, NULL);
 
@@ -5155,7 +5155,7 @@ INSERT INTO `netem_full_list` VALUES (2567, 36, 'housework', '家务', NULL, 'pe
 
 INSERT INTO `netem_full_list` VALUES (2568, 36, 'lifetime', '一生', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2569, 36, 'shirt', '衣服', NULL, 'clothes');
+INSERT INTO `netem_full_list` VALUES (2569, 36, 'shirt', '衬衫', NULL, 'clothes');
 
 INSERT INTO `netem_full_list` VALUES (2570, 36, 'amid', '在其间', NULL, NULL);
 
@@ -5165,7 +5165,7 @@ INSERT INTO `netem_full_list` VALUES (2572, 36, 'instruct', '指导', NULL, 'edu
 
 INSERT INTO `netem_full_list` VALUES (2573, 36, 'jacket', '夹克', NULL, 'clothes');
 
-INSERT INTO `netem_full_list` VALUES (2574, 36, 'sake', '目的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2574, 36, 'sake', '缘故、目的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2575, 36, 'virus', '病毒', NULL, 'technology');
 
@@ -5181,7 +5181,7 @@ INSERT INTO `netem_full_list` VALUES (2580, 35, 'classical', '古典的', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (2581, 35, 'sequence', '顺序', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2582, 35, 'systematic', '有规则的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2582, 35, 'systematic', '系统的、成体系的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2583, 35, 'horizon', '地平线', NULL, NULL);
 
@@ -5205,7 +5205,7 @@ INSERT INTO `netem_full_list` VALUES (2592, 35, 'disable', '失去能力', 'diza
 
 INSERT INTO `netem_full_list` VALUES (2593, 35, 'hostile', '敌对的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2594, 35, 'integrity', '完整', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (2594, 35, 'integrity', '诚实正直、完整', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (2595, 35, 'precise', '精确的', 'precize', 'describing things');
 
