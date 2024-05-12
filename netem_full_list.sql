@@ -5033,7 +5033,7 @@ INSERT INTO `netem_full_list` VALUES (2506, 37, 'painful', '痛苦的', NULL, 'b
 
 INSERT INTO `netem_full_list` VALUES (2507, 37, 'confine', '限制', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2508, 37, 'assemble', '装配', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2508, 37, 'assemble', '装配、召集', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2509, 37, 'colony', '殖民地', NULL, NULL);
 
