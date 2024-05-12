@@ -9345,7 +9345,7 @@ INSERT INTO `netem_full_list` VALUES (4662, 5, 'nucleus', '核', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4663, 5, 'pinch', '捏、一撮', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4664, 5, 'plea', '恳求、抗辩', NULL, 'communication');
+INSERT INTO `netem_full_list` VALUES (4664, 5, 'plea', '恳求、抗辩、借口', NULL, 'communication');
 
 INSERT INTO `netem_full_list` VALUES (4665, 5, 'puppet', '木偶', NULL, NULL);
 
