@@ -9143,7 +9143,7 @@ INSERT INTO `netem_full_list` VALUES (4561, 6, 'forthcoming', '即将到来的',
 
 INSERT INTO `netem_full_list` VALUES (4562, 6, 'handy', '方便的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4563, 6, 'inventory', '详细目录', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4563, 6, 'inventory', '详细目录、清点', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4564, 6, 'motel', '汽车旅馆', NULL, NULL);
 
