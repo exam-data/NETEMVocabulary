@@ -9525,7 +9525,7 @@ INSERT INTO `netem_full_list` VALUES (4752, 5, 'plagiarism', '剽窃', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (4753, 5, 'plight', '困境', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4754, 5, 'portfolio', '投资组合', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4754, 5, 'portfolio', '投资组合、作品集', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4755, 5, 'postman', '邮递员', NULL, NULL);
 
