@@ -5181,7 +5181,7 @@ INSERT INTO `netem_full_list` VALUES (2580, 35, 'classical', '古典的', NULL, 
 
 INSERT INTO `netem_full_list` VALUES (2581, 35, 'sequence', '顺序', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2582, 35, 'systematic', '有规则的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (2582, 35, 'systematic', '系统的、成体系的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (2583, 35, 'horizon', '地平线', NULL, NULL);
 
