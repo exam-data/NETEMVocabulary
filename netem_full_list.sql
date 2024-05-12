@@ -5205,7 +5205,7 @@ INSERT INTO `netem_full_list` VALUES (2592, 35, 'disable', '失去能力', 'diza
 
 INSERT INTO `netem_full_list` VALUES (2593, 35, 'hostile', '敌对的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (2594, 35, 'integrity', '完整', NULL, 'people: personality');
+INSERT INTO `netem_full_list` VALUES (2594, 35, 'integrity', '诚实正直、完整', NULL, 'people: personality');
 
 INSERT INTO `netem_full_list` VALUES (2595, 35, 'precise', '精确的', 'precize', 'describing things');
 
