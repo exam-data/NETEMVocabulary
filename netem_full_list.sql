@@ -9795,7 +9795,7 @@ INSERT INTO `netem_full_list` VALUES (4887, 4, 'plural', '复数', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4888, 4, 'porch', '门廊', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4889, 4, 'preclude', '排除', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4889, 4, 'preclude', '阻止', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4890, 4, 'pretext', '借口', NULL, NULL);
 
