@@ -9645,7 +9645,7 @@ INSERT INTO `netem_full_list` VALUES (4812, 4, 'compass', '指南针', NULL, NUL
 
 INSERT INTO `netem_full_list` VALUES (4813, 4, 'downstairs', '楼下', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (4814, 4, 'dye', '染', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4814, 4, 'dye', '染色、染料', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4815, 4, 'fuse', '保险丝、融合', 'fuze', NULL);
 
