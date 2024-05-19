@@ -9881,7 +9881,7 @@ INSERT INTO `netem_full_list` VALUES (4930, 3, 'defer', '推迟', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4931, 3, 'flare', '爆发、闪光', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4932, 3, 'humiliate', '使丢脸', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4932, 3, 'humiliate', '丢脸', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4933, 3, 'jealous', '嫉妒的', NULL, 'people: personality');
 
