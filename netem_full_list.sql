@@ -10421,7 +10421,7 @@ INSERT INTO `netem_full_list` VALUES (5200, 1, 'composite', '复合材料', NULL
 
 INSERT INTO `netem_full_list` VALUES (5201, 1, 'comrade', '同志', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (5202, 1, 'contingent', '代表团、取决于', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5202, 1, 'contingent', '代表团', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5203, 1, 'culprit', '罪犯', NULL, NULL);
 
