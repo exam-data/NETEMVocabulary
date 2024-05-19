@@ -6343,7 +6343,7 @@ INSERT INTO `netem_full_list` VALUES (3161, 21, 'housewife', '家庭主妇', NUL
 
 INSERT INTO `netem_full_list` VALUES (3162, 21, 'intervene', '干预', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (3163, 21, 'luggage', '行李', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (3163, 21, 'luggage', '行李、成见', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (3164, 21, 'seal', '密封', NULL, 'animals');
 
@@ -9629,7 +9629,7 @@ INSERT INTO `netem_full_list` VALUES (4804, 4, 'withhold', '保留、扣留', NU
 
 INSERT INTO `netem_full_list` VALUES (4805, 4, 'arrow', '箭', NULL, 'shopping');
 
-INSERT INTO `netem_full_list` VALUES (4806, 4, 'baggage', '行李', NULL, 'travel');
+INSERT INTO `netem_full_list` VALUES (4806, 4, 'baggage', '行李、成见', NULL, 'travel');
 
 INSERT INTO `netem_full_list` VALUES (4807, 4, 'blunt', '钝的、直率的', NULL, NULL);
 
@@ -9801,7 +9801,7 @@ INSERT INTO `netem_full_list` VALUES (4890, 4, 'pretext', '借口', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4891, 4, 'rabbit', '兔子', NULL, 'animals');
 
-INSERT INTO `netem_full_list` VALUES (4892, 4, 'rack', '行李架', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4892, 4, 'rack', '行李、成见架', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4893, 4, 'rash', '疹子、轻率的', NULL, 'body and health');
 
