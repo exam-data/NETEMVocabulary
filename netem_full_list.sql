@@ -9839,7 +9839,7 @@ INSERT INTO `netem_full_list` VALUES (4909, 4, 'spoon', '勺子', NULL, 'food an
 
 INSERT INTO `netem_full_list` VALUES (4910, 4, 'stagnant', '停滞的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4911, 4, 'stitch', '一针', NULL, 'body and health');
+INSERT INTO `netem_full_list` VALUES (4911, 4, 'stitch', '针脚、缝补', NULL, 'body and health');
 
 INSERT INTO `netem_full_list` VALUES (4912, 4, 'stoop', '弯腰', NULL, NULL);
 
