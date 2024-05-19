@@ -10681,7 +10681,7 @@ INSERT INTO `netem_full_list` VALUES (5330, 1, 'wrinkle', '皱纹', NULL, 'body 
 
 INSERT INTO `netem_full_list` VALUES (5331, 0, 'according to', '据所说、根据', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (5332, 0, 'accustom', '使习惯', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5332, 0, 'accustom', '习惯', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5333, 0, 'adverb', '副词', NULL, NULL);
 
