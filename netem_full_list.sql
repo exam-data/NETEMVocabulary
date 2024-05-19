@@ -10629,7 +10629,7 @@ INSERT INTO `netem_full_list` VALUES (5304, 1, 'static', '静态的、静电', N
 
 INSERT INTO `netem_full_list` VALUES (5305, 1, 'stool', '凳子', NULL, 'homes and buildings');
 
-INSERT INTO `netem_full_list` VALUES (5306, 1, 'streamline', '使简化', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5306, 1, 'streamline', '简化', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5307, 1, 'summarise', '概括', 'summarize', NULL);
 
