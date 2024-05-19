@@ -10137,7 +10137,7 @@ INSERT INTO `netem_full_list` VALUES (5058, 3, 'sparkle', '闪耀', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5059, 3, 'stagnate', '停滞不前', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (5060, 3, 'stun', '震惊、使目瞪口呆', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5060, 3, 'stun', '震惊', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5061, 3, 'tariff', '关税', NULL, NULL);
 
