@@ -9957,7 +9957,7 @@ INSERT INTO `netem_full_list` VALUES (4968, 3, 'anyhow', '无论如何', NULL, '
 
 INSERT INTO `netem_full_list` VALUES (4969, 3, 'arch', '拱', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4970, 3, 'avail', '有利、有助于', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4970, 3, 'avail', '利益、有利于', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4971, 3, 'balcony', '阳台', NULL, 'homes and buildings');
 
