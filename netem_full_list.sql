@@ -9575,7 +9575,7 @@ INSERT INTO `netem_full_list` VALUES (4777, 4, 'radius', '半径', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4778, 4, 'semiconductor', '半导体', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4779, 4, 'statute', '法令、法规', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4779, 4, 'statute', '法规', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4780, 4, 'barn', '谷仓', NULL, NULL);
 
