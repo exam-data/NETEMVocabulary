@@ -10411,7 +10411,7 @@ INSERT INTO `netem_full_list` VALUES (5195, 2, 'zip', '拉链、尖啸声', NULL
 
 INSERT INTO `netem_full_list` VALUES (5196, 1, 'abdomen', '腹部', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (5197, 1, 'agitate', '煽动', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5197, 1, 'agitate', '煽动、晃动', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5198, 1, 'amiable', '亲切的', NULL, NULL);
 
