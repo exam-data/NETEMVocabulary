@@ -10265,7 +10265,7 @@ INSERT INTO `netem_full_list` VALUES (5122, 2, 'clergy', '神职人员', NULL, N
 
 INSERT INTO `netem_full_list` VALUES (5123, 2, 'clutch', '抓住、离合器', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (5124, 2, 'cohesive', '有结合性的、粘性的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5124, 2, 'cohesive', '团结的、粘性的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5125, 2, 'configuration', '构造', NULL, NULL);
 
