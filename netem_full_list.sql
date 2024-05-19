@@ -9675,7 +9675,7 @@ INSERT INTO `netem_full_list` VALUES (4827, 4, 'retention', '保存、记忆力'
 
 INSERT INTO `netem_full_list` VALUES (4828, 4, 'shorthand', '速记', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4829, 4, 'sip', '啜', NULL, 'food and drink');
+INSERT INTO `netem_full_list` VALUES (4829, 4, 'sip', '抿一口', NULL, 'food and drink');
 
 INSERT INTO `netem_full_list` VALUES (4830, 4, 'stubborn', '固执的', NULL, 'people: personality');
 
