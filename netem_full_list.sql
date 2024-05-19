@@ -11071,7 +11071,7 @@ INSERT INTO `netem_full_list` VALUES (5525, 0, 'worst', '最坏、最坏的', NU
 
 INSERT INTO `netem_full_list` VALUES (5526, 0, 'X-ray', 'X射线', NULL, 'body and health');
 
-INSERT INTO `netem_full_list` VALUES (5527, 0, 'yours', '你的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5527, 0, 'yours', '你的、你们的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5528, 0, 'yourselves', '你们自己', NULL, NULL);
 
