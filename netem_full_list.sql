@@ -10449,7 +10449,7 @@ INSERT INTO `netem_full_list` VALUES (5214, 1, 'ruthless', '无情的', NULL, 'p
 
 INSERT INTO `netem_full_list` VALUES (5215, 1, 'watt', '瓦特', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (5216, 1, 'adore', '热爱、爱暴', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5216, 1, 'adore', '热爱、爱慕', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5217, 1, 'esthetic', '美学', 'aesthetic, esthetical, aesthetical', NULL);
 
