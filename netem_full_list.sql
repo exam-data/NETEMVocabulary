@@ -9733,7 +9733,7 @@ INSERT INTO `netem_full_list` VALUES (4856, 4, 'enclosure', '围墙、附件', N
 
 INSERT INTO `netem_full_list` VALUES (4857, 4, 'farewell', '告别', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4858, 4, 'fling', '投、投掷', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (4858, 4, 'fling', '投掷', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4859, 4, 'fluent', '流利的', NULL, 'communication');
 
