@@ -10427,7 +10427,7 @@ INSERT INTO `netem_full_list` VALUES (5203, 1, 'culprit', '罪犯', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5204, 1, 'giggle', '咯咯地笑、咯咯笑', NULL, 'people: actions');
 
-INSERT INTO `netem_full_list` VALUES (5205, 1, 'interim', '临时的、暂时的', NULL, NULL);
+INSERT INTO `netem_full_list` VALUES (5205, 1, 'interim', '临时的', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (5206, 1, 'lame', '痛的', NULL, NULL);
 
