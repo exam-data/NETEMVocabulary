@@ -10591,7 +10591,7 @@ INSERT INTO `netem_full_list` VALUES (5285, 1, 'paw', '爪子', NULL, 'animals')
 
 INSERT INTO `netem_full_list` VALUES (5286, 1, 'peanut', '花生', NULL, 'food and drink');
 
-INSERT INTO `netem_full_list` VALUES (5287, 1, 'pillow', '枕', NULL, 'homes and buildings');
+INSERT INTO `netem_full_list` VALUES (5287, 1, 'pillow', '枕、枕头', NULL, 'homes and buildings');
 
 INSERT INTO `netem_full_list` VALUES (5288, 1, 'porcelain', '瓷', NULL, NULL);
 
