@@ -9607,7 +9607,7 @@ INSERT INTO `netem_full_list` VALUES (4793, 4, 'hen', '母鸡', NULL, NULL);
 
 INSERT INTO `netem_full_list` VALUES (4794, 4, 'intermittent', '断断续续的', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (4795, 4, 'jaw', '下巴、颚', NULL, 'body and health');
+INSERT INTO `netem_full_list` VALUES (4795, 4, 'jaw', '下巴', NULL, 'body and health');
 
 INSERT INTO `netem_full_list` VALUES (4796, 4, 'pepper', '辣椒', NULL, 'food and drink');
 
