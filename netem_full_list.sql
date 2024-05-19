@@ -10247,7 +10247,7 @@ INSERT INTO `netem_full_list` VALUES (5113, 2, 'bandage', '绷带', NULL, 'body 
 
 INSERT INTO `netem_full_list` VALUES (5114, 2, 'bark', '树皮', NULL, 'communication');
 
-INSERT INTO `netem_full_list` VALUES (5115, 2, 'best', '最', NULL, 'describing things');
+INSERT INTO `netem_full_list` VALUES (5115, 2, 'best', '最、最好的', NULL, 'describing things');
 
 INSERT INTO `netem_full_list` VALUES (5116, 2, 'bibliography', '参考书目', NULL, NULL);
 
