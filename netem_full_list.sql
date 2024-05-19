@@ -10729,7 +10729,7 @@ INSERT INTO `netem_full_list` VALUES (5354, 0, 'Christmas', '圣诞节', NULL, N
 
 INSERT INTO `netem_full_list` VALUES (5355, 0, 'cigaret', '香烟', 'cigarette', NULL);
 
-INSERT INTO `netem_full_list` VALUES (5356, 0, 'civilise', '使文明', 'civilize', NULL);
+INSERT INTO `netem_full_list` VALUES (5356, 0, 'civilise', '文明', 'civilize', NULL);
 
 INSERT INTO `netem_full_list` VALUES (5357, 0, 'clockwise', '顺时针方向地', 'clockwize', NULL);
 
