@@ -10047,7 +10047,7 @@ INSERT INTO `netem_full_list` VALUES (5013, 3, 'humidity', '湿度', NULL, NULL)
 
 INSERT INTO `netem_full_list` VALUES (5014, 3, 'hurl', '用力投掷、丢下', NULL, NULL);
 
-INSERT INTO `netem_full_list` VALUES (5015, 3, 'icon', '偶像', NULL, 'technology');
+INSERT INTO `netem_full_list` VALUES (5015, 3, 'icon', '偶像、图标', NULL, 'technology');
 
 INSERT INTO `netem_full_list` VALUES (5016, 3, 'intelligible', '可理解的', NULL, NULL);
 
