@@ -1,3 +1,2 @@
 python-docx
 pymysql
-beautifulsoup4
