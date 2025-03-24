@@ -17,3 +17,5 @@
 去 [Release 页面](https://github.com/exam-data/NETEMVocabulary/releases)下载 PDF 版本。
 
 如果想自行生成，请参阅[文档](https://github.com/exam-data/scripts-docs/blob/main/docs/how-to-generate-docs.md)。
+
+单词记忆小程序正在开发中，见 https://github.com/exam-data/worpeed.
