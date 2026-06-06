@@ -20,7 +20,7 @@ original_doc = ""
 updated_doc = "updated_doc.docx"
 
 # json 文件位置
-jsonFile = "../../netem.json"
+jsonFile = "../../netem_full_list.json"
 
 # 数据库表和实际使用的列名的映射
 column_list = [
@@ -28,7 +28,9 @@ column_list = [
     {"column_name": "词频", "table_column": "frequency"},
     {"column_name": "单词", "table_column": "word"},
     {"column_name": "释义", "table_column": "definition"},
-    {"column_name": "其他拼写", "table_column": "variant"}
+    {"column_name": "其他拼写", "table_column": "variant"},
+    {"column_name": "分类", "table_column": "category"},
+    {"column_name": "子分类", "table_column": "subcategory"}
 ]
 
 # 处理的数据库表名

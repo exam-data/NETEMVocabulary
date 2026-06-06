@@ -10,7 +10,7 @@
 
 每个单词有其他拼写（即考纲当中有多种写法的单词）的，一并列出，以保证原始数据的准确性。目前根据[这个数据](https://github.com/awxiaoxian2020/spelling-variations/blob/dev/src/bydictionary.json)进行了初步填充。有空再和考纲校对。
 
-[netem_full_list.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.json) 里面存储了所有的数据。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.sql)。
+[netem_full_list.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.json) 里面存储了所有的数据，字段包括 `序号`、`词频`、`单词`、`释义`、`其他拼写`、`分类`、`子分类`。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.sql)。
 
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/exam-data/NETEMVocabulary/blob/master/LICENSE-CODE).
 
