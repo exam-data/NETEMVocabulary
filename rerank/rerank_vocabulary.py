@@ -289,6 +289,7 @@ def main():
             '单词': entry['单词'],
             '释义': entry['释义'],
             '其他拼写': entry['其他拼写'],
+            '分类名称': entry.get('分类名称'),
             'CEFR等级': entry['_cefr'],
             '学术词汇': entry['_is_nawl'],
             '高级词汇': entry['_is_c1c2'],
@@ -345,6 +346,7 @@ def main():
             '单词': entry['单词'],
             '释义': entry['释义'],
             '其他拼写': entry['其他拼写'],
+            '分类名称': entry.get('分类名称'),
         })
     
     simple_file = base_path / "netem_reranked_simple.json"
