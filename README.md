@@ -25,6 +25,10 @@
 python3 rerank/rerank_vocabulary.py
 ```
 
+## 衍生数据
+
+- `netem_beyond_ks3000.json`（及同名 sql）：剔除《普通高中英语课程标准（2017 年版 2020 年修订）》课标 3000 词后剩余的 **2697** 个超课标词（含 `原序号` 回溯主表）。
+
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/exam-data/NETEMVocabulary/blob/master/LICENSE-CODE).
 
 去 [Release 页面](https://github.com/exam-data/NETEMVocabulary/releases)下载 PDF 版本。
