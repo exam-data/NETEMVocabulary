@@ -29,8 +29,7 @@ column_list = [
     {"column_name": "单词", "table_column": "word"},
     {"column_name": "释义", "table_column": "definition"},
     {"column_name": "其他拼写", "table_column": "variant"},
-    {"column_name": "分类", "table_column": "category"},
-    {"column_name": "子分类", "table_column": "subcategory"}
+    {"column_name": "分类名称", "table_column": "category"}
 ]
 
 # 处理的数据库表名
