@@ -10,7 +10,7 @@
 
 每个单词有其他拼写（即考纲当中有多种写法的单词）的，一并列出，以保证原始数据的准确性。目前根据[这个数据](https://github.com/awxiaoxian2020/spelling-variations/blob/dev/src/bydictionary.json)进行了初步填充。有空再和考纲校对。
 
-[netem_full_list.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.json) 里面存储了所有的数据，字段包括 `序号`、`词频`、`单词`、`释义`、`其他拼写`、`分类名称`（117 个语义主题分类）。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.sql)。
+[netem_full_list.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.json) 里面存储了所有的数据，字段包括 `序号`、`词频`、`单词`、`释义`、`其他拼写`、`分类名称`（117 个语义主题分类）、`CEFR等级`、`学术词汇`、`高级词汇`、`综合得分`（智能重排评分）、`例句`、`例句翻译`、`例句来源`（真题词摘自 2005–2023 真题词表并标注年份段落，其余为 AI 生成短句）。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.sql)。
 
 ## 智能重排
 
