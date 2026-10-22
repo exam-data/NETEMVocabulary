@@ -14,7 +14,12 @@
 
 ## 智能重排
 
-`netem_reranked.json` / `netem_reranked_simple.json` 是在词频基础上综合 CEFR 难度、学术词汇（NAWL）、高级词汇（C1/C2）的重排版本，更贴合学习优先级。重排算法与参考词表见 [rerank/](rerank/) 目录，可自行调整权重后重新生成：
+`netem_reranked.json` / `netem_reranked_simple.json`（及同名 sql）是在词频基础上综合 CEFR 难度、学术词汇（NAWL）、高级词汇（C1/C2）的重排版本，更贴合学习优先级：
+
+- **simple 版**：字段与 `netem_full_list.json` 完全对齐（`序号`、`词频`、`单词`、`释义`、`其他拼写`、`分类名称`），可直接替换使用
+- **完整版**：在 simple 版字段之上增加 `原序号`、`CEFR等级`、`学术词汇`、`高级词汇`、`综合得分`，供分析与调参
+
+重排算法与参考词表见 [rerank/](rerank/) 目录，可自行调整权重后重新生成：
 
 ```bash
 python3 rerank/rerank_vocabulary.py
