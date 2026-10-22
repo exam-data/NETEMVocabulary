@@ -12,6 +12,14 @@
 
 [netem_full_list.json](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.json) 里面存储了所有的数据，字段包括 `序号`、`词频`、`单词`、`释义`、`其他拼写`、`分类名称`（117 个语义主题分类）。也已转换成 [sql 文件](https://github.com/exam-data/NETEMVocabulary/blob/master/netem_full_list.sql)。
 
+## 智能重排
+
+`netem_reranked.json` / `netem_reranked_simple.json` 是在词频基础上综合 CEFR 难度、学术词汇（NAWL）、高级词汇（C1/C2）的重排版本，更贴合学习优先级。重排算法与参考词表见 [rerank/](rerank/) 目录，可自行调整权重后重新生成：
+
+```bash
+python3 rerank/rerank_vocabulary.py
+```
+
 本仓库数据基于 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 共享，程序基于 [MIT License](https://github.com/exam-data/NETEMVocabulary/blob/master/LICENSE-CODE).
 
 去 [Release 页面](https://github.com/exam-data/NETEMVocabulary/releases)下载 PDF 版本。
