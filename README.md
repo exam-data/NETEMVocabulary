@@ -29,4 +29,4 @@ python3 rerank/rerank_vocabulary.py
 
 去 [Release 页面](https://github.com/exam-data/NETEMVocabulary/releases)下载 PDF 版本。
 
-如果想自行生成，请参阅[文档](https://github.com/exam-data/scripts-docs/blob/main/docs/how-to-generate-docs.md)。
+词表浏览器与生成工具（导出 Word / SQL 互转 / WPS 宏）已统一迁移至 [vocabulary-tools](https://github.com/exam-data/vocabulary-tools) 仓库，本仓库只保留数据。
