@@ -1,0 +1,59 @@
+{
+  "说明": "所有路径相对于仓库根目录。JSON 为阅读与处理入口，SQL 为对应的 MySQL 导入文件。",
+  "datasets": [
+    {
+      "id": "full",
+      "name": "完整词表（词频顺序）",
+      "count": 5530,
+      "json": "netem_full_list.json",
+      "list_key": "5530考研词汇词频排序表",
+      "sql": "data/sql/netem_full_list.sql",
+      "table": "netem_full_list"
+    },
+    {
+      "id": "reranked",
+      "name": "完整词表（智能重排）",
+      "count": 5530,
+      "json": "netem_reranked.json",
+      "list_key": "词汇表",
+      "sql": "data/sql/netem_reranked.sql",
+      "table": "netem_reranked"
+    },
+    {
+      "id": "beyond",
+      "name": "高中课标以外词汇",
+      "count": 2697,
+      "json": "netem_beyond_ks3000.json",
+      "list_key": "考研超课标词表（课标3000以外）",
+      "sql": "data/sql/netem_beyond_ks3000.sql",
+      "table": "netem_beyond_ks3000"
+    },
+    {
+      "id": "beyond-reranked",
+      "name": "高中课标以外词汇（智能重排）",
+      "count": 2697,
+      "json": "netem_beyond_ks3000_reranked.json",
+      "list_key": "词汇表",
+      "sql": "data/sql/netem_beyond_ks3000_reranked.sql",
+      "table": "netem_beyond_ks3000_reranked"
+    },
+    {
+      "id": "core",
+      "name": "真题核心词汇（词频顺序）",
+      "count": 3050,
+      "json": "data/core/netem_core.json",
+      "list_key": "考研真题核心词汇词频排序表",
+      "sql": "data/sql/netem_core.sql",
+      "table": "netem_core"
+    },
+    {
+      "id": "core-reranked",
+      "name": "真题核心词汇（智能重排）",
+      "count": 3050,
+      "json": "data/core/netem_core_reranked.json",
+      "list_key": "词汇表",
+      "sql": "data/sql/netem_core_reranked.sql",
+      "table": "netem_core_reranked"
+    }
+  ]
+}

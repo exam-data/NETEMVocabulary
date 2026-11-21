@@ -4,3 +4,8 @@
 *.pdf
 __pycache__/
 .history
+.DS_Store
+*.py[cod]
+.venv/
+output/
+tmp/
